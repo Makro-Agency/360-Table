@@ -344,13 +344,17 @@
     "stainless_steel_pan_CcPLF7": {
       "type": "stainless-steel-pan",
       "settings": {
+        "desktop_image": "shopify://shop_images/15_piece_set_1_057a7bdc-8dc3-41b9-94f4-10d3d5caf9ec.png",
+        "mobile_image": "shopify://shop_images/15_piece_set_1_1.png",
         "videowise": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_6707f7daf223e100294bf198\"></div>",
         "image_alt_text": "",
         "subtitle_text": "Cook confidently for years to come",
+        "review_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_2.png",
         "review_message": "\"Love that it's non-toxic materials. We use it daily for almost everything. Worth every penny.\"",
         "author_name": "Ms. L",
         "verification_text": "Verified Buyer",
         "custom_heading_text": "\"First time ordering and using 360 and I'm in love. It heats so well. It's beautiful and heavy duty. It cooks in no time. \"",
+        "author_image_2": "shopify://shop_images/auther-image2_e70531dc-ab78-41fe-bd8e-635ecbb63a0b.webp",
         "author_name_2": "Alex",
         "verification_text_2": "Verified Buyer",
         "testimonial_text": "",
@@ -369,6 +373,7 @@
         "image_with_text_YbYCbe": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Image_3_f42ece0d-4aae-4f1e-a9e1-02198441171e.png",
             "title": "Cookware",
             "text": "Experience superior stovetop performance with our Vapor® Technology-enabled stainless steel cookware.",
             "link": "shopify://collections/360-cookware",
@@ -378,6 +383,7 @@
         "image_with_text_MqF7KK": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/IMG_2394.png",
             "title": "Bakeware",
             "text": "Achieve bakery-worthy results with our durable bakeware, designed for even heat distribution and perfect outcomes every time.",
             "link": "shopify://collections/360-bakeware",
@@ -387,6 +393,7 @@
         "image_with_text_JFAVYi": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Image_4_50f5861a-ff07-4730-813a-8908cbc3d32c.png",
             "title": "Tools & Accessories",
             "text": "Enhance your cooking with our high-quality utensils and accessories, designed for functionality and precision to complement your 360 Cookware.",
             "link": "shopify://collections/accessories",
@@ -396,6 +403,7 @@
         "image_with_text_DgJVkn": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Food-0005.png",
             "title": "Save on Sets",
             "text": "Upgrade your kitchen with our thoughtfully curated sets, offering everything you need for a complete cooking experience with great value.",
             "link": "shopify://collections/sets-1",
