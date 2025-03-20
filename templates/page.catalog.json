@@ -114,6 +114,8 @@
         "image_text_nTz7be": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-4.png",
+            "mobileimage": "shopify://shop_images/catalog-product-4-mobile.png",
             "title": "Save on Sets",
             "details": "Comprehensive USA-made stainless steel sets for lasting kitchen quality.",
             "buttondesktop": "Shop Sets",
