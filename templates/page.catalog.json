@@ -101,6 +101,8 @@
         "image_text_tg9VMK": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-2.png",
+            "mobileimage": "shopify://shop_images/catalog-product-2-mobile.png",
             "title": "Bakeware",
             "details": "Professional-grade USA-crafted stainless steel bakeware for superior results.",
             "buttondesktop": "Shop Bakeware",
