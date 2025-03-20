@@ -954,6 +954,8 @@
           "days-store": "365",
           "lyt": "lyt2",
           "klaviyoListId2": "uaEDH8",
+          "img": "shopify://shop_images/popup-image.png",
+          "mob-img": "shopify://shop_images/popup-image-mob.png",
           "with-img": true,
           "title": "Subscribe for 15% off",
           "des": "Elevate your culinary game with our most popular pots, pans, and kitchen essentials.",
