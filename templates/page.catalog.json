@@ -127,6 +127,8 @@
         "image_text_JzXXnB": {
           "type": "image-text",
           "settings": {
+            "image": "shopify://shop_images/catalog-product-3.png",
+            "mobileimage": "shopify://shop_images/catalog-product-3-mobile.png",
             "title": "Tools & Accessories",
             "details": "Meticulously crafted American stainless steel tools to enhance cooking.",
             "buttondesktop": "Shop Tools <span class=\"desktop_none\">& Accessories</span>",
