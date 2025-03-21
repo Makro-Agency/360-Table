@@ -78,6 +78,7 @@
         "text_wgfhNf": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_2_2.png",
             "title": "Sophie Uliano",
             "details": "",
             "url": ""
@@ -86,6 +87,7 @@
         "text_KRaN6D": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_3_4.png",
             "title": "We Care Spa",
             "details": "",
             "url": ""
@@ -94,6 +96,7 @@
         "text_jWhYnn": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_3_5.png",
             "title": "Spork Foods",
             "details": "",
             "url": ""
@@ -102,6 +105,7 @@
         "text_bAe4pX": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_2_3.png",
             "title": "Dr. Davinah",
             "details": "",
             "url": ""
@@ -110,6 +114,7 @@
         "text_iEJGw4": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_3_6.png",
             "title": "Vincent Pedre, M.D.",
             "details": "",
             "url": ""
@@ -118,6 +123,7 @@
         "text_hgHXEK": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Rectangle_3_7.png",
             "title": "The Gourmandise Cooking School",
             "details": "",
             "url": ""
