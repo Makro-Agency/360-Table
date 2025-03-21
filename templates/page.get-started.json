@@ -537,7 +537,7 @@
         "main_heading": "Recipe Starter Pack",
         "banner_heading": "Cook Like a Pro",
         "banner_description": "",
-        "banner_link": "shopify://blogs/recipes",
+        "banner_link": "shopify://pages/recipes",
         "banner_button_text": "See More Recipes"
       }
     },
