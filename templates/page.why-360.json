@@ -186,6 +186,7 @@
         "benefit_YwWcJA": {
           "type": "benefit",
           "settings": {
+            "icon": "shopify://shop_images/trophy_2.svg",
             "benefit_text": "Precision Control"
           }
         }
