@@ -208,7 +208,7 @@
         "button_link": "shopify://pages/catalog",
         "cover_image": "shopify://shop_images/e52f4fccd82582-ML312646878_jpg.webp",
         "product_link_text": "View Products",
-        "product_link": "shopify://collections/360s-essentials"
+        "product_link": "shopify://collections/collection-demo"
       }
     },
     "health_section_RmCBrH": {
@@ -266,7 +266,7 @@
         "title": "Prioritize Your Family's Wellbeing",
         "description": "360 Cookware sets the gold standard for safe, health-conscious cooking. Our commitment to non-toxic materials ensures peace of mind with every meal.",
         "cta_text": "Learn more about PFAS & healthier cooking options",
-        "cta_link": "https://www.360cookware.com/blogs/360-cookware-blog/360-cookware-blog-non-toxic-cookware-safe-eating",
+        "cta_link": "shopify://blogs/recipes/philly-cheesesteak-sliders-test-blog",
         "review_text": "“My son loves these pans and I feel so much better knowing he’s not cooking on toxic materials!”",
         "client_name": "Jennifer",
         "client_title": "Verified Buyer",
@@ -344,28 +344,28 @@
         "collection_CnpjAp": {
           "type": "collection",
           "settings": {
-            "collection": "all-1",
+            "collection": "collection-demo",
             "collection_title": "Sauté Pans"
           }
         },
         "collection_LPNCJw": {
           "type": "collection",
           "settings": {
-            "collection": "sets",
+            "collection": "collection-demo",
             "collection_title": "Cookware Sets"
           }
         },
         "collection_fARNby": {
           "type": "collection",
           "settings": {
-            "collection": "fry-pans",
+            "collection": "collection-demo",
             "collection_title": "Fry Pans"
           }
         },
         "collection_hwm77A": {
           "type": "collection",
           "settings": {
-            "collection": "sauce-pans",
+            "collection": "collection-demo",
             "collection_title": "Saucepans"
           }
         }
