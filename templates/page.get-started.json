@@ -553,28 +553,28 @@
         "collection_cNkk4M": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
+            "collection": "collection-demo",
             "collection_title": "Sauté Pans"
           }
         },
         "collection_QjTQCP": {
           "type": "collection",
           "settings": {
-            "collection": "sets",
+            "collection": "collection-demo",
             "collection_title": "Cookware Sets"
           }
         },
         "collection_nDcwG8": {
           "type": "collection",
           "settings": {
-            "collection": "bakeware",
+            "collection": "collection-demo",
             "collection_title": "Fry Pans"
           }
         },
         "collection_RGtfbM": {
           "type": "collection",
           "settings": {
-            "collection": "kitchen-craft-saucepans",
+            "collection": "collection-demo",
             "collection_title": "Saucepans"
           }
         }
