@@ -122,6 +122,7 @@
         "feature_media_j7QKNj": {
           "type": "feature-media",
           "settings": {
+            "icon": "shopify://shop_images/Frame.svg",
             "title": "Stainless Surgical Steel",
             "description": ""
           }
@@ -129,6 +130,7 @@
         "feature_media_z9aUNP": {
           "type": "feature-media",
           "settings": {
+            "icon": "shopify://shop_images/Capa_1_1.svg",
             "title": "Handcrafted in the U.S.A",
             "description": ""
           }
