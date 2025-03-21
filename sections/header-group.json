@@ -19,11 +19,11 @@
           "settings": {
             "announcement_message": "MADE IN THE USA WITH GLOBAL MATERIALS | WEST BEND WISCONSIN",
             "cta_text": "Shop Now",
-            "cta_link": "shopify://collections/360s-essentials",
+            "cta_link": "shopify://collections/collection-demo",
             "cta_color": "#ffffff",
             "announcement_message_2": "Elevate Your Kitchen: Discover Our Premium Cookware Sets",
             "cta_text_2": "Shop Now",
-            "cta_link_2": "shopify://collections/sets-1",
+            "cta_link_2": "shopify://collections/collection-demo",
             "announcement_message_3": "",
             "cta_text_3": "",
             "cta_link_3": ""
