@@ -57,7 +57,7 @@
             "mobile_image": "shopify://shop_images/hero-section-layout-first.webp",
             "slide_heading": "Elevate Your Culinary Experience with 360 Cookware",
             "slide_subtext": "Elevate Your Culinary Experience with 360 CookwareDiscover premium, American-made stainless steel cookware that revolutionizes your cooking for superior performance, healthier meals, and a lifetime of culinary excellence.",
-            "button_link": "shopify://collections/360s-essentials",
+            "button_link": "shopify://collections/collection-demo",
             "button_text": "Shop Now"
           }
         },
@@ -68,7 +68,7 @@
             "mobile_image": "shopify://shop_images/hero-section-layout42.webp",
             "slide_heading": "Elevate Your Culinary Experience with 360 Cookware",
             "slide_subtext": "Elevate Your Culinary Experience with 360 CookwareDiscover premium, American-made stainless steel cookware that revolutionizes your cooking for superior performance, healthier meals, and a lifetime of culinary excellence.",
-            "button_link": "shopify://collections/360s-essentials",
+            "button_link": "shopify://collections/collection-demo",
             "button_text": "Shop Now"
           }
         },
@@ -79,7 +79,7 @@
             "mobile_image": "shopify://shop_images/hero-section-layout42.webp",
             "slide_heading": "Elevate Your Culinary Experience with 360 Cookware",
             "slide_subtext": "Elevate Your Culinary Experience with 360 CookwareDiscover premium, American-made stainless steel cookware that revolutionizes your cooking for superior performance, healthier meals, and a lifetime of culinary excellence.",
-            "button_link": "shopify://collections/360s-essentials",
+            "button_link": "shopify://collections/collection-demo",
             "button_text": "Shop Now"
           }
         }
@@ -245,7 +245,7 @@
           "settings": {
             "banner_heading": "Cook Like a Pro",
             "banner_description": "Premium pots and pans for culinary mastery. Durable, efficient, and designed for perfection.",
-            "banner_link": "shopify://collections/360-cookware",
+            "banner_link": "shopify://collections/collection-demo",
             "banner_button_text": "Shop Cookware",
             "desktop_image": "shopify://shop_images/Frame_6229.png",
             "mobile_image": "shopify://shop_images/image-card-1-mob_adfd7a66-eabc-48fe-8560-c0685db526de.png"
@@ -313,7 +313,7 @@
           "settings": {
             "banner_heading": "Bake Like a Pro",
             "banner_description": "Premium bakeware for culinary mastery. Durable, efficient, and designed for baking perfection.",
-            "banner_link": "shopify://collections/360-bakeware",
+            "banner_link": "shopify://collections/collection-demo",
             "banner_button_text": "Shop Bakeware"
           }
         },
@@ -364,7 +364,7 @@
         "paragraph_description": "Our patented Vapor® Technology locks in flavors and nutrients. By creating a vapor seal, our cookware allows you to cook with less water and fat, resulting in tastier, healthier dishes that preserve the natural goodness of your ingredients.",
         "paragraph_description_2": "Our surgical-grade stainless steel construction ensures your 360 Cookware will last a lifetime. With our unconditional lifetime warranty, you're not just buying cookware; you're investing in a legacy of quality that will serve you for years to come.",
         "button_text": "Shop Now",
-        "button_url": "shopify://collections/360-cookware"
+        "button_url": "shopify://collections/collection-demo"
       }
     },
     "get_started_360_RpME7J": {
@@ -376,7 +376,7 @@
             "image": "shopify://shop_images/Image_3_f42ece0d-4aae-4f1e-a9e1-02198441171e.png",
             "title": "Cookware",
             "text": "Experience superior stovetop performance with our Vapor® Technology-enabled stainless steel cookware.",
-            "link": "shopify://collections/360-cookware",
+            "link": "shopify://collections/collection-demo",
             "link_text": "Shop Cookware"
           }
         },
@@ -386,7 +386,7 @@
             "image": "shopify://shop_images/IMG_2394.png",
             "title": "Bakeware",
             "text": "Achieve bakery-worthy results with our durable bakeware, designed for even heat distribution and perfect outcomes every time.",
-            "link": "shopify://collections/360-bakeware",
+            "link": "shopify://collections/collection-demo",
             "link_text": "Shop Bakeware"
           }
         },
@@ -396,7 +396,7 @@
             "image": "shopify://shop_images/Image_4_50f5861a-ff07-4730-813a-8908cbc3d32c.png",
             "title": "Tools & Accessories",
             "text": "Enhance your cooking with our high-quality utensils and accessories, designed for functionality and precision to complement your 360 Cookware.",
-            "link": "shopify://collections/accessories",
+            "link": "shopify://collections/collection-demo",
             "link_text": "Shop Tools & Accessories"
           }
         },
@@ -406,7 +406,7 @@
             "image": "shopify://shop_images/Food-0005.png",
             "title": "Save on Sets",
             "text": "Upgrade your kitchen with our thoughtfully curated sets, offering everything you need for a complete cooking experience with great value.",
-            "link": "shopify://collections/sets-1",
+            "link": "shopify://collections/collection-demo",
             "link_text": "Shop Sets"
           }
         }
@@ -501,7 +501,7 @@
         "title": "360 Fresh Start To A New Year",
         "description": "<p>Prepare for a season of heartwarming meals with our premium cookware sets. </p>",
         "btn_text": "Shop Now",
-        "url": "shopify://collections/sets",
+        "url": "shopify://collections/collection-demo",
         "BG_color": "#620606",
         "text_color": "#000000",
         "overlay_opacity": 0
@@ -514,7 +514,7 @@
         "description": "Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.",
         "collection": "360s-essentials",
         "button_text": "Shop All Bestsellers",
-        "button_link": "shopify://collections/360s-essentials",
+        "button_link": "shopify://collections/collection-demo",
         "button_enable": false,
         "noOfProduct": 25,
         "custom_class": ""
