@@ -95,7 +95,7 @@
             "buttondesktop": "Shop Cookware",
             "buttonmobile": "Shop Now",
             "product": "",
-            "link": "shopify://collections/360-cookware"
+            "link": "shopify://collections/collection-demo"
           }
         },
         "image_text_tg9VMK": {
@@ -108,7 +108,7 @@
             "buttondesktop": "Shop Bakeware",
             "buttonmobile": "Shop Now",
             "product": "",
-            "link": "shopify://collections/360-bakeware"
+            "link": "shopify://collections/collection-demo"
           }
         },
         "image_text_nTz7be": {
@@ -121,7 +121,7 @@
             "buttondesktop": "Shop Sets",
             "buttonmobile": "Shop Now",
             "product": "heart-cookie-cutter",
-            "link": "shopify://collections/sets-1"
+            "link": "shopify://collections/collection-demo"
           }
         },
         "image_text_JzXXnB": {
@@ -134,7 +134,7 @@
             "buttondesktop": "Shop Tools <span class=\"desktop_none\">& Accessories</span>",
             "buttonmobile": "Shop Now",
             "product": "",
-            "link": "shopify://collections/accessories"
+            "link": "shopify://collections/collection-demo"
           }
         },
         "image_text_R49VJk": {
@@ -200,7 +200,7 @@
         "title": "Cookware",
         "heading_size": "h1",
         "description": "<p>From sizzling stovetop stir-fries to slow-simmered Sunday sauces, our stainless steel pots and pans are built to last and designed to perform for home cooks and professional chefs alike.</p>",
-        "collection": "all-1",
+        "collection": "collection-demo",
         "btn_text": "shop alll",
         "btn_link": "",
         "products_to_show": 12,
@@ -258,7 +258,7 @@
         "title": "Bakeware",
         "heading_size": "h1",
         "description": "<p>Whether you're whipping up a quick batch of cookies or tackling a multi-tiered cake, our bakeware has your back.</p>",
-        "collection": "360-bakeware",
+        "collection": "collection-demo",
         "btn_text": "Shop All Bakeware",
         "btn_link": "#",
         "products_to_show": 4,
@@ -316,7 +316,7 @@
         "title": "Tools & Accessories",
         "heading_size": "h1",
         "description": "<p>The right tool can make all the difference in the kitchen. Our utensils and accessories are designed with the same attention to detail as our cookware!</p>",
-        "collection": "accessories",
+        "collection": "collection-demo",
         "btn_text": "Shop All Cookware",
         "btn_link": "",
         "products_to_show": 15,
@@ -374,7 +374,7 @@
         "title": "Save on Sets",
         "heading_size": "h1",
         "description": "<p>Embarking on a new culinary journey or upgrading your kitchen arsenal? Our carefully curated sets have you covered.</p>",
-        "collection": "sets-1",
+        "collection": "collection-demo",
         "btn_text": "Shop All Sets",
         "btn_link": "",
         "products_to_show": 4,
