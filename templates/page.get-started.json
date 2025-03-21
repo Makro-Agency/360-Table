@@ -510,11 +510,13 @@
           "settings": {
             "enable_video_looping": false,
             "video_url": "https://www.youtube.com/watch?v=WswLhc79_1g",
+            "cover_image": "shopify://shop_images/Image_25.png",
+            "cover_image_mobile": "shopify://shop_images/Image_25.png",
             "whatneed": "Whats You'll Need:",
             "time": "10 mins",
             "difficult": "Medium",
             "auther_message": "Baked Potatoes",
-            "prod": "10-freedom-skillet"
+            "prod": "maple-2-inch-condiment-cups"
           }
         },
         "image_block_q8pFnW": {
