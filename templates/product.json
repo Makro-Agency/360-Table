@@ -31,6 +31,12 @@
           "type": "price",
           "settings": {}
         },
+        "yotpo_product_reviews_star_rating_apkGiV": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -140,6 +146,7 @@
         "shortdetails_tUdhaq",
         "615c3fca-3aaf-48d4-8f98-70af55b3903e",
         "price",
+        "yotpo_product_reviews_star_rating_apkGiV",
         "variant_picker",
         "essentials_rJKBBL",
         "quantity_selector_g6FEyA",
