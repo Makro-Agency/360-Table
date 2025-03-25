@@ -198,6 +198,7 @@
       "block_order": [
         "yotpo_product_reviews_reviews_J8MzfU"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
