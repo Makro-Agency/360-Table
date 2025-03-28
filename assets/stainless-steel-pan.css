@@ -1,5 +1,5 @@
 .stainless-steel-pan {
-  background: #faf5eb;
+  background: #F7F9FA;
   padding-left: 125px;
   padding-right: 280px;
   padding-top: 150px;
@@ -21,6 +21,7 @@
   z-index: 0;
   top: 0;
   mix-blend-mode: multiply;
+  opacity: 0;
 }
 .image-wrapper {
   position: relative;
@@ -75,13 +76,15 @@
   line-height: 150%;
 }
 .pan_review .auther-verification {
-  font-size: 12px;
-  line-height: 150%;
-  font-weight: 600;
-  color: #a6bb3a;
+  color: #00406E;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
 }
 .pan_review.review2 .auther-verification {
-  color: #606d22;
+  color: #00406E;
 }
 
 .pan_review .auther-message .heading {
@@ -104,17 +107,19 @@
   width: 100%;
 }
 .image-wrapper .subtitle {
-  font-family: "Hurricane";
-  font-size: 32px;
-  line-height: 100%;
-  color: #606d22;
   position: absolute;
-  right: auto;
-  max-width: 188px;
-  text-align: center;
-  transform: rotate(-10deg);
-  left: 14.75%;
-  bottom: -8.33%;
+    right: auto;
+    max-width: 188px;
+    transform: rotate(-10deg);
+    left: 14.75%;
+    bottom: -8.33%;
+    color: #00406E;
+    text-align: center;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
 }
 .pan_review.review3 {
   max-width: 264px;
@@ -127,21 +132,27 @@
   gap: 20px;
 }
 .pan_review.review4 {
-  background: #a6bb3a;
+  background: #B2C0CA;
   padding: 10px 15px;
   top: 16.79%;
   right: calc(28.66% + 4.63% + 2rem);
   z-index: 1;
 }
 .pan_review.review4 .heading {
-  font-family: "Proxima Nova";
-  color: #fcfbf7;
-  font-weight: 700;
-  font-size: 16px;
+  color: #FFF;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%;
 }
 .pan_review.review4 .heading.h3 {
-  font-weight: 600;
-  font-size: 14px;
+  color: #FFF;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
 }
 @media only screen and (max-width: 1850px) {
   .stainless-steel-pan {

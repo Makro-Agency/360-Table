@@ -97,14 +97,14 @@
         "layout": "layout_1",
         "has_first_section": true,
         "videowise": "",
-        "hero_image": "shopify://shop_images/thumbnail_image002_1.jpg",
+        "hero_image": "shopify://shop_images/Full_Bleed_Image_Hero.jpg",
         "hero_image_alt": "hero_image_alt",
         "heading": "Crystal-Clear Solutions for Everyday Living",
         "subtext": "Just like the over 70,000 kitchens we've already transformed, we believe in the power of quality tools to turn your home into the best seat in town.",
         "button_link": "shopify://collections/collection-demo",
         "button_text": "Shop Now",
-        "layout_2_image_desktop": "shopify://shop_images/hero-section-layout-first.webp",
-        "layout_2_image_mobile": "shopify://shop_images/hero-section-layout-first.webp",
+        "layout_2_image_desktop": "shopify://shop_images/Frame_6123-2.jpg",
+        "layout_2_image_mobile": "shopify://shop_images/Frame_6123-2.jpg",
         "layout_4_image_desktop_1": "shopify://shop_images/hero-section-layout41.webp",
         "layout_4_image_desktop_2": "shopify://shop_images/hero-section-layout42.webp",
         "layout_4_heading": "Welcome to 360 Cookware, where every dish is a masterpiece",
@@ -305,16 +305,20 @@
             "banner_heading": "Cook Like a Pro",
             "banner_description": "Premium pots and pans for culinary mastery. Durable, efficient, and designed for perfection.",
             "banner_link": "shopify://collections/cookware",
-            "banner_button_text": "Shop Cookware"
+            "banner_button_text": "Shop Cookware",
+            "desktop_image": "shopify://shop_images/image_2.png",
+            "mobile_image": "shopify://shop_images/image_2-1.png"
           }
         },
         "banner_MTCixE": {
           "type": "banner",
           "settings": {
             "banner_heading": "Bake Like a Pro",
-            "banner_description": "Premium bakeware for culinary mastery. Durable, efficient, and designed for baking perfection.",
+            "banner_description": "Top-tier baking essentials. Precision-crafted for consistently delicious results.",
             "banner_link": "shopify://collections/collection-demo",
-            "banner_button_text": "Shop Bakeware"
+            "banner_button_text": "Shop Bakeware",
+            "desktop_image": "shopify://shop_images/bake-it-happen.png",
+            "mobile_image": "shopify://shop_images/bake-it-happen-1.png"
           }
         },
         "videowise_xUHGmi": {
@@ -349,20 +353,21 @@
         "videowise": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_6707f7daf223e100294bf198\"></div>",
         "image_alt_text": "",
         "subtitle_text": "Cook confidently for years to come",
-        "review_image": "shopify://shop_images/reviews_64e638d0-51f8-451c-a82a-1fcdda2e389c_2.png",
-        "review_message": "\"Love that it's non-toxic materials. We use it daily for almost everything. Worth every penny.\"",
-        "author_name": "Ms. L",
+        "review_image": "shopify://shop_images/Frame_6176.png",
+        "review_message": "Great cookware, makes the food amazing! Easy to clean! Love it!",
+        "author_image": "shopify://shop_images/photo_middle_age_woman_avatar.png",
+        "author_name": "Eileen M.",
         "verification_text": "Verified Buyer",
-        "custom_heading_text": "\"First time ordering and using 360 and I'm in love. It heats so well. It's beautiful and heavy duty. It cooks in no time. \"",
+        "custom_heading_text": "Fabulous company that stands behind its products. We have purchased a couple of pans and will be getting more!",
         "author_image_2": "shopify://shop_images/auther-image2_e70531dc-ab78-41fe-bd8e-635ecbb63a0b.webp",
-        "author_name_2": "Alex",
-        "verification_text_2": "Verified Buyer",
+        "author_name_2": "Alan B.",
+        "verification_text_2": "Professional Chef",
         "testimonial_text": "",
         "reviews_number": "7,000+",
         "reviews_heading": "5-Star Reviews",
-        "main_heading_text": "Cook Smarter,<br>\nEat Healthier",
-        "paragraph_description": "Our patented Vapor® Technology locks in flavors and nutrients. By creating a vapor seal, our cookware allows you to cook with less water and fat, resulting in tastier, healthier dishes that preserve the natural goodness of your ingredients.",
-        "paragraph_description_2": "Our surgical-grade stainless steel construction ensures your 360 Cookware will last a lifetime. With our unconditional lifetime warranty, you're not just buying cookware; you're investing in a legacy of quality that will serve you for years to come.",
+        "main_heading_text": "Meet Best in Class<br> Stainless Steel Pan",
+        "paragraph_description": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per aliquet odio conubia nostra.",
+        "paragraph_description_2": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent.",
         "button_text": "Shop Now",
         "button_url": "shopify://collections/collection-demo"
       }
@@ -373,9 +378,9 @@
         "image_with_text_YbYCbe": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Image_3_f42ece0d-4aae-4f1e-a9e1-02198441171e.png",
+            "image": "shopify://shop_images/get-start-1.png",
             "title": "Cookware",
-            "text": "Experience superior stovetop performance with our Vapor® Technology-enabled stainless steel cookware.",
+            "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/collection-demo",
             "link_text": "Shop Cookware"
           }
@@ -383,9 +388,9 @@
         "image_with_text_MqF7KK": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/IMG_2394.png",
+            "image": "shopify://shop_images/get-start-2.png",
             "title": "Bakeware",
-            "text": "Achieve bakery-worthy results with our durable bakeware, designed for even heat distribution and perfect outcomes every time.",
+            "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/collection-demo",
             "link_text": "Shop Bakeware"
           }
@@ -393,9 +398,9 @@
         "image_with_text_JFAVYi": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Image_4_50f5861a-ff07-4730-813a-8908cbc3d32c.png",
+            "image": "shopify://shop_images/get-start-3.png",
             "title": "Tools & Accessories",
-            "text": "Enhance your cooking with our high-quality utensils and accessories, designed for functionality and precision to complement your 360 Cookware.",
+            "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/collection-demo",
             "link_text": "Shop Tools & Accessories"
           }
@@ -403,9 +408,9 @@
         "image_with_text_DgJVkn": {
           "type": "image-with-text",
           "settings": {
-            "image": "shopify://shop_images/Food-0005.png",
+            "image": "shopify://shop_images/get-start-4.png",
             "title": "Save on Sets",
-            "text": "Upgrade your kitchen with our thoughtfully curated sets, offering everything you need for a complete cooking experience with great value.",
+            "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/collection-demo",
             "link_text": "Shop Sets"
           }
@@ -496,10 +501,10 @@
     "makro_text_banner_KBAPgt": {
       "type": "makro-text-banner",
       "settings": {
-        "image": "shopify://shop_images/banner-bg-desk.png",
-        "image_mobile": "shopify://shop_images/text-banner-mob.png",
-        "title": "360 Fresh Start To A New Year",
-        "description": "<p>Prepare for a season of heartwarming meals with our premium cookware sets. </p>",
+        "image": "shopify://shop_images/Frame_5643.jpg",
+        "image_mobile": "shopify://shop_images/unleash-2.jpg",
+        "title": "Unleash Your Inner Chef",
+        "description": "<p>Transform every home-cooked meal into a gourmet experience with 360 Cookware. Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.</p>",
         "btn_text": "Shop Now",
         "url": "shopify://collections/collection-demo",
         "BG_color": "#620606",
@@ -512,7 +517,7 @@
       "settings": {
         "title": "360 Bestsellers",
         "description": "Our high-quality tools empower you to reach your culinary potential and delight your loved ones with flawless dishes.",
-        "collection": "360s-essentials",
+        "collection": "collection-demo",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
         "button_enable": false,
@@ -571,15 +576,15 @@
         "faq_dfzCH7": {
           "type": "faq",
           "settings": {
-            "que": "Is 360 Cookware safe and non-toxic?",
-            "ans": "<p>Absolutely. Our cookware is crafted from surgical-grade stainless steel, which is 100% non-toxic and free from harmful chemicals or coatings. This means you can cook with confidence, knowing that no unwanted substances will leach into your food, even at high temperatures. At 360 Cookware, we prioritize your health and safety. Our commitment to using only the highest quality materials extends beyond performance to ensure that every meal you prepare is as safe as it is delicious. This dedication to non-toxic cooking aligns with our mission to provide cookware that contributes to a healthier lifestyle for you and your family.</p>",
+            "que": "Dolor sit amet, consectetur elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>",
             "ans1": ""
           }
         },
         "faq_BKDgH4": {
           "type": "faq",
           "settings": {
-            "que": "Will Your Cookware Work On Induction Stovetops?",
+            "que": "Class aptent taciti sociosqu?",
             "ans": "<p>Yes, all our cookware will work on induction stovetops. Our bakeware will not though.</p>",
             "ans1": ""
           }
@@ -587,7 +592,7 @@
         "faq_cpehEx": {
           "type": "faq",
           "settings": {
-            "que": "Is 360 Cookware Built To Last?",
+            "que": "Korem ipsum dolor sit amet, consectetur adipiscing elit?",
             "ans": "<p>Absolutely! 360 Cookware comes with a <a href=\"https://www.360cookware.com/pages/lifetime-warranty\"><span style=\"text-decoration:underline\">lifetime warranty</span></a>. While standard cookware may wear out in about 10 years, we commonly receive letters from happy customers who have been using their cookware daily for 40 years or more.</p>",
             "ans1": ""
           }
@@ -595,7 +600,7 @@
         "faq_dzMyyp": {
           "type": "faq",
           "settings": {
-            "que": "Can I Put 360 Stainless Steel Cookware And Bakeware In The Oven?",
+            "que": "Dolor sit amet, consectetur elit?",
             "ans": "<p>360 Cookware is oven safe up to 500º.</p>",
             "ans1": ""
           }
@@ -603,9 +608,9 @@
         "bottom_block_xrUDX8": {
           "type": "bottom-block",
           "settings": {
-            "icon": "shopify://shop_images/Frame_6175_1_07dc6754-06a0-4767-ac3f-7e67e0736472.svg",
+            "icon": "shopify://shop_images/Frame_6175.svg",
             "title": "Product Care Guide",
-            "des": "<p>Learn how to properly use and maintain your cookware for optimal performance and longevity.</p>",
+            "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
             "link": "shopify://pages/use-care-guide"
           }
@@ -613,7 +618,7 @@
         "bottom_block_tYrWFy": {
           "type": "bottom-block",
           "settings": {
-            "icon": "shopify://shop_images/Frame_6175_2.svg",
+            "icon": "shopify://shop_images/Frame_6175-2.svg",
             "title": "Explore the Catalog",
             "des": "<p>Discover our full range of cookware, bakeware, and accessories to complete your kitchen setup.</p>",
             "btn-text": "Explore Now",
@@ -623,7 +628,7 @@
         "bottom_block_fUtX9T": {
           "type": "bottom-block",
           "settings": {
-            "icon": "shopify://shop_images/Frame_6175_3.svg",
+            "icon": "shopify://shop_images/Frame_6175-3.svg",
             "title": "Articles & Recipes",
             "des": "<p>Unlock your cooking potential with expert tips, tricks, and delicious recipes tailored for 360 Cookware.</p>",
             "btn-text": "Explore Now",
@@ -641,10 +646,10 @@
         "bottom_block_fUtX9T"
       ],
       "settings": {
-        "title": "Your Guide to Culinary Confidence",
-        "des": "Find answers, explore tips, and discover the full potential of your 360 Cookware.",
-        "heading": "Talk to an Expert",
-        "description": "Have more questions or need personalized advice? Our team of cookware specialists is here to help you make the best choice for your kitchen. ",
+        "title": "Resources & Help",
+        "des": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
+        "heading": "Need Help to Get Started?",
+        "description": "Praesent auctor purus luctus, ac scelerisque ante pulvinar. Class aptent taciti sociosqu ad litora.",
         "button_text": "Contact Us",
         "button_link": "shopify://pages/contact-us"
       }
@@ -744,14 +749,14 @@
       "type": "home-blog-post",
       "settings": {
         "title": "Articles & Recipes",
-        "description": "Discover the joy of cooking with our expert tips, mouthwatering recipes, and reviews of the finest pots, pans, and kitchen gadgets to elevate your culinary adventures. Copy",
+        "description": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
         "link_text": "Blog Articles",
         "link_url": "",
         "recipe_link_text": "Selected Recipes",
         "blog": "360-cookware-blog",
         "blog_recepie": "recipes",
-        "post_limit": 3,
-        "columns_desktop": 3,
+        "post_limit": 4,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_image": true,
         "show_date": false,

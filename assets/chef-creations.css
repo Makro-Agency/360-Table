@@ -122,15 +122,12 @@
 
     
   .chef-section  .main_heading{
-      color: #000;
-      font-family: Cellofy;
-      font-size: 40px;
-      font-style: normal;
-      font-weight: 600;
-      line-height: 100%;
-      letter-spacing: -0.8px;
-    margin-bottom:30px; 
-     /* max-width:40rem;  */
+    color: #00203F;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%;
+    letter-spacing: -0.8px;
     }
   .chef-section  .banner-group-wrapper p.desc{
       margin-bottom:20px;
