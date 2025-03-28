@@ -29,7 +29,7 @@ a:hover{
     color: #c3d957 !important;
 }
 .link.makro--link{
-    font-weight: 600;
+    font-weight: 500;
     line-height: 100%;
     margin-top: 10px;
     border: none;
@@ -38,6 +38,7 @@ a:hover{
     align-items: center;
     gap: 5px;
     text-decoration: none;
+    
 }
 .image-width-text-header .link.makro--link{
    margin-top: 5px;
@@ -63,7 +64,7 @@ a:hover{
 }
 /* heading */
 .insta-heading a{
-   color:#606D22;
+  color: #00406E;
 }
 .service-content:hover .main_heading{
      color:#c3d957 !important;
@@ -112,7 +113,7 @@ a:hover{
 .auther-content .right-arrow,
 .swiper-button-div .swiper-button-prev,
 .swiper-button-div .swiper-button-next{
-    background-color: #606d22;
+  background-color: #00406E;
     color: #fcfbf7;
     border-radius: 100px;
     height: 50px;
