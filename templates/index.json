@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "hero_section_main_X96JhU": {
       "type": "hero-section-main",
@@ -350,7 +350,7 @@
       "settings": {
         "desktop_image": "shopify://shop_images/15_piece_set_1_057a7bdc-8dc3-41b9-94f4-10d3d5caf9ec.png",
         "mobile_image": "shopify://shop_images/15_piece_set_1_1.png",
-        "videowise": "<div class=\"reeview-app-widget\" id=\"reeview-app-widget_6707f7daf223e100294bf198\"></div>",
+        "videowise": "",
         "image_alt_text": "",
         "subtitle_text": "Cook confidently for years to come",
         "review_image": "shopify://shop_images/Frame_6176.png",
