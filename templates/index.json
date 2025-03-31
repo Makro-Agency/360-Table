@@ -527,7 +527,7 @@
         "collection": "collection-demo",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
-        "button_enable": false,
+        "button_enable": true,
         "noOfProduct": 25,
         "custom_class": ""
       }
