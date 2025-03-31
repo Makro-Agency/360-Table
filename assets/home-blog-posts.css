@@ -19,6 +19,7 @@
 }
 .home-blog-posts  .article-cards .blog__post.grid__item.article:first-child .card__heading{
   font-size: 32px;
+  letter-spacing: -0.64px;
 }
 .home-blog-posts .article-cards .readMore-link:hover{
   color: #c3d957 !important;
@@ -33,13 +34,24 @@
 .home-blog-posts .article-cards .card__heading a:after {
   visibility:hidden;
 }
+.home-blog-posts p.article-card__excerpt.rte-width {
+  overflow: hidden;
+color: #00203F;
+text-overflow: ellipsis;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%;
+}
 .home-blog-posts .article-cards .card__heading {
-  font-size: 24px;
-    line-height: 120%;
-    letter-spacing: -.48px;
+  color: #00203F;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-size: 24px;
+    font-style: normal;
     font-weight: 600;
-    color: #000;
-    margin: 0 0 5px;
+    line-height: 120%;
+    letter-spacing: -0.48px;
 }
 .home-blog-posts .underline-links-hover:hover .readMore-link {opacity: 1;}
 .home-blog-posts .underline-links-hover:hover a,
@@ -87,9 +99,14 @@
 
 .article-newtab ul li a {
   padding: 10px 25px;
-  border-radius: 100px;
-  color: #0d0d0d;
-  display: block;
+    border-radius: 100px;
+    display: block;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
 }
 .article-newtab ul li.active a {
   color: #fcfbf7;

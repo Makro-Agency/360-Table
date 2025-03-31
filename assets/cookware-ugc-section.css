@@ -101,16 +101,27 @@
     line-height: 0;
 }
 .video-group .auther-name {
-  font-size: 16px;
-  font-weight: 600;
-  color: #090909;
-  line-height: 150%;
+color: #00203F;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
 }
 .video-group .auther-verification {
-    font-size: 12px;
-    line-height: 150%;
-    font-weight: 600;
-    color: #A6BB3A;
+color: #B2C0CA;
+font-family: Manrope;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+display: inline-flex;
+align-items: center;
+gap: 5px;
+}
+.video-group .auther-verification span {
+  display: flex;
+  align-items: center;
 }
 @media screen and (max-width: 1199px) {
   .cookware-ugc-section .banner-group-wrapper {
