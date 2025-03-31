@@ -256,6 +256,7 @@ noscript .localization-selector.link {
   margin: 0;
   display: flex;
   align-items: center;
+  min-width: fit-content;
 }
 
 form#HeaderLanguageForm{

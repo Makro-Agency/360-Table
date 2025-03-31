@@ -60,7 +60,7 @@ ol.breadcrumb{
 }
 .price__regular .price-item--regular {
   margin-right: 0;
-  color: #000;
+  /* color: #000; */
   font-weight: 600;
 }
 .card-information>.price{
@@ -109,37 +109,40 @@ ol.breadcrumb{
   left: 10px;
 }
 .sale-button {
-    font-family: Proxima Nova;
-    font-size: 12px;
-    font-weight: 600;
-    line-height: 18px;
-    padding: 1px 10px;
-    border-radius: 100px;
-    background: #e6a817;
-    text-decoration: none;
-    color: #fcfbf7;
-    display: inline-flex;
+  padding: 1px 10px;
+  border-radius: 100px;
+  background: #e6a817;
+  text-decoration: none;
+  display: inline-flex;
+  color: #FFF;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
 }
 .choice-button {
-    font-family: Proxima Nova;
+    font-family: Manrope;
     font-size: 12px;
-    font-weight: 600;
-    line-height: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
     padding: 1px 10px;
     border-radius: 100px;
-    background: #a6bb3a;
+    background: #00406E;
     text-decoration: none;
     color: #fcfbf7;
     display: inline-flex;
 }
 .sell-button {
-    font-family: Proxima Nova;
+    font-family: Manrope;
     font-size: 12px;
-    font-weight: 600;
-    line-height: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
     padding: 1px 10px;
     border-radius: 100px;
-    background: #606d22;
+    background: #00406E;
     text-decoration: none;
     color: #fcfbf7;
     display: inline-flex;

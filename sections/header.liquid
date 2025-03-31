@@ -44,7 +44,8 @@
   .header.index-header .navbar_item > a:hover{
   color: #c3d957 !important;
 }
-  .header-wrap-title a{font-family: "Proxima Nova";
+  .header-wrap-title a{
+/* font-family: "Proxima Nova"; */
 font-size: 16px;
 font-style: normal;
 font-weight: 600;
@@ -129,6 +130,9 @@ line-height: 150%; /* 24px */
 .layout1-trans .shopify-section-header-sticky.scrolled-past-header .header__localization .disclosure .localization-form__select span{   color:#0d0d0d; }
  .layout1-trans .shopify-section-header-sticky.scrolled-past-header  .header__icon .search-input::placeholder {
   color:#0d0d0d;
+}
+ .header__localization .disclosure .localization-form__select svg:first-child {
+  display: none;
 }
 .layout1-trans .shopify-section-header-sticky.scrolled-past-header .header__localization .disclosure .localization-form__select svg{ color:#0d0d0d; }
  .layout1-trans .shopify-section-header-sticky.scrolled-past-header  .header__icon svg{ color:#0d0d0d; }
@@ -265,6 +269,7 @@ header.index-header span.ly-custom-1000 svg path {
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    text-transform: uppercase;
 }
 button.disclosure__button {
     display: unset;
@@ -282,6 +287,9 @@ button.disclosure__button {
     width: 16px;
     height: auto;
     margin: 0 5px 0 0;
+}
+.header__icons--localization .localization-form:only-child .localization-form__select span img {
+display: none !important;
 }
   .header__icons #HeaderCountryList span ,
   .header__icons #HeaderCountryList .disclosure__link{
