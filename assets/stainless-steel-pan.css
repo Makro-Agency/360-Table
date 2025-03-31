@@ -50,7 +50,7 @@
   margin-top: 25px;
 }
 .pan_review {
-  background: #fcfbf7;
+  background: #fff;
   padding: 20px;
   border-radius: 10px;
   position: absolute;
@@ -88,11 +88,12 @@
 }
 
 .pan_review .auther-message .heading {
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: normal;
-  font-family: "Proxima Nova";
-  color: #090909;
+  color: #00203F;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
 }
 .pan_review.review1 {
   max-width: 395px;
@@ -258,7 +259,7 @@ line-height: 150%;
     letter-spacing: -0.72px;
   }
   .pan_review.review2 {
-    bottom: -195px;
+    bottom: -125px;
     top: unset;
   }
   .image-wrapper .subtitle {
