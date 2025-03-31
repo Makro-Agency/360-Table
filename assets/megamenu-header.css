@@ -121,11 +121,11 @@
 }
 
 .header-header-text-list ul li a {
-  font-family: Proxima Nova;
+  font-family: Manrope;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  color: #000000;
+  color: #00203F;
   text-align:left;
 }
 
@@ -376,7 +376,7 @@ a.product-360-category-inner:hover .product-360-link{
   border-radius:10px;
 }
 .review-start-align svg path{
-  fill:#606D22;
+  fill:#00406E;
 }
 
 .header-wrap-title p, .header-wrap-para p{
@@ -399,7 +399,7 @@ a.product-360-category-inner:hover .product-360-link{
   color:#c3d957;
 }
 .image-width-text-header:hover .product-360-link a{
-  color:#c3d957;
+  color:#00406E;
 }
 .image-width-text-header:hover .product-360-link a,.header-shop-right span a:hover{
   /* text-decoration:underline; */

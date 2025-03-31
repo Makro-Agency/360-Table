@@ -66,7 +66,7 @@
     .makro-TB-text-item { max-width: 100%; padding-right: 0; }
     .makro-text-banner--wrapper.with-image { align-items: flex-end; padding: 0; }
     .makro-text-banner--wrapper.with-image:before,
-    .makro-text-banner--wrapper.with-image .makro-TB-image-item:before { content:''; padding-bottom: 232.24%; }
+    .makro-text-banner--wrapper.with-image .makro-TB-image-item:before { content:''; padding-bottom: 207.6%; }
     .makro-TB-text-item>.button{ margin-top: 30px; }
     .makro-text-banner--wrapper .text-wrapper { flex-basis: 100%; margin-bottom: 40px; }
 

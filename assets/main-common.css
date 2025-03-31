@@ -18,7 +18,7 @@ a:hover{
 
 /* menu */
 .cust-inner-menu li:hover a{
-  border-bottom: 1.5px solid #A6BB3A;
+  border-bottom: 1.5px solid #00406E;
   width: fit-content;
 }
 .navabar-desktop .navbar_item .navbar_link:hover {
@@ -58,7 +58,7 @@ a:hover{
 .pagination__item:hover{
   color:#00406E !important;
 }
-.banner-group .banner:hover .link { color: #c3d957; }
+.banner-group .banner:hover .link { color: #00406E; }
 .social-icons a:hover svg path{
    fill: #00406E;
 }
@@ -86,7 +86,7 @@ a:hover{
 .cmn-menu-product:hover .boxhover-bg,
 .category-image-text-link:hover,
 .image-width-text-header:hover{
-  background:#FAF5EB;
+  background:#B2C0CA;
   color: #000;
 }
 
@@ -200,9 +200,17 @@ a:hover{
       bottom: -120px;
    }
    .stainless-steel-pan .image-wrapper .subtitle {
-      bottom: -160px;
-      width: 131px;
-      right: 30px;
+    bottom: -212px !important;
+    width: 147px !important;
+    right: 30px !important;
+    z-index: 1;
+    color: #00406E;
+    text-align: center;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
   }
     .stainless-steel-pan {
         padding: 80px 0 85%;
@@ -210,7 +218,7 @@ a:hover{
 }
 @media(max-width:400px){
     #full-blend-hero-section .full-blend-hero-section-container-box-heading-container h1 {
-      font-size: 40px !important;
+      font-size: 48px !important;
       line-height: 48px;
       letter-spacing: -.02em;
   }

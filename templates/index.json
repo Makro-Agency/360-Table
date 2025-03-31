@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
-{
+ {
   "sections": {
     "hero_section_main_X96JhU": {
       "type": "hero-section-main",
@@ -156,7 +156,7 @@
         "button_text": "Shop Now",
         "review_badge_text": "7,000+ 5-Star Reviews",
         "button_text_2": "Shop Now",
-        "button_link_2": ""
+        "button_link_2": "shopify://pages/catalog"
       }
     },
     "17298567650c2acc34": {
@@ -369,7 +369,7 @@
         "author_image_2": "shopify://shop_images/auther-image2_e70531dc-ab78-41fe-bd8e-635ecbb63a0b.webp",
         "author_name_2": "Alan B.",
         "verification_text_2": "Professional Chef",
-        "testimonial_text": "",
+        "testimonial_text": "“Easy to clean. Faster cooking. Tremendous American quality!”",
         "reviews_number": "7,000+",
         "reviews_heading": "5-Star Reviews",
         "main_heading_text": "Meet Best in Class<br> Stainless Steel Pan",
@@ -527,7 +527,7 @@
         "collection": "collection-demo",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
-        "button_enable": false,
+        "button_enable": true,
         "noOfProduct": 25,
         "custom_class": ""
       }

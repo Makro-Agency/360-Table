@@ -94,7 +94,6 @@ text-align: left;
 .main_grid_div h3,.custom-footer h3{
   margin:0;
   color:#FCFBF7;
-font-family: Cellofy;
 font-size: 20px;
 font-weight: 600;
 line-height: 24px;
@@ -105,7 +104,6 @@ text-align: left;
 .shop a,
 .main_grid_div a,.custom-footer a{
    color:#FCFBF7;
-font-family: Proxima Nova;
 font-size: 14px;
 font-weight: 400;
 line-height: 21px;
@@ -117,7 +115,6 @@ text-align: left;
 .subscribe h3{
   margin:0;
   color:#FCFBF7;
-font-family: Cellofy;
 font-size: 32px;
 font-weight: 600;
 line-height: 38.4px;
@@ -129,7 +126,6 @@ text-align: left;
 .footer-bottom_icon h3{
     margin:0;
   color:#FCFBF7;
-font-family: Cellofy;
 font-size: 20px;
 font-weight: 600;
 line-height: 24px;
@@ -189,7 +185,6 @@ input[type="email"]:focus-visible {
 }
 
 .footer_sub_p {
-  font-family: Inter;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -453,7 +448,6 @@ text-align: left;
   }
 
   .links a {
-    font-family: Inter;
     font-size: 12px;
     font-weight: 400;
     line-height: 18px;
@@ -471,7 +465,7 @@ text-align: left;
   }
 
   .footer_bottom_links {
-    padding: 15px 20px;
+    padding: 15px 0px;
   }
   .luc_p_div {
     padding: 5px 20px;

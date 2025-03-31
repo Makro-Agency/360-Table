@@ -243,7 +243,7 @@ body,
 body .swym-ui-component *,
 body .swym-ui-component .swym-is-button,
 body .swym-ui-component .swym-is-anchor {
-font-family: "Proxima Nova";
+  font-family: Manrope;
 letter-spacing: 0;
 }
 a,
@@ -503,6 +503,7 @@ font-family: Manrope;
 font-size: 16px;
 font-weight: 400;
 line-height: 150%;
+margin: 0;
 }
 
 /* .link.makro--link {
@@ -586,10 +587,10 @@ background-color: #fff;
 }
 @media screen and (max-width: 749px) {
 .section-padding {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 .button.cta_button {
-  width: 100%;
-}
+  width: 100% !important;
+  min-width: 100% !important;}
 }

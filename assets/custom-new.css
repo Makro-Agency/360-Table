@@ -406,7 +406,7 @@ box-shadow: none;
 }
 .cart-drawer-show cart-drawer.drawer.is-empty a.button ,
 cart-items.is-empty a.button {
-    background: #606d22;
+  background: #00406E;
     color: #fcfbf7;
     font-size: 16px;
     line-height: 100%;
@@ -422,7 +422,7 @@ cart-items.is-empty a.button {
 }
 .cart-drawer-show cart-drawer.drawer.is-empty  a.button:hover ,
 cart-items.is-empty a.button:hover {
-    background: #c3d957;
+    background: #00203F;
     color: #fcfbf7;
 }
 .cart-drawer-show cart-drawer.drawer.is-empty  a.button:hover:after ,
