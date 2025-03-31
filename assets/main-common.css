@@ -26,7 +26,7 @@ a:hover{
 }
 
 .card-wrapper .card--card:hover .card__heading a{
-    color: #c3d957 !important;
+    color: #00406E !important;
 }
 .link.makro--link{
     font-weight: 500;
@@ -38,7 +38,10 @@ a:hover{
     align-items: center;
     gap: 5px;
     text-decoration: none;
-    
+    color: #00203F;
+    font-family: Manrope;
+    text-transform: capitalize;
+    margin-bottom: 5px;
 }
 .image-width-text-header .link.makro--link{
    margin-top: 5px;
@@ -53,11 +56,11 @@ a:hover{
 .pagination__list li:hover .link
 .header-shop-right .link
 .pagination__item:hover{
-  color:#c3d957 !important;
+  color:#00406E !important;
 }
 .banner-group .banner:hover .link { color: #c3d957; }
 .social-icons a:hover svg path{
-   fill: #c3d957;
+   fill: #00406E;
 }
 .navbar_item a{
   align-items: center;
@@ -67,7 +70,7 @@ a:hover{
   color: #00406E;
 }
 .service-content:hover .main_heading{
-     color:#c3d957 !important;
+     color:#00406E !important;
 }
 /* background box on hover */
 .image-width-text-header{
@@ -151,7 +154,7 @@ a:hover{
   min-width: fit-content;
 }
 .button.cta_button:hover {
-    background: #c3d957 !important;
+  background: #00203F !important;
     color: #fcfbf7 !important;
 }
 .button.cta_button::before,
