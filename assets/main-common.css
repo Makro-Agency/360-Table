@@ -1,5 +1,5 @@
 a{
-  color: #606d22;
+  color: #00203F;
 }
 a:hover{
   /* color: #A6BB3A; */
@@ -175,7 +175,7 @@ a:hover{
 .banner-text-catalog-icon span a:hover{
     border-color: #c3d957 !important;
 }
-
+.main_access a:hover,
 .main_privacy a:hover,.main_copyright a:hover{
   color:#c3d957;
 }

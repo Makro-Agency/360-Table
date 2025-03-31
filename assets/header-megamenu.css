@@ -113,11 +113,11 @@ a {
 }
 
 .megamenu_menu_list li a:hover {
-  border-bottom: 2px solid #fa255e;
+  border-bottom: 2px solid #00406E;
 }
 
 .megamenu_menu_list li a {
-  font-family: kapra;
+  /* font-family: kapra; */
   font-size: 40px;
   display: inline;
   font-weight: 400;
@@ -388,9 +388,9 @@ a {
     min-width: 60%;
     max-width: 60%;
   }
-  .megamenu_menu_list li a {
+  /* .megamenu_menu_list li a {
     font-family: lato;
-  }
+  } */
 
 
 
