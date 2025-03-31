@@ -7,7 +7,7 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- {
+{
   "sections": {
     "hero_section_main_X96JhU": {
       "type": "hero-section-main",
@@ -527,7 +527,7 @@
         "collection": "collection-demo",
         "button_text": "Shop All Bestsellers",
         "button_link": "shopify://collections/collection-demo",
-        "button_enable": true,
+        "button_enable": false,
         "noOfProduct": 25,
         "custom_class": ""
       }
