@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "yotpo_product_reviews_star_rating_xcHpjd": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {}
@@ -37,12 +43,6 @@
         "price": {
           "type": "price",
           "settings": {}
-        },
-        "yotpo_product_reviews_star_rating_xcHpjd": {
-          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -153,12 +153,12 @@
         }
       },
       "block_order": [
+        "yotpo_product_reviews_star_rating_xcHpjd",
         "title",
         "custom_liquid_X4jmHh",
         "615c3fca-3aaf-48d4-8f98-70af55b3903e",
         "shortdetails_tUdhaq",
         "price",
-        "yotpo_product_reviews_star_rating_xcHpjd",
         "variant_picker",
         "offer_section_aaeDeH",
         "essentials_rJKBBL",
