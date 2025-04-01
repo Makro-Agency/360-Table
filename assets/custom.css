@@ -26,7 +26,9 @@ body.active-pop .pop-overlay{display: block;}
 .prod-list .product-grid .grid__item { transform: translateY(0rem); }
 
 /* .template-collection .page-width { max-width:100%; } */
-
+section#shopify-section-template--24448335839524__139d6e74a2b1c4b31b9f {
+  display: none;
+}
 
 @media screen and (max-width: 749px){
   
