@@ -76,7 +76,7 @@
   line-height: 150%;
 }
 .pan_review .auther-verification {
-  color: #00406E;
+  color: #B2C0CA;
     font-family: Manrope;
     font-size: 12px;
     font-style: normal;
@@ -94,18 +94,19 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: 150%;
+letter-spacing: 0;
 }
 .pan_review.review1 {
-  max-width: 395px;
+  max-width: 264px;
   right: 2.63%;
   top: -16.78%;
   width: 100%;
 }
 .pan_review.review2 {
   max-width: 348px;
-  right: 12.13%;
-  bottom: -18.07%;
-  width: 100%;
+    right: 25.13%;
+    bottom: -12.07%;
+    width: 100%
 }
 .image-wrapper .subtitle {
   position: absolute;
@@ -136,7 +137,7 @@ line-height: 150%;
   background: #B2C0CA;
   padding: 10px 15px;
   top: 16.79%;
-  right: calc(28.66% + 4.63% + 2rem);
+  right: calc(18.66% + 4.63% + 2rem);
   z-index: 1;
 }
 .pan_review.review4 .heading {

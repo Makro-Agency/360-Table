@@ -152,12 +152,9 @@ ol.breadcrumb{
   }
   /* .card__heading a:hover, */
 .service-content a:hover,
-.article-card-item:hover a,#FacetFiltersForm .facet-checkbox__text:hover,
+.article-card-item:hover a,.ab-footer-linklist a:hover,#FacetFiltersForm .facet-checkbox__text:hover,
   .catalog-prduct-text-down-icon a:hover{
-    color:#00406e!important;
-  }
-  .ab-footer-linklist a:hover{
-    color: #B2C0CA !important;
+    color:#c3d957!important;
   }
   .service-content:hover a{
        /* color:#c3d957 !important; */

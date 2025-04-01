@@ -133,8 +133,10 @@
      font-weight: 500; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
 
 .product__info-container .product-form .product-form__submit:not([disabled]):hover {
-  background: #00203F;
- color:#fff; }
+  background: #A6BB3A;
+    border-color: #A6BB3A;
+ color:#fff; 
+}
 .product__info-container .product-form .product-form__submit:not([disabled]):hover:after { 
   --border-offset: 0px; 
   }
@@ -178,13 +180,14 @@
 .product__info-container .product__accordion summary .icon,
 .product__info-container .product__accordion .summary .icon { right:0; width:10px; height:auto; position: absolute; top: calc(50% - 3px); }
 .product__info-container .product__accordion .summary__title .accordion__title {
-    color: #0D0D0D;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 100%;
-    letter-spacing: -0.48px;
-    transition: all .3s ease 0s;
+  transition: all .3s ease 0s;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 120%;
+  letter-spacing: -0.48px;
 }
 .product__info-container .product__accordion .accordion-item:not(.accordion-open) .summary__title svg {
   transform: rotate(180deg);
@@ -196,10 +199,11 @@
 }
 .accordion__title-wrapper span {
   color: rgba(0, 0, 0, 0.40);
-  font-size: 14px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 150%;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
 }
 .review-container {
     padding: 20px 0;
@@ -215,34 +219,42 @@
     vertical-align: middle;
 }
 .date-format {
-    font-size: 12px;
-    color: #0D0D0D;
-    line-height: 150%;
+  color: #00203F;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
 }
 .review-container .title {
   margin: 0 0 5px;
-  color: #000;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 20px;
+  font-style: normal;
   font-weight: 600;
-  line-height: 120%; 
-  font-family: var(--font-heading-family);
+  line-height: 120%;
 }
 .cta-btn.show-more {
   border-radius: 100px;
-  border: 1px solid #0D0D0D;
-  display: flex;
-  height: 50px;
-  min-height: 50px;
-  max-height: 50px;
-  padding: 15px 25px;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-  color: #0D0D0D;
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 100%;
-  margin-top: 20px;
+    display: flex
+;
+    height: 50px;
+    min-height: 50px;
+    max-height: 50px;
+    padding: 15px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    color: #00203F;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+    border: 1px solid #00203F;
 }
 .cta-btn.show-more:hover {
   background: #A6BB3A;
@@ -923,7 +935,7 @@ height: 100%;
   font-style: normal;
   font-weight: 400;
   line-height: 150%;
-  color: #0D0D0D;
+  color: #00203F;
 }
 
 .benefits-slider .swiper-wrapper .swiper-slide img{
