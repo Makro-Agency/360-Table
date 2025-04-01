@@ -110,7 +110,7 @@ a:hover{
 .auther-content .right-arrow:hover,
 .swiper-button-div .swiper-button-prev:hover,
 .swiper-button-div .swiper-button-next:hover{
-  background: #c3d957;
+  background: #00203F;
 }
 .slide-nav .nav-btn,
 .auther-content .right-arrow,
@@ -166,9 +166,9 @@ a:hover{
       border: 1px solid;
 }
 .essentials-cookware-set .upgrade-button:hover{
-    background: #a6bb3a;
+    background: #00406E;
     color: #fff;
-    border-color: #a6bb3a;
+    border-color: #00406E;
 }
 
 /* line */

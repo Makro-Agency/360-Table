@@ -89,14 +89,14 @@
     padding-right: 28%;
   }
   .banner-group-wrapper .main_heading {
-    color: #000;
-    font-family: Cellofy;
+    padding-right: 100px;
+    color: #00203F;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 40px;
     font-style: normal;
     font-weight: 600;
     line-height: 100%;
     letter-spacing: -0.8px;
-    padding-right: 100px;
   }
   .banner-group-wrapper p.desc{
     margin-bottom:20px;
@@ -121,7 +121,7 @@
   }
   .video-group-wrapper .slide-nav .nav-btn {
       position: absolute;
-      background-color: #606d22;
+      background-color: #00406E;
       border-radius: 100px;
       color: #fcfbf7;
       height: 50px;
@@ -131,7 +131,7 @@
       justify-content: center;
   }
   .video-group-wrapper .slide-nav .nav-btn:hover{
-    background-color: #c3d957;
+    background-color: #00203F;
   }
   .video-group-wrapper .slide-nav .nav-btn.fea-col-slide-prev svg {
     transform: rotate(180deg);

@@ -6,7 +6,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     border-bottom: none;
   }
   .product__info-wrapper {
-    padding: 60px 0 0 60px;
+    padding: 60px 0 0 32px;
   }
   .main-product-section .seprator + .total-review {
     text-decoration-line: underline;
@@ -428,10 +428,11 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     margin: 20px 0;
   }
   .feature-item .feature-title{
-      font-weight: 600;
-      font-size: 16px;
-      color: #606D22;
-      margin: 10px 0 0 0;
+    margin: 10px 0 0 0;
+    color: #00406E;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
   }
   .feature-item img{
         width: 32px;
@@ -573,12 +574,12 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
       width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
     }
     .product--medium:not(.product--no-media) .product__info-wrapper, .product--small:not(.product--no-media) .product__media-wrapper {
-      max-width: 50%;
+      max-width: 43%;
       width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
       padding-top: 0;
     }
     .product__info-wrapper {
-      padding-right: 6%;
+      padding-right: 0%;
     }
   }
   @media screen and (min-width: 750px) {
@@ -662,16 +663,21 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     .feature-item .feature-title{   font-size:10px; } 
     }
   
-  .feature-item .feature-title{ font-family: 'Proxima Nova';    letter-spacing: 0; }
+  .feature-item .feature-title{ 
+    color: #00406E;
+    text-align: center;
+    font-family: Manrope;
+    letter-spacing: 0; 
+  }
   .product__info-container .product__title h1{
-        font-family: Cellofy;
-      font-size: 32px;
-      font-style: normal;
-      font-weight: 600;
-      line-height: 38px;
-      text-transform: capitalize;
-      letter-spacing: -0.64px;
-    
+    color: #00203F;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 120%;
+    letter-spacing: -0.64px;
+    text-transform: capitalize;
   }
   @media screen and (max-width: 576px){
     .feature-item img{
@@ -764,26 +770,26 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     }
   
   .price-monthly .month-price span{
-  font-family: "Proxima Nova";
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 600;
-  letter-spacing:0;
-  line-height: 150%; /* 18px */
-  color:  #0d0d0d;
-  margin-bottom: 5px;
-  margin-right: 5px;
+    letter-spacing: 0;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
     
   }
   .price-monthly .monthly-price{ 
-    margin:0;
-  color: #0D0D0D;
-  font-family: "Proxima Nova";
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 24px;
-  letter-spacing: 0;         
+    margin: 0;
+    letter-spacing: 0;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;       
   }
   .price-monthly .monthly-price span{
   font-family: "Proxima Nova";
@@ -810,7 +816,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   }
   .price-monthly{        
     margin-left: 25px;
-    border-left: 1px solid #eee;
+    border-left: 1px solid rgba(0, 0, 0, 0.05);
     padding-left: 20px;
     }
   
@@ -822,7 +828,13 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   
   }
   .resources-guide-section .accordion-content table td{
-        font-size: 16px;
+    font-size: 16px;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
   }
   /* mk */
   
@@ -835,34 +847,39 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     flex-wrap: wrap;
   }
   .meta-size-selector h3{
+    color: #00203F;
+    font-family: Manrope;
     font-size: 16px;
-    font-weight: 600;
-    color: #000;
-    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
   }
   .meta-size-selector h3 #selected-size{
     font-weight: 400;
   }
   .meta-size-selector .size-button {
     padding: 10px 20px;
-    border: 2px solid #0000001A;
+    border: 2px solid rgba(0, 0, 0, 0.10);
     border-radius: 25px;
     background-color: transparent;
     cursor: pointer;
-    font-size: 16px;
-    color: #000;
     width: 100%;
     text-align: center;
-    max-width: 31%;
-    line-height: 28px;
+    max-width: calc(50% - 5px);
     display: flex;
     align-items: center;
     justify-content: center;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
   }
   
   .meta-size-selector  .size-button.selected {
     background-color: transparent;
-    border: 2px solid #606D22;
+    border: 2px solid #00406E;
     font-weight: 600;
   }
   .meta-size-selector  .size-button:hover{
