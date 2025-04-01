@@ -76,12 +76,14 @@
   /* display: none; */
 }
 .accordion-content p {
-  font-weight: 400;
-  /* color: #0D0D0D; */
-  font-size: 16px;
-  line-height: 150%;
   margin: 0;
   margin-bottom: 10px;
+  color: #00203F;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
 }
 .accordion-content p:last-child {
   margin: 0;
