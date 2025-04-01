@@ -345,11 +345,11 @@
         "faq_qNePbz"
       ],
       "settings": {
-        "bgcolor": "#faf5eb",
-        "title": "Your Guide to Culinary Confidence",
-        "des": "Find answers, explore tips, and discover the full potential of your 360 Cookware.",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "bgcolor": "#f7f9fa",
+        "title": "All Your Questions Answered",
+        "des": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "pdp_guide_VhfYGR": {
