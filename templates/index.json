@@ -626,8 +626,8 @@
           "type": "bottom-block",
           "settings": {
             "icon": "shopify://shop_images/Frame_6175-2.svg",
-            "title": "Explore the Catalog",
-            "des": "<p>Discover our full range of cookware, bakeware, and accessories to complete your kitchen setup.</p>",
+            "title": "Starting Guides",
+            "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
             "link": "https://www.360cookware.com/pages/catalog"
           }
@@ -637,7 +637,7 @@
           "settings": {
             "icon": "shopify://shop_images/Frame_6175-3.svg",
             "title": "Articles & Recipes",
-            "des": "<p>Unlock your cooking potential with expert tips, tricks, and delicious recipes tailored for 360 Cookware.</p>",
+            "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
             "link": ""
           }
