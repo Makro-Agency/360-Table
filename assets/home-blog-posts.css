@@ -209,6 +209,9 @@ line-height: 150%;
   .home-blog-posts .card--text .card__content {
     width: 100%;
   }
+  .home-blog-posts .blog__post:first-child .card__inner {
+    max-height: 240px;
+}
   .home-blog-posts .card__inner {
     max-height: 140px;
   }

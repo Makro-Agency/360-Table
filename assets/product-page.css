@@ -1076,7 +1076,7 @@ line-height: 150%;
 
   .yotpo-main-reviews-widget .yotpo-header-container { margin-bottom: 30px; }
 
-  .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-right-panel .yotpo-sorting-filter-container { border-radius: 100px; background: #FAF5EB; padding: 15px; width: 100%; }
+  .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-right-panel .yotpo-sorting-filter-container { border-radius: 100px; background: #F7F9FA; padding: 15px; width: 100%; }
   .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-right-panel .yotpo-filters-right-panel { width: 100%; flex-basis: 100%; }
   .yotpo-filters-container .yotpo-filters-container-inner { flex-wrap: wrap; flex-direction: row; }
   .yotpo-filters-container .yotpo-filters-container-inner .yotpo-filters-right-panel { flex-basis: 100%; width: 100%; order: -1; margin-bottom: 30px; }
