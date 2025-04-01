@@ -353,9 +353,9 @@ cart-drawer .drawer__inner{
     stroke: #000;
 }
 
-.service-block .service-content p,.service-block .service-content a{
+/* .service-block .service-content p,.service-block .service-content a{
   color:#000;
-}
+} */
 
 .card-descc{
   display: -webkit-box;
