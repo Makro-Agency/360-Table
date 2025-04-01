@@ -381,7 +381,7 @@
 }
 
 .card-information > .price {
-  color: rgb(var(--color-foreground));
+  color: #00203F;
 }
 
 .card--horizontal .card-information > .price {
@@ -545,21 +545,37 @@
 
 .card__inner .size-options { display: flex; gap: 10px; }
   .card__inner .size-button { 
-    border-radius: 10px; 
+    border-radius: 10px;
     /* box-shadow: 0 0 0 1px rgba(0, 0, 0, .05); */
-    padding: 5px 0; 
-    text-align: center; 
-    display: inline-flex; 
-    flex-direction: column; 
+    padding: 5px 0;
+    display: inline-flex;
+    flex-direction: column;
     justify-content: center;
-    flex: 1 0; font-size: 12px; font-weight: 600;
-    line-height: 150%; 
-    color: #0D0D0D; 
-    transition: 0.5s ease,
-    color 0.3s linear; 
-    border: 2px solid #0000000D;
+    flex: 1 0;
+    transition: 0.5s ease, color 0.3s linear;
+    border: 1.5px solid #0000000D;
+    color: #00203F;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
   }
-  .card__inner .size-button span { display: block; color: rgba(0, 0, 0, 0.30); transition: 0.5s ease; }
+  .card__inner .size-button span { 
+    display: block;
+    transition: 0.5s ease;
+    color: #00203F;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
+  }
+  .card__inner .size-button:hover{
+    border: 1.5px solid #00406E !important;
+  }
 
   /* .card__inner .size-button:hover, */
 .card__inner .size-button.selected { 
