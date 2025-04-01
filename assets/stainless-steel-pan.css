@@ -263,6 +263,9 @@ line-height: 150%;
     bottom: -125px;
     top: unset;
   }
+  .pan_review.review4 .heading {
+    letter-spacing: 0;
+  }
   .image-wrapper .subtitle {
     bottom: -233px!important;
     width: 130px!important;
@@ -283,8 +286,8 @@ line-height: 150%;
     left: 15.44%;
   }
   .pan_review.review4 {
-    top: 0%;
-    right: 13.66%;
+    top: 8%;
+    right: 7.66%;
     z-index: 2;
   }
   .button-block-mob {

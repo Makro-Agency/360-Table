@@ -147,6 +147,7 @@
   .collapsible-content-wrapper button.accordion-button .heading{ font-size:20px; }
   .service-block img{ width:40px; height:40px; }
   .accordion-item.open .accordion-content{     padding: 20px 0px 20px 0 !Important; }
+  .template-product .service-list {padding: 0 20px;}
 }
 @media only screen and (min-width: 749px){
 
@@ -192,7 +193,7 @@
     padding: 0;
   }
   .service-list {
-    padding: 0 20px;
+    padding: 0 0px;
     gap: 20px;
   }
   .resources-guide-section-pdp {
@@ -228,12 +229,19 @@
   }
   .resources-guide-section {
     padding: 0;
+    margin-bottom: 60px;
   }
   .resources-guide-wrapper {
-    padding: 0 0rem;
+    padding: 0 20px;
   }
   .resources-guide-section .collapsible-content-wrapper {
-    padding: 0 0rem;
+    padding: 0 20px;
+  }
+  .resources-guide-section .collapsible-content-wrapper .accordion-item {
+    padding: 25px 20px;
+  }
+  .template-product .resources-guide-section .collapsible-content-wrapper .accordion-item {
+    padding: 25px 0px;
   }
 }
 
