@@ -457,10 +457,28 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "139d6e74a2b1c4b31b9f": {
+      "type": "apps",
+      "blocks": {
+        "f29f0c35-034a-40c8-b195-47026e66aecd": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/reviews/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        }
+      },
+      "block_order": [
+        "f29f0c35-034a-40c8-b195-47026e66aecd"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "main",
+    "139d6e74a2b1c4b31b9f",
     "1742900913d8d30b8e",
     "review-widget",
     "pdp_meta_benefits_slider_EydyPJ",
