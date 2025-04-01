@@ -131,7 +131,7 @@
       justify-content: center;
   }
   .video-group-wrapper .slide-nav .nav-btn:hover{
-    background-color: #00203F;
+    background-color: #c3d957;
   }
   .video-group-wrapper .slide-nav .nav-btn.fea-col-slide-prev svg {
     transform: rotate(180deg);

@@ -548,6 +548,10 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     line-height: 150%;
   }
   
+  .video-on-media.video-feature-section {
+    max-width: 660px;
+    margin-left: auto;
+}
   .benefits-slider-section.page-width{
     padding-right: 0;
   }
@@ -579,7 +583,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   /* end new */
   @media screen and (min-width: 1501px) {
     .product--medium:not(.product--no-media) .product__media-wrapper, .product--small:not(.product--no-media) .product__info-wrapper {
-      max-width: 50%;
+      max-width: 57%;
       width: calc(50% - var(--grid-desktop-horizontal-spacing) / 2);
     }
     .product--medium:not(.product--no-media) .product__info-wrapper, .product--small:not(.product--no-media) .product__media-wrapper {

@@ -35,7 +35,9 @@ display: flex;
 .makro-product-carousel-wrapper {
   position: relative;
 }
-
+.makro-PC-grid {
+  align-items: flex-start;
+}
 .swiper-initialized .makro-PC-grid { flex-wrap: nowrap; gap: 0; }
 
 .makro-product--card .card__inner {background: transparent;margin-inline: auto;margin-top: 0;}

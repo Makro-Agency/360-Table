@@ -18,15 +18,17 @@ a:hover{
 
 /* menu */
 .cust-inner-menu li:hover a{
-  border-bottom: 1.5px solid #00406E;
+  border-bottom: 1.5px solid #c3d957;
   width: fit-content;
 }
 .navabar-desktop .navbar_item .navbar_link:hover {
   font-weight: 700;
 }
-
+.card-wrapper .card--card .card__heading a {
+  color: #00203F;
+}
 .card-wrapper .card--card:hover .card__heading a{
-    color: #00406E !important;
+    color: #c3d957 !important;
 }
 .link.makro--link{
     font-weight: 500;
@@ -56,11 +58,11 @@ a:hover{
 .pagination__list li:hover .link
 .header-shop-right .link
 .pagination__item:hover{
-  color:#00406E !important;
+  color: #c3d957!important;
 }
 .banner-group .banner:hover .link { color: #00406E; }
 .social-icons a:hover svg path{
-   fill: #00406E;
+   fill: #c3d957;
 }
 .navbar_item a{
   align-items: center;
@@ -86,7 +88,7 @@ a:hover{
 .cmn-menu-product:hover .boxhover-bg,
 .category-image-text-link:hover,
 .image-width-text-header:hover{
-  background:#B2C0CA;
+  background: rgba(0, 0, 0, 0.05);
   color: #000;
 }
 
@@ -110,7 +112,7 @@ a:hover{
 .auther-content .right-arrow:hover,
 .swiper-button-div .swiper-button-prev:hover,
 .swiper-button-div .swiper-button-next:hover{
-  background: #00203F;
+  background-color: #c3d957;
 }
 .slide-nav .nav-btn,
 .auther-content .right-arrow,
@@ -154,7 +156,7 @@ a:hover{
   min-width: fit-content;
 }
 .button.cta_button:hover {
-  background: #00203F !important;
+  background: #c3d957 !important;
     color: #fcfbf7 !important;
 }
 .button.cta_button::before,
