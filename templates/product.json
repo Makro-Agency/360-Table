@@ -399,9 +399,9 @@
         "help_LXrqnN"
       ],
       "settings": {
-        "bgcolor": "#faf5eb",
-        "padding_top": 12,
-        "padding_bottom": 72
+        "bgcolor": "#f7f9fa",
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "172500374596313ea4": {
