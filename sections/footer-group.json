@@ -41,15 +41,22 @@
         "menu_block_qXnETj": {
           "type": "menu_block",
           "settings": {
-            "menu_heading": "Help Center/ Policy pages",
-            "navigation_menu": "help-center-policy-pages"
+            "menu_heading": "Help Center",
+            "navigation_menu": "help-center"
           }
         },
         "menu_block_qDtnPC": {
           "type": "menu_block",
           "settings": {
             "menu_heading": "Resources",
-            "navigation_menu": "resources"
+            "navigation_menu": "resources-1"
+          }
+        },
+        "menu_block_Yy3VJw": {
+          "type": "menu_block",
+          "settings": {
+            "menu_heading": "About 360",
+            "navigation_menu": "about-360"
           }
         }
       },
@@ -58,7 +65,8 @@
         "menu_block_t7FTBj",
         "menu_block_yzwXAi",
         "menu_block_qXnETj",
-        "menu_block_qDtnPC"
+        "menu_block_qDtnPC",
+        "menu_block_Yy3VJw"
       ],
       "settings": {
         "footer_logo": "shopify://shop_images/logo-footer_b208c080-a91f-43aa-8724-7830a3c7c582.png",
