@@ -116,7 +116,7 @@
      font-weight: 500; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
 
 .product__info-container .product-form .product-form__submit:not([disabled]):hover {
-  background: #A6BB3A;
+  background: #00203F;
  color:#fff; }
 .product__info-container .product-form .product-form__submit:not([disabled]):hover:after { 
   --border-offset: 0px; 
@@ -802,7 +802,7 @@ section .rebuy-widget-container .rebuy-carousel__arrows .splide__arrow.rebuy-car
 
 .product__info-container .product-form .product-form__submit{
       border-radius: 100px;
-    background-color: #606D22;
+    background-color: #00406E;
 }
 .product__info-container .product-form .product-form__buttons .button--primary{ border-radius:100px;}
 

@@ -203,7 +203,7 @@
   .contact-block {
     max-width: 100%;
     border-radius: 0;
-    margin: 0 0 60px;
+    margin: 0 0 0px;
   }
   .resources-guide-section-pdp .main_heading {
     font-size: 24px !important;
@@ -230,10 +230,10 @@
     padding: 0;
   }
   .resources-guide-wrapper {
-    padding: 0 2rem;
+    padding: 0 0rem;
   }
   .resources-guide-section .collapsible-content-wrapper {
-    padding: 0 2rem;
+    padding: 0 0rem;
   }
 }
 
