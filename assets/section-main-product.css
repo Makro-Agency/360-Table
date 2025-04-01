@@ -356,11 +356,11 @@ a.product__text {
 }
 .short-details {
   color: rgba(0, 0, 0, 0.60);
-  font-family: "Proxima Nova";
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 150%;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
 }
 .product__title > a {
   display: none;

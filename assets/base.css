@@ -1963,12 +1963,12 @@ input[type="checkbox"] {
 
 /* component-quantity */
 .quantity {
-  color: rgba(var(--color-foreground));
+  color: #00203F;
   position: relative;
   width: calc(14rem / var(--font-body-scale) + var(--inputs-border-width) * 2);
   display: flex;
   border-radius: var(--inputs-radius);
-  min-height: calc((var(--inputs-border-width) * 2) + 4.5rem);
+  min-height: calc((var(--inputs-border-width) * 2) + 4.9rem);
 }
 
 .quantity:after {
@@ -3102,6 +3102,7 @@ details-disclosure > details {
   border-radius: var(--media-radius);
   overflow: visible !important;
   background-color: rgb(var(--color-background));
+  border-color: transparent;
 }
 
 .global-media-settings:after {
@@ -3676,15 +3677,16 @@ details-disclosure > details {
 }
 .yotpo.bottomLine{ font-size:14px; }
 .product--left .price__regular span.buy-now{
-  text-transform:capitalize;
-  color: var(--Black, #0D0D0D);
-  font-family: "Proxima Nova";
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 600;
-  letter-spacing: 0;
-  margin-bottom:5px; 
-  display:block;
+  text-transform: capitalize;
+    letter-spacing: 0;
+    margin-bottom: 5px;
+    display: block;
+    color: #00203F;
+    font-family: Manrope;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 150%;
 }
 .pdp-subtitle{
     font-size: 16px;
