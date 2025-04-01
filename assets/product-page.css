@@ -73,10 +73,27 @@
 .product__info-container div[id*="price-template--"] .price .price__badge-sold-out { display:none !important; }
 
 .product__info-container .price--on-sale .price__container .price__sale { display:flex; align-items:center; flex-direction: row-reverse; justify-content: flex-end; }
-.product__info-container .price--on-sale .price__container .price__sale .price-item--regular {  color: #A8A5A0; font-size: 20px; 
-  font-style: normal; font-weight: 500; line-height: 160%; text-decoration: line-through;    letter-spacing: 0;}
-.product__info-container .price--on-sale .price__container .price__sale .price-item--sale { color: #606D22; font-size: 24px; font-style: normal; font-weight: 600;
-  line-height: 100%; letter-spacing: 0; text-transform: uppercase; text-decoration:none; }
+.product__info-container .price--on-sale .price__container .price__sale .price-item--regular { 
+  text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.20);
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: -0.4px;
+}
+.product__info-container .price--on-sale .price__container .price__sale .price-item--sale {
+  letter-spacing: 0;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #00406E;
+  font-family: Manrope;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+ }
 .product__info-container .price--on-sale .price__badge-sale { display:none; }
 
 
@@ -944,7 +961,8 @@ shopify-payment-terms{
 
 /* yotpo widget */
 .yotpo-main-layout.yotpo-main-reviews-widget { 
-  --primary-font-family: Cellofy; --secondary-font-family: var(--font-body-family); --primary-color: #606D22; --text-color: #0D0D0D; --primary-font-weight: 400; --secondary-font-weight: 400; 
+  --font-body-family: Manrope;
+  --primary-font-family: Neue Haas Grotesk Display Pro; --secondary-font-family: Manrope;; --primary-color: #00406E; --text-color: #00203F; --primary-font-weight: 600; --secondary-font-weight: 400; 
   font-family: var(--secondary-font-family); color: var(--text-color); }
 
 .yotpo-reviews-main-widget div:empty { display: none; }
@@ -954,16 +972,25 @@ shopify-payment-terms{
 .yotpo-main-reviews-widget:not(#id) .yotpo-layout-header-wrapper { margin-bottom: 0; }
 .yotpo-main-reviews-widget .yotpo-header-container { margin-bottom: 60px; }
 
-.yotpo-summary-section:not(#id) .yotpo-bottom-line-score { font-family: var(--primary-font-family); font-size: 60px; font-weight: 600; line-height: 100%; letter-spacing: -1.2px; --primary-color: #606D22; }
+.yotpo-summary-section:not(#id) .yotpo-bottom-line-score { font-family: var(--primary-font-family); font-size: 60px; font-weight: 600; line-height: 100%; letter-spacing: -1.2px; --primary-color: #00406E; }
 .yotpo-bottom-line .yotpo-summary-section .yotpo-bottom-line-right-panel { padding-top: 0; }
+.yotpo-star-distribution-index-wrapper .yotpo-star-distribution-index, .yotpo-star-distribution-value {
+  color: #00203F;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%;
+}
+
 .yotpo-bottom-line-summary .yotpo-bottom-line-text { font-family: var(--font-body-family) !important; font-size: 16px; font-weight: 600  !important; line-height: 150%; color: #0D0D0D !important; margin-top: 2px; }
   .yotpo-summary-section .yotpo-star-rating .star-container { width: 28px; height: 28px; }
   .yotpo-summary-section .yotpo-star-rating .star-container .yotpo-star-rating-icon { width: 100%; height: 100%; padding: 0 6px; }
   .yotpo-star-rating .star-container .yotpo-star-rating-icon linearGradient stop:first-child { stop-color: #606d22; }
-  .yotpo-star-rating .star-container .yotpo-star-rating-icon path { stroke: #606D22; }
+  .yotpo-star-rating .star-container .yotpo-star-rating-icon path { stroke: #00406E;fill: #00406E; }
   .yotpo-summary-section .yotpo-star-rating .star-container:not(:last-child) { margin-right: 2px; }
 
-.yotpo-new-review-btn-wrapper #yotpo-main-widget-btn { font-family: var(--font-body-family); font-size: 16px; font-style: normal; font-weight: 600; line-height: 100%; --primary-color: #606D22; padding: 16px 25px; height: auto;
+.yotpo-new-review-btn-wrapper #yotpo-main-widget-btn { font-family: var(--font-body-family); font-size: 16px; font-style: normal; font-weight: 600; line-height: 100%; --primary-color: #00406E; padding: 16px 25px; height: auto;
   border-color: var(--primary-color); transition: color 0.5s linear, all 0.4s cubic-bezier(0.86, 0.39, 0.58, 0.37); border: 1px solid var(--primary-color); }
 .yotpo-new-review-btn-wrapper #yotpo-main-widget-btn:hover { 
   yotpo-empty-white: #606D22;
@@ -991,7 +1018,16 @@ shopify-payment-terms{
 .yotpo-review-center-panel:not(#id) .yotpo-review-rating-title .yotpo-review-title { width: 100%; flex-basis: 100%; margin-left: 0; margin-top: 20px; }
 
 .yotpo-reviewer-details-verified .yotpo-reviewer-verified-buyer-text { font-size: 12px; font-style: normal; font-weight: 600; line-height: 150%; display: block; margin-top: 10px; }
-.yotpo-reviewer-details-verified .yotpo-reviewer-verified-buyer-text { background-image: url(verification-check.svg); background-size: 12px 12px; background-position: left 2px; background-repeat: no-repeat; padding-left: 17px; }
+.yotpo-reviewer-details-verified .yotpo-reviewer-verified-buyer-text { background-image: url(verification-check.svg); background-size: 12px 12px;
+  background-position: left 2px;
+  background-repeat: no-repeat;
+  padding-left: 17px;
+  color: #00406E;
+  font-family: Manrope;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; }
 
 .yotpo-date-format { font-size: 14px; font-style: normal; font-weight: 400; line-height: 150%; }
 

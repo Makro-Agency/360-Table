@@ -478,15 +478,18 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
         display: flex;
   }
   .video-on-media .textflex .video-subtitle{
-      font-size: 20px;
-      margin: 0;
-      font-family: Hurricane;
-      font-size: 32px;
-      line-height: 100%;
-      color: #A6BB3A;
-      transform: rotate(-10deg);
-      font-weight: 400 !important;
-  }
+    margin: 0;
+    transform: rotate(-10deg);
+    color: #B2C0CA;
+    text-align: center;
+    font-family: "Neue Haas Grotesk Display Pro";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    line-height: 100%;
+}
   .video-on-media .video-feature-container {
     display: flex;
     align-items: center;
@@ -535,8 +538,14 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   }
   
   .video-on-media .video-description {
+    overflow: hidden;
+    color: #00203F;
+    text-overflow: ellipsis;
+    font-family: Manrope;
     font-size: 16px;
-    color: #0D0D0D;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
   }
   
   .benefits-slider-section.page-width{
