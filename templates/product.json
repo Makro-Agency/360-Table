@@ -12,6 +12,12 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "yotpo_product_reviews_star_rating_apkGiV": {
+          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {}
@@ -30,12 +36,6 @@
         "price": {
           "type": "price",
           "settings": {}
-        },
-        "yotpo_product_reviews_star_rating_apkGiV": {
-          "type": "shopify://apps/yotpo-product-reviews/blocks/star-rating/eb7dfd7d-db44-4334-bc49-c893b51b36cf",
-          "settings": {
-            "product": "{{product}}"
-          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -142,11 +142,11 @@
         }
       },
       "block_order": [
+        "yotpo_product_reviews_star_rating_apkGiV",
         "title",
         "shortdetails_tUdhaq",
         "615c3fca-3aaf-48d4-8f98-70af55b3903e",
         "price",
-        "yotpo_product_reviews_star_rating_apkGiV",
         "variant_picker",
         "essentials_rJKBBL",
         "quantity_selector_g6FEyA",
@@ -306,12 +306,11 @@
         "video_block_izbyaz",
         "video_block_nrhPX9"
       ],
-      "disabled": true,
       "settings": {
-        "background_color": "#faf5eb",
-        "main_heading": "Transform every home-cooked meal into a gourmet experience with 360 Cookware",
-        "block_descrption": "Transform every home-cooked meal into a gourmet experience with 360 Cookware",
-        "button_link": "",
+        "background_color": "#f7f9fa",
+        "main_heading": "Chef Creations Cooked with 360",
+        "block_descrption": "Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate libero et velit interdum, ac aliquet odio mattis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "button_link": "shopify://collections/all",
         "button_text": "Shop Now"
       }
     },
