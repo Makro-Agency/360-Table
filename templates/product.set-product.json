@@ -318,34 +318,42 @@
         "faq_LDwKKe": {
           "type": "faq",
           "settings": {
-            "que": "Is 360 Cookware safe and non-toxic?",
-            "ans": "<p>Absolutely. Our cookware is crafted from surgical-grade stainless steel, which is 100% non-toxic and free from harmful chemicals or coatings. This means you can cook with confidence, knowing that no unwanted substances will leach into your food, even at high temperatures. At 360 Cookware, we prioritize your health and safety. Our commitment to using only the highest quality materials extends beyond performance to ensure that every meal you prepare is as safe as it is delicious. This dedication to non-toxic cooking aligns with our mission to provide cookware that contributes to a healthier lifestyle for you and your family.</p>"
+            "que": "Dolor sit amet, consectetur elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
           }
         },
-        "faq_KGAeyx": {
+        "faq_tKKgkk": {
           "type": "faq",
           "settings": {
-            "que": "Is 360 Cookware Built To Last?",
-            "ans": "<p>Absolutely! 360 Cookware comes with a <a href=\"https://www.360cookware.com/pages/lifetime-warranty\"><span style=\"text-decoration:underline\">lifetime warranty</span></a>. While standard cookware may wear out in about 10 years, we commonly receive letters from happy customers who have been using their cookware daily for 40 years or more.</p>"
+            "que": "Class aptent taciti sociosqu?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
           }
         },
-        "faq_qNePbz": {
+        "faq_YdpTBC": {
           "type": "faq",
           "settings": {
-            "que": "Can I Put 360 Stainless Steel Cookware And Bakeware In The Oven?",
-            "ans": "<p>360 Cookware is oven safe up to 500º.</p>"
+            "que": "Korem ipsum dolor sit amet, consectetur adipiscing elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
+          }
+        },
+        "faq_XWqR8B": {
+          "type": "faq",
+          "settings": {
+            "que": "Dolor sit amet, consectetur elit?",
+            "ans": "<p>Norem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus. Sed dignissim, metus nec fringilla accumsan, risus sem sollicitudin lacus, ut interdum tellus elit sed risus. Maecenas eget condimentum velit, sit amet feugiat lectus. <br/>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex.</p>"
           }
         }
       },
       "block_order": [
         "faq_LDwKKe",
-        "faq_KGAeyx",
-        "faq_qNePbz"
+        "faq_tKKgkk",
+        "faq_YdpTBC",
+        "faq_XWqR8B"
       ],
       "settings": {
         "bgcolor": "#f7f9fa",
-        "title": "Your Guide to Culinary Confidence",
-        "des": "Find answers, explore tips, and discover the full potential of your 360 Cookware.",
+        "title": "All Your Questions Answered",
+        "des": "Praesent auctor purus luctus enim egestas, ac scelerisque ante pulvinar. Donec ut rhoncus ex. Class aptent taciti sociosqu ad litora.",
         "padding_top": 36,
         "padding_bottom": 36
       }
