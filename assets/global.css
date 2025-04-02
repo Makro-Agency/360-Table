@@ -86,47 +86,47 @@ font-display: swap;
 
 
 @font-face {
-font-family: "Proxima Nova";
-src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Regular.woff2?v=1723443636")
-    format("woff2"),
-  url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Regular.woff?v=1723443636")
-    format("woff");
-font-weight: normal;
-font-style: normal;
-font-display: swap;
-}
-
-@font-face {
-font-family: "Proxima Nova";
-src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Semibold.woff2?v=1723443636")
-    format("woff2"),
-  url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Semibold.woff?v=1723443636")
-    format("woff");
-font-weight: 600;
-font-style: normal;
-font-display: swap;
-}
-
-@font-face {
-font-family: "Proxima Nova";
-src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Bold.woff2?v=1723443636")
-    format("woff2"),
-  url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Bold.woff?v=1723443636")
-    format("woff");
-font-weight: bold;
-font-style: normal;
-font-display: swap;
-}
-
-@font-face {
-  font-family: 'Hurricane';
-  src: url('https://cdn.shopify.com/s/files/1/0622/1937/files/Hurricane-Regular.woff2?v=1723095790') format('woff2'),
-      url('https://cdn.shopify.com/s/files/1/0622/1937/files/Hurricane-Regular.woff?v=1723095790') format('woff');
+  font-family: "Proxima Nova";
+  src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Regular.woff2?v=1723443636")
+      format("woff2"),
+    url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Regular.woff?v=1723443636")
+      format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
-}
-
+  }
+  
+  @font-face {
+  font-family: "Proxima Nova";
+  src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Semibold.woff2?v=1723443636")
+      format("woff2"),
+    url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Semibold.woff?v=1723443636")
+      format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  }
+  
+  @font-face {
+  font-family: "Proxima Nova";
+  src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Bold.woff2?v=1723443636")
+      format("woff2"),
+    url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Bold.woff?v=1723443636")
+      format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+  }
+  
+  @font-face {
+    font-family: 'Hurricane';
+    src: url('https://cdn.shopify.com/s/files/1/0622/1937/files/Hurricane-Regular.woff2?v=1723095790') format('woff2'),
+        url('https://cdn.shopify.com/s/files/1/0622/1937/files/Hurricane-Regular.woff?v=1723095790') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
 
 /* monorope */
 @font-face {
