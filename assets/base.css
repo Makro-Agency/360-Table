@@ -1982,7 +1982,7 @@ input[type="checkbox"] {
   border: 0.1rem solid transparent;
   border-radius: var(--inputs-radius);
   box-shadow: 0 0 0 var(--inputs-border-width)
-    rgba(var(--color-foreground), var(--inputs-border-opacity));
+  #00203F;
   transition: box-shadow var(--duration-short) ease;
   z-index: 1;
 }
