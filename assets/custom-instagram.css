@@ -4,7 +4,7 @@
 .video-conent p{
     color: var(--Black, #0D0D0D);
   /* Body Text Large / Regular */
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
     margin-top:0; 
@@ -141,7 +141,7 @@
    .custom-instagram .icon-content h6{
     color: var(--Black, #0D0D0D);
   /* Body Text Large / Regular */
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;

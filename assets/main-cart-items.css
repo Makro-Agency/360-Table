@@ -295,7 +295,7 @@ flex-direction: column;
 }
 .sub-totals{
   color: var(--Black, #0D0D0D);
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -304,14 +304,14 @@ flex-direction: column;
 .totals__subtotal-value.common_h2 .h2{
   color: var(--Black, #0D0D0D);
   text-align: right;
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
 }
 .card-subtotal-txt p{
   color: var(--gray-tones-black-40, rgba(0, 0, 0, 0.40));
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-style: normal;
   font-weight: 400;
@@ -488,7 +488,7 @@ line-height: 12px;
 letter-spacing: 0.5px;
 }
 .category-product-collection-first-inner .header-wrap-para {
-font-family: Lato;
+font-family: Neue Haas Grotesk Display Pro;
 font-size: 12px;
 font-weight: 400;
 line-height: 18px;
@@ -547,21 +547,21 @@ text-transform: uppercase;
 dl+.product-option {
 padding-top: 2px;
 }
-.cart-main-product .price_root{ font-family: "Proxima Nova"; }
+.cart-main-product .price_root{ font-family: "Neue Haas Grotesk Display Pro"; }
 .cart-main-product .price_no_active {
 font-size: 14px;
 font-weight: 500;
 letter-spacing: -0.02em;
 text-align: left;
 color: #b2b2b2;
-font-family: "Proxima Nova";
+font-family: "Neue Haas Grotesk Display Pro";
 }
 .cart-main-product .price_root {
 font-size: 16px;
 font-weight: 600;
 line-height: 19.2px;
 letter-spacing: -0.02em;
-font-family: "Proxima Nova";
+font-family: "Neue Haas Grotesk Display Pro";
 }
 
 .cart-drawer .cart-main-product-product .cart-item {
@@ -591,13 +591,13 @@ display: flex;
 
 
 #cart-product-page-main .price_root {
-font-family: Lato;
+font-family: Neue Haas Grotesk Display Pro;
 font-size: 16px;
 font-weight: 700;
 line-height: 24px;
 }
 #cart-product-page-main .price_no_active {
-font-family: Lato;
+font-family: Neue Haas Grotesk Display Pro;
 font-size: 14px;
 font-weight: 400;
 line-height: 21px;
@@ -700,7 +700,7 @@ max-width: calc(58% - 20px);
 grid-template-columns: 1fr;
 }
 }
-.cart-total, .cart-saving{     font-family: Lato;
+.cart-total, .cart-saving{     font-family: Neue Haas Grotesk Display Pro;
 font-size: 14px;
 font-style: normal;
 font-weight: 400;
@@ -733,12 +733,13 @@ letter-spacing: 0.5px;
   border-radius: 15px !important;
 }
 .cart-product-text .cart-item__name{ color: inherit;
-font-family: Lato;
+font-family: Neue Haas Grotesk Display Pro;
 font-size: 16px;
 letter-spacing: 0;
 font-style: normal;
 font-weight: 700;
-line-height: 150%;}
+line-height: 150%;
+}
 @media only screen and (max-width: 999px) {
 /* .category-product-collection-first-inner {
 grid-template-columns: repeat(2, 1fr);
@@ -918,7 +919,7 @@ gap: 10px;
 }
 .template-cart .cart-total-text,.template-cart .cart-total-text{
   color: var(--Black, #0D0D0D);
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -927,7 +928,7 @@ gap: 10px;
 .template-cart .cart-total-price{
   color: var(--Black, #0D0D0D);
   text-align: right;
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -936,7 +937,7 @@ gap: 10px;
 .template-cart  .cart-total-price{
   color: var(--Black, #0D0D0D);
   text-align: right;
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -945,7 +946,7 @@ gap: 10px;
 .template-cart .cart__ctas .cart__checkout-button.button{
   color: var(--White, #FCFBF7);
   text-align: center;
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
