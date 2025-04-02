@@ -11,7 +11,7 @@
     text-decoration: none;
   color: rgb(var(--color-link));
   text-transform: capitalize;
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   letter-spacing: 0;
 }
 .home-blog-posts .article-cards .readMore-link svg path {

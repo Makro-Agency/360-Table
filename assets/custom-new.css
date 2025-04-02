@@ -21,7 +21,7 @@ ol.breadcrumb{
 .breadcrumb-item a {
   text-decoration: none;
   color: var(--gray-tones-black-60, rgba(0, 0, 0, 0.60));
-  font-family: "Proxima Nova";
+  font-family: "Manrope";
   font-weight: 600;
   font-size: 12px;
   line-height: 150%;
@@ -73,7 +73,7 @@ ol.breadcrumb{
 
 #predictive-search-results .predictive-search__heading{
   color: var(--Black, #0D0D0D);
-  font-family: "Proxima Nova";
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-style: normal;
   font-weight: 600;
@@ -84,8 +84,8 @@ ol.breadcrumb{
   padding-bottom: 10px;
 }
 #predictive-search-results .predictive-search__item-heading {
-  color: #000;
-  font-family: "Proxima Nova";
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
   line-height: 150%;

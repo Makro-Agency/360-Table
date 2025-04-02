@@ -838,7 +838,9 @@ margin-bottom: 0; }
   font-weight: 400; line-height: 1; text-transform: capitalize; }
   .customer button {
   border-radius: 100px;max-width: 100%; width: 100%; font-size: 1.6rem; font-family: Proxima Nova; font-weight: 500; line-height: 1; letter-spacing: 0.02em; text-transform: unset;
-  min-height: calc(5.486rem + var(--buttons-border-width) * 2); margin: 2.28571rem 0 0; background-color: #606d22;}
+  min-height: calc(5.486rem + var(--buttons-border-width) * 2); margin: 2.28571rem 0 0; background-color: #00406E;
+
+}
   .customer button:hover {
     background: #c3d957;
       color: #fcfbf7;

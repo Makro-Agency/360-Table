@@ -85,7 +85,7 @@
 .custom-support-block .text-container p {
 	margin-top: 0;
 	color: var(--Black, #0D0D0D);
-	font-family: "Proxima Nova";
+	font-family: "Neue Haas Grotesk Display Pro";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -181,7 +181,7 @@
 
 .custom-support-block .block-svg span {
 	color: var(--Green, #606D22);
-	font-family: "Proxima Nova";
+	font-family: "Neue Haas Grotesk Display Pro";
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 600;
