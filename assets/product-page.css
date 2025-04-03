@@ -1089,6 +1089,7 @@ line-height: 150%;
 .yotpo-reviews-list:not(#id) .yotpo-review+.yotpo-review-votes-wrapper { border-bottom: 1px solid rgba(0, 0, 0, 0.05); padding-block-end: 40px; margin-top: -20px; }
 
 .yotpo-review .yotpo-reviewer-image { display: none; }
+.yotpo-reviews-main-widget .yotpo-reviewer-name.unselectable,
 .yotpo-reviewer-details-verified .yotpo-reviewer-name { font-family: var(--primary-font-family); font-size: 16px; font-weight: 600; line-height: 120%; color: inherit !important; }
 
 .yotpo-review-center-panel:not(#id) .yotpo-review-rating-title { width: 100%; flex-wrap: wrap; margin-bottom: 10px; }
