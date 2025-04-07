@@ -14,7 +14,7 @@
 }
 
 .client_box_section-slider {
-  background: #faf5eb;
+  background: rgba(0, 0, 0, 0.10);
   overflow: hidden;
 }
 #client-slider-with-text .swiper{
@@ -51,7 +51,6 @@
 
 .header-one_pan-main h2 {
   margin: 0;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;
@@ -62,7 +61,6 @@
 .header-one_pan-main p {
   margin: 0;
   color: #00203F;
-  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -83,9 +81,8 @@
 #client-slider-with-text .health-section-header-review-box-inner h4 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -133,7 +130,7 @@
 }
 
 #client-slider-with-text .health-client-info-true-icon span {
-  color: #606d22;
+  color: #00406E;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 600;

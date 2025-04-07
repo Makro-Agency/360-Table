@@ -37,7 +37,6 @@
 
 .advantage-inner-section-first-div h2 {
   margin: 0;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;
@@ -75,6 +74,9 @@
  .back_color_green {
   background-color: #606d22;
 } 
+.back_color_deepblue{
+  background-color: #00406E;
+}
 
 .back_color_gold {
   background-color: #e6a817;
@@ -86,7 +88,6 @@
 
 .advantag-inner-icon-header-text h4 {
   color: #00203F;
-  font-family: Cellofy;
   font-size: 24px;
   font-weight: 600;
   line-height: 28.8px;
@@ -184,13 +185,11 @@
   cursor: pointer;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
   line-height: 16px;
   color: #00203F;
 }
 
 .advantag-hidden-text .advantag-inner-icon-header-text h4 {
-  font-family: Cellofy;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;

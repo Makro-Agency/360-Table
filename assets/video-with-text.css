@@ -1,5 +1,5 @@
 #video-with-text-why {
-    background: #faf5eb;
+  background: rgba(0, 0, 0, 0.10);
   }
   
   .video-with-text-why {
@@ -28,18 +28,17 @@
   }
   
   .why-video-header-text-inner-first span {
-    font-family: Hurricane;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 32px;
     font-weight: 400;
     line-height: 32px;
-    color: #606d22;
+    color: #00406E;
     transform: rotate(-5deg);
     width: fit-content;
   }
   
   .why-video-header-text-inner-first h2 {
     margin: 0;
-    font-family: Cellofy;
     font-size: 40px;
     font-weight: 600;
     line-height: 40px;
@@ -70,7 +69,6 @@
   .why-border-doted-text h4 {
     margin: 0;
     color: #00203F;
-    font-family: Cellofy;
     font-size: 24px;
     font-weight: 600;
     line-height: 28.8px;
@@ -80,14 +78,14 @@
   .why-border-doted-text p {
     margin: 0;
     color: #00203F;
-    font-family: "Neue Haas Grotesk Display Pro";
+    font-family: "Manrope";
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
   }
   
   .why-border-doted span {
-    border: 1px dashed #606d22;
+    border: 1px dashed #00203F;
     border-radius: 100px;
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 14px;
@@ -99,8 +97,8 @@
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    color: #606d22;
-    background-color: #faf5eb;
+    color: #00203F;
+    background-color: #ffff;
     z-index: 5;
     position: relative;
   }
@@ -191,10 +189,7 @@
     padding: 15px 25px;
     border-radius: 100px;
     gap: 10px;
-    color: #606d22;
-    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 14px;
-    font-weight: 600;
     line-height: 14px;
     text-align: center;
     width: 165px;
