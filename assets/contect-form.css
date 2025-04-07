@@ -36,7 +36,6 @@ span.title_text {
 .contect-form-column-first h2 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;
@@ -54,7 +53,7 @@ span.title_text {
 .common-info h4 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
+  /* font-family: Cellofy; */
   font-size: 24px;
   font-weight: 600;
   line-height: 28.8px;
@@ -80,13 +79,13 @@ span.title_text {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  background: #606d22;
+  background: #00406E;
 }
 
 .need-help-box h3 {
   margin: 0;
   color: #fcfbf7;
-  font-family: Cellofy;
+  /* font-family: Cellofy; */
   font-size: 32px;
   font-weight: 600;
   line-height: 38.4px;
@@ -111,12 +110,11 @@ span.title_text {
   width: 142px;
   height: 40px;
   background: #fcfbf7;
-  color: #606d22;
+  color: #00203F;
   border-radius: 100px;
 
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
-  font-weight: 600;
   line-height: 14px;
   margin-top: 25px;
   text-decoration: none;
@@ -133,7 +131,6 @@ span.title_text {
 .form-container h3 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 38.4px;
@@ -196,11 +193,10 @@ textarea::placeholder {
   border-radius: 100px;
   justify-content: center;
   align-items: center;
-  background: #606d22;
+  background: #00406E;
   cursor:pointer;  
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
   line-height: 16px;
   text-align: center;
   color: #fcfbf7;
@@ -223,7 +219,6 @@ textarea::placeholder {
   font-weight: 400;
   line-height: 24px;
   text-align: left;
-  color: #000000cc;
   width: -webkit-fill-available;
   cursor: pointer;
   position: relative;
@@ -274,7 +269,7 @@ textarea::placeholder {
 }
 
 .join-community {
-  background: #faf5eb;
+  background: rgba(0, 0, 0, 0.10);
   padding: 60px;
   border-radius: 15px;
   display: grid;
@@ -290,7 +285,7 @@ textarea::placeholder {
 .join-first h3 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
+  /* font-family: Cellofy; */
   font-size: 32px;
   font-weight: 600;
   line-height: 38.4px;
@@ -434,10 +429,9 @@ button.subscribe-btn{
     right: 20px;
     border: none;
     background: transparent;
-    color: #6c6a66;
+    color: #00203F;
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 16px;
-    font-weight: 600;
     line-height: 16px;
     text-align: center;
     cursor: pointer;
