@@ -77,12 +77,10 @@
 }
 
 .category-filter h5 {
-  font-family: Cellofy;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;
   margin: 0;
-  color:#0D0D0D;
 }
 
 .category-toggle {
@@ -169,7 +167,7 @@
 }
 
 input:checked + .slider-toggle {
-  background-color: #a6bb3a;
+  background-color: #00406E;
 }
 
 input:checked + .slider-toggle:before {
