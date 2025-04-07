@@ -142,9 +142,6 @@ letter-spacing: -0.8px; }
 .main-blog  ul.pagination__list.list-unstyled{ margin-top:7rem; }
 .main-blog  .article-card__info:first-child{ display:none; }
 .main-blog  .article-card .card__heading a{
-color: var(--Black, #0D0D0D);
-/* Header 04 */
-font-family: Cellofy;
 font-size: 24px;
 font-style: normal;
 font-weight: 600;
@@ -153,8 +150,6 @@ letter-spacing: -0.48px;
 }
 
 .main-blog .article-card__excerpt{
-   color: var(--Black, #0D0D0D);
- text-overflow: ellipsis;
  font-family: "Neue Haas Grotesk Display Pro";
  font-size: 16px;
  font-style: normal;
