@@ -305,9 +305,7 @@ cart-drawer .drawer__inner{
 .accordion-item .accordion-content{
   padding:0;
 }
-.accordion-item .accordion-content a{
-  color:#000;
-}
+
 
 .shopify-section-header-sticky.scrolled-past-header .header.index-header {
   position: fixed !important;
