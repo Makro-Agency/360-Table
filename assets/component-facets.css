@@ -22,7 +22,9 @@
 }
 /* updated code */
 span.facet-checkbox__text{ color:#0d0d0d; }
-.facet-checkbox{ color:#0d0d0d;  }
+.facet-checkbox{ 
+  color:#00203F;  
+}
 
 @media screen and (min-width: 750px) {
   .facets-container > * + * {

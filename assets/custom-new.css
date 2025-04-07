@@ -74,7 +74,7 @@ ol.breadcrumb{
 #predictive-search-results .predictive-search__heading{
   color: #00203F;
   font-family: "Neue Haas Grotesk Display Pro";
-  font-size: 12px;
+  font-size: 12px;  
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0;
@@ -325,7 +325,7 @@ cart-drawer .drawer__inner{
 }
 
 .dropdown_menu-inner .common-h5 h5{
-  color: #000;
+  color: #00203F;
   margin-bottom: 7px;
 }
 .swell-tab{
