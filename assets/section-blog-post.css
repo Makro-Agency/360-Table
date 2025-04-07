@@ -195,7 +195,6 @@
     .article-template header span {
       font-size: 12px; letter-spacing: 0.05em; line-height: 1; text-transform: uppercase; font-weight: 600; font-family: Jost; }
       .article-template header .article-template__title {
-        font-family: Cellofy;
    font-size: 40px;
    font-style: normal;
    font-weight: 600;
@@ -256,7 +255,7 @@
     display: flex; align-items: center; margin-left: auto; margin-right: auto;
     justify-content: center; margin-left: -40px; }
     .shareUl .shareLink {
-      margin-left: 40px; display: flex; align-items: center; font-family: Jost; line-height: 100%;
+      margin-left: 40px; display: flex; align-items: center; line-height: 100%;
       text-transform: capitalize; text-decoration: none; color: rgba(var(--color-foreground), 1); }
     .shareUl .shareLink:hover {
       opacity: 0.5; }
