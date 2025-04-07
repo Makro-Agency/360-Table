@@ -29,7 +29,7 @@
 
 .annoucement-bar-text-message a,
 .annoucement-bar-text-message span a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
   line-height: 21px;
@@ -39,7 +39,7 @@
 }
 
 .annoucement-bar-text-width-right-icon a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
   line-height: 21px;
@@ -60,7 +60,7 @@
   border-radius: 2px;
   background-color: #fcfbf7;
   color: #606d22;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
   line-height: 21px;
@@ -127,7 +127,7 @@
 .background-light-green .annoucement-bar-text-message a,
 .background-light-green .annoucement-bar-text-message span a,
 .background-light-green .annoucement-bar-text-width-right-icon a {
-  color: #0d0d0d;
+  color: #00203F;
 }
 .background-light-green svg path {
   stroke: #0d0d0d;
@@ -137,7 +137,7 @@
 }
 .background-light-green .count-annocement-number,
 .background-light-green .annoucenment-colan {
-  color: #0d0d0d;
+  color: #00203F;
 }
 
 @media only screen and (max-width: 768px) {

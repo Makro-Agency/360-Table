@@ -35,7 +35,7 @@ span.title_text {
 
 .contect-form-column-first h2 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
@@ -53,7 +53,7 @@ span.title_text {
 
 .common-info h4 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 24px;
   font-weight: 600;
@@ -64,8 +64,8 @@ span.title_text {
 
 .common-info p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -97,7 +97,7 @@ span.title_text {
 .need-help-box p {
   margin: 0;
   color: #fcfbf7;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -114,7 +114,7 @@ span.title_text {
   color: #606d22;
   border-radius: 100px;
 
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
   line-height: 14px;
@@ -132,7 +132,7 @@ span.title_text {
 
 .form-container h3 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
@@ -164,7 +164,7 @@ input[type="text"]::placeholder,
 input[type="email"]::placeholder,
 textarea::placeholder {
   color: #0000004d;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -198,7 +198,7 @@ textarea::placeholder {
   align-items: center;
   background: #606d22;
   cursor:pointer;  
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
@@ -218,7 +218,7 @@ textarea::placeholder {
   display: inline-flex;
   align-items: center;
 
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -289,7 +289,7 @@ textarea::placeholder {
 
 .join-first h3 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 32px;
   font-weight: 600;
@@ -300,9 +300,9 @@ textarea::placeholder {
 }
 
 .join-first p {
-  color: #0d0d0d;
+  color: #00203F;
   margin: 0;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -335,7 +335,7 @@ textarea::placeholder {
   bottom: 0;
   right: 20px;
   color: #6c6a66;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
@@ -435,7 +435,7 @@ button.subscribe-btn{
     border: none;
     background: transparent;
     color: #6c6a66;
-    font-family: Proxima Nova;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 16px;
     font-weight: 600;
     line-height: 16px;

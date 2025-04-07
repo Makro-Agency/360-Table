@@ -16,7 +16,7 @@
 
 .custom-faq .hero-faq-first h2 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
@@ -51,7 +51,7 @@
 
 .custom-faq .faq-content h3 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 32px;
   font-weight: 600;
@@ -92,8 +92,8 @@ align-items:center;
 
 .custom-faq .faq-hidden-content p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -121,8 +121,8 @@ align-items:center;
 }
 
 .custom-faq input[type="search"]::placeholder {
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;

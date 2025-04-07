@@ -13,7 +13,7 @@
   background: #fff;
   color: #000000;
 
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -24,7 +24,7 @@
   display: none;
 }
 .search-input::placeholder {
-  color: #0d0d0d;
+  color: #00203F;
 }
 
 .header__icon--search {
@@ -128,5 +128,10 @@
   }
   .header__icon--search {
     border: none;
+  }
+}
+@media screen and (max-width: 749px){
+  .layout1-trans .header__icon--search {
+    border-bottom: 0px solid #FCFBF7;
   }
 }
