@@ -42,14 +42,14 @@
           "type": "menu_block",
           "settings": {
             "menu_heading": "Help Center",
-            "navigation_menu": "help-center"
+            "navigation_menu": "help-center-policy-pages"
           }
         },
         "menu_block_qDtnPC": {
           "type": "menu_block",
           "settings": {
             "menu_heading": "Resources",
-            "navigation_menu": "resources-1"
+            "navigation_menu": "resources"
           }
         },
         "menu_block_Yy3VJw": {
