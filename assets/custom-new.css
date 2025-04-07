@@ -72,7 +72,7 @@ ol.breadcrumb{
 /* search */
 
 #predictive-search-results .predictive-search__heading{
-  color: var(--Black, #0D0D0D);
+  color: #00203F;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-style: normal;
@@ -286,11 +286,11 @@ cart-drawer .drawer__inner{
   font-weight: 600;
 }
 .layout1-trans .header.index-header:hover .navbar_item > div.navbar_link {
-  color: #0d0d0d !important;
+  color:#00203F !important;
   font-weight: 600;
 }
 .shopify-section-header-sticky.scrolled-past-header .header.index-header .navbar_item > div.navbar_link {
-  color: #0d0d0d !important;
+  color:#00203F !important;
   font-weight: 600;
 }
 .image-width-text-header .common-h5 h5,.product-360-para p{
