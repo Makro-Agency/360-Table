@@ -1081,7 +1081,20 @@ line-height: 150%;
 .yotpo-filters-container .yotpo-filters-container-inner { gap: 0; border-bottom: 1px solid rgba(0, 0, 0, 0.05); }
 
 .yotpo-filters-container-inner label.yotpo-radio-base { padding: 20px 0; }
-
+.yotpo-reviews-star-ratings-widget .yotpo-sr-bottom-line-text--right-panel {
+  color: #00203F !important;
+  font-family: Manrope !important;
+  font-size: 14px !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  line-height: 150%;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: none;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+}
 .yotpo-filters-container-inner label.yotpo-radio-base button { font-size: 16px; font-style: normal; font-weight: 600; line-height: 150%; }
 .yotpo-filters-container-inner label.yotpo-radio-base button>span.yotpo-dropdown-placeholder { font-size: inherit; font-weight: inherit; }
 
