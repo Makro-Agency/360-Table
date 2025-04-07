@@ -134,7 +134,7 @@
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
-  color: #000000;
+  color:#00203F;
   display: flex;
   gap: 5px;
 }
@@ -296,7 +296,7 @@ a.product-360-category-inner{
   border: 0px 0px 1px 0px;
   display: flex;
   justify-content: space-between;
-  color: #000000;
+  color:#00203F;
   /* font-family: Cellofy; */
   font-size: 20px;
   font-weight: 600;
@@ -307,7 +307,7 @@ a.product-360-category-inner{
   border: 0px 0px 1px 0px;
   display: flex;
   justify-content: space-between;
-  color: #000000;
+  color:#00203F;
   font-family: inter;
   font-size: 20px;
   font-weight: 500;
@@ -481,7 +481,7 @@ a.product-360-category-inner:hover .product-360-link{
   .text-container-navbar .common_h3 h3{
     font-size: 22px;
     margin: 0;
-    font-family: Proxima Nova !important;
+    color:#00203F;
     text-transform: capitalize;
   }
   .toggle-open-align {
