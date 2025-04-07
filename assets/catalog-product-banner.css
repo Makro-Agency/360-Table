@@ -65,7 +65,7 @@
 }
 
 .catalog-banner-icon-text {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -94,12 +94,12 @@
 }
 
 .banner-text-catalog-icon span a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
   text-decoration: none;
-  color: #0d0d0d;
+  color: #00203F;
 
   display: flex;
   padding: 0px 0px 5px 0px;
@@ -108,13 +108,13 @@
 }
 
 .banner-text-catalog p {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   margin: 0%;
   width: 432px;
-  color: #0d0d0d;
+  color: #00203F;
 }
 
 /* slider-product */
@@ -141,7 +141,7 @@
   } */
 
 .choice-button a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 600;
   line-height: 18px;
@@ -160,7 +160,7 @@
   } */
 
 .sell-button a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 600;
   line-height: 18px;
@@ -204,7 +204,7 @@
 
 .catalog-button-container-btn {
   text-decoration: none;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   line-height: 16px;
   text-align: center;

@@ -21,7 +21,7 @@
 
 .health-section-header-text h2 {
   margin: 0;
-  color: #0d0d0d;
+  color: #00203F;
   font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
@@ -37,8 +37,8 @@
 
 .health-section-header-text p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -51,12 +51,12 @@
   display: flex;
   gap: 5px;
   align-items: center;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
   text-align: center;
-  color: #0d0d0d;
+  color: #00203F;
   width: fit-content;
   text-decoration: none;
 }
@@ -74,8 +74,8 @@
 
 .health-section-header-review-box-inner p {
   margin: 0;
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -109,7 +109,7 @@
 
 .health-client-info-header {
   color: #090909;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -123,7 +123,7 @@
 
 .health-client-info-true-icon span {
   color: #606d22;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 600;
   line-height: 18px;
@@ -182,8 +182,8 @@
 }
 
 .three-column-table td:nth-child(1) {
-  color: #0d0d0d;
-  font-family: Proxima Nova;
+  color: #00203F;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -295,7 +295,7 @@
   }
 
   .three-column-table th:nth-child(2) h4 {
-    font-family: Proxima Nova;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 12px;
     font-weight: 600;
     line-height: 18px;
@@ -304,7 +304,7 @@
 
   .three-column-table th:nth-child(3) h4,
   .three-column-table th:nth-child(1) h4 {
-    font-family: Proxima Nova;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 12px;
     font-weight: 600;
     line-height: 18px;
@@ -327,7 +327,7 @@
   .three-column-table th:nth-child(1) {
     /* width: 170px; */
     padding: 30px 16px 30px 0px;
-    font-family: Proxima Nova;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 12px;
     font-weight: 600;
     line-height: 18px;

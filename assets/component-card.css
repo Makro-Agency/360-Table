@@ -587,7 +587,7 @@
     border: 2px solid #0000001A;
 }
   .card__inner .size-button:hover span,
-  .card__inner .size-button.selected  span { color: #0D0D0D; }
+  .card__inner .size-button.selected  span { color: #00203F; }
 
  .card--card.gradient, .card__inner.gradient,.product-grid-container .card .media {
   border-radius: 20px;

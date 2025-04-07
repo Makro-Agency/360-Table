@@ -19,7 +19,7 @@
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  color: #0D0D0D;
+  color: #00203F;
   cursor:pointer;
 
 }
@@ -105,7 +105,7 @@
 }
 
 .header-header-text {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 600;
   line-height: 18px;
@@ -130,7 +130,7 @@
 }
 
 .header-shop-right span a {
-  /* font-family: Proxima Nova; */
+  /* font-family: "Neue Haas Grotesk Display Pro"; */
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
@@ -181,7 +181,7 @@
 
 .product-wrap-header-text p {
   margin: 0;
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
@@ -189,7 +189,7 @@
 }
 
 .price-txt {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
   line-height: 21px;
@@ -197,7 +197,7 @@
 }
 
 .dull-price-txt {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   text-decoration: line-through;
   font-weight: 400;
@@ -206,7 +206,7 @@
 }
 
 .review-text {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 700;
   line-height: 18px;
@@ -216,7 +216,7 @@
 }
 
 .review-count-number {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
   font-weight: 400;
   line-height: 18px;
@@ -236,7 +236,7 @@
 }
 
 .product-360-para p {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 400;
   line-height: 21px;
@@ -244,11 +244,11 @@
 }
 
 .product-360-link a {
-  font-family: Proxima Nova;
+  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 600;
   line-height: 16px;
-  color: #0d0d0d;
+  color: #00203F;
   display: flex;
   gap: 5px;
 }

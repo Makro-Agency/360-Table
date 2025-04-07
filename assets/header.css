@@ -310,7 +310,7 @@
   .shopify-section-header-sticky.menu-open .header__icon--summary > span span , 
   .shopify-section-header-sticky:hover .header__icon--summary > span span,
   .shopify-section-header-sticky.scrolled-past-header .header__icon--summary > span span {
-    color: #0d0d0d;
+    color: #00203F;
   }
   .template-index .header__icon--summary > span span{
     color: #fff;
@@ -330,6 +330,10 @@
   /* .header__heading-logo {
     max-width: 200px;
   } */
+  .header__icon--summary > span span {
+    font-weight: 500;
+  }
+ 
   .header__icon:hover .icon, .modal__close-button:hover .icon {
     transform: scale(1);
   }

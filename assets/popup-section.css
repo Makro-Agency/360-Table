@@ -92,10 +92,10 @@
     background: no-repeat;
     box-shadow: none;
     outline: none;
-    color: #0D0D0D;
+    color: #00203F;
     font-size: 16px;
     line-height: 100%;
-    font-family: Proxima Nova;
+    font-family: "Neue Haas Grotesk Display Pro";
     font-weight: 400;
   }
   .section-popup.popup_1 .popup-newsletter-form_field-wrapper input {
@@ -123,7 +123,7 @@
       cursor: pointer;
       padding: 0;
       width: auto;
-      color: #0D0D0D;
+      color: #00203F;
       opacity: 0.6;
       font-weight: 600;
       font-size: 16px;

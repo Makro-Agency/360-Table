@@ -124,7 +124,7 @@
   .details__disocunt .summary__title .icon-coupon { position: static; margin-right: 0.8rem; width: 1.6rem; height: 1.6rem; }
   .details__disocunt summary svg { position: absolute; top: calc(50% - 0.6rem); right: 0; }  
   .details__disocunt[open] summary svg .plus { opacity: 0; }
-  .details__disocunt .summary__title { font-size: 12px; font-weight: 700; line-height: 100%; text-transform: uppercase; color: #0D0D0D; display: flex; align-items: center; gap: 0; }
+  .details__disocunt .summary__title { font-size: 12px; font-weight: 700; line-height: 100%; text-transform: uppercase; color: #00203F; display: flex; align-items: center; gap: 0; }
   
   .details__disocunt .limoniapps-discountninja-cartdiscountfield-placeholder:not(#id) { margin-bottom: 0; }
   .details__disocunt .limoniapps-discountninja-cartdiscountfield-inputandbutton:not(#id) input { padding-left: 15px; background-image: none; }
@@ -134,7 +134,7 @@
   .limoniapps-discountninja-cartdiscountfield-feedback:not(#id) { margin-top: 0.6rem; }
   .limoniapps-discountninja-cartdiscountfield-discountcodes:not(#id) .limoniapps-discountninja-cartdiscountfield-discountcode { width: 100%; font-size: 14px; font-weight: 400;
     justify-content: space-between; background-color: transparent; background-image: url(coupon-02.svg); background-repeat: no-repeat; background-position: 0 center; padding-left: 2.4rem; padding-right: 0; background-size: 1.6rem 1.6rem; }
-  .limoniapps-discountninja-cartdiscountfield-discountcode:not(#id) svg { color: #0D0D0D; }
+  .limoniapps-discountninja-cartdiscountfield-discountcode:not(#id) svg { color: #00203F; }
 /* details disocunt */
 
   .totals.cart-subtotal-price { font-size: 16px; font-weight: 700; line-height: 150%; }
@@ -289,7 +289,7 @@ cart-drawer-items .routine-product-image-txt { gap: 2rem; }
   cart-drawer.drawer product-recommendations .card .price_b2b-true { display: flex; flex-direction: row-reverse; align-items: center; gap: 2rem; justify-content: flex-end; }
   cart-drawer.drawer product-recommendations .card .price__container--b2b { margin-top: 0; }
 
-  cart-drawer.drawer product-recommendations .card .price-item--regular { color: #0D0D0D; }
+  cart-drawer.drawer product-recommendations .card .price-item--regular { color: #00203F; }
   cart-drawer.drawer product-recommendations .price--on-sale .price__sale { display: flex; flex-wrap: wrap; }
   cart-drawer.drawer product-recommendations .price--on-sale .price__sale>span:not([class]) { order: 1; }
   cart-drawer.drawer product-recommendations .price--on-sale .price__sale>.price-item { margin-right: 5px; }
