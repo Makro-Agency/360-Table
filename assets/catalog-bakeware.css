@@ -98,20 +98,16 @@ flex-direction: column;
 }
 
 .banner-text-catalog-icon h2 {
-font-family: Cellofy;
 font-size: 40px;
 font-weight: 600;
 line-height: 40px;
 letter-spacing: -0.02em;
 margin: 0;
-color:#0D0D0D;
-
 }
 
 .banner-text-catalog-icon span a {
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 16px;
-font-weight: 600;
 line-height: 16px;
 text-decoration: none;
 color: #00203F;
@@ -119,7 +115,7 @@ color: #00203F;
 display: flex;
 padding: 0px 0px 5px 0px;
 gap: 5px;
-border-bottom: 3px solid #606d22;
+border-bottom: 3px solid currentColor;
 }
 
 #backware-catalog-section .banner-text-catalog p {
