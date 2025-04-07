@@ -897,7 +897,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   }
   .meta-size-selector  .size-button:hover{
       border: 2px solid #00000033;
-      font-weight: 600;
+      text-shadow: 0 0 0px currentColor;
   }
   
   .yotpo div {
@@ -1071,8 +1071,8 @@ padding: 3% 0 8% 0;
 }
 .main-product-section .price-monthly .month-price svg{
   cursor:pointer;
-
 }
+
 @media screen and (min-width:530px) and (max-width:577px){
 .main-product-section .close-btn{
 right:-15px; 
