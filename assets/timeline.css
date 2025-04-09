@@ -37,13 +37,10 @@
 .row-timeline .heading .section-heading {
 	max-width: 522px;
 	margin: 2rem auto 0 auto;
-	color: var(--Black, #0D0D0D);
 	text-align: center;
 	/* Header 02 */
-	font-family: Cellofy;
 	font-size: 40px;
 	font-style: normal;
-	font-weight: 600;
 	line-height: 100%;
 	/* 40px */
 	letter-spacing: -0.8px;
@@ -53,7 +50,7 @@
 .row-timeline p.section-description {
 	color: #00203F;
 	text-align: center;
-	font-family: "Neue Haas Grotesk Display Pro";
+	font-family: "Manrope";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -76,7 +73,7 @@
 .row-timeline .container .content .description {
 	margin-top: 0;
 
-	font-family: "Neue Haas Grotesk Display Pro";
+	font-family: "Manrope";
 	font-size: 14px;
 	font-style: normal;
 	font-weight: 400;
@@ -85,9 +82,9 @@
 }
 
 .row-timeline .container .content .title {
-	color: var(--Black, #0D0D0D);
+	
 	/* Header 03 */
-	font-family: Cellofy;
+	font-family: "Neue Haas Grotesk Display Pro";
 	font-size: 32px;
 	margin-bottom: 16px;
 	font-style: normal;
@@ -105,7 +102,8 @@
 	max-width: 280px;
 }
 .row-timeline .container .content .title{ margin-top:0; }
-.group{ display:flex;  align-items: center;  border-radius: 15px;  background: var(--gray-tones-black-2, rgba(0, 0, 0, 0.02));
+.group{ display:flex;  align-items: center;  border-radius: 15px;  
+	background: rgba(0, 0, 0, 0.05);
     padding: 20px; }
 .row-timeline .container.left .image {
 	order: 1;
@@ -170,7 +168,7 @@
 		margin-left: -2px;
 		/* To center the line */
 		background-color: transparent;
-		border-left: 1px dashed #606D22;
+		border-left: 1px dashed #00406e;
 		z-index: 1;
 	}
 
@@ -179,7 +177,7 @@
 		left: 50%;
 		width: 12px;
 		height: 12px;
-		background-color: #606D22;
+		background-color: #00406e;
 		border-radius: 50%;
 		margin-left: -6px;
 		/* To center the dot on the line */
@@ -359,7 +357,7 @@
         top: -8% !important;
         width: 12px;
         height: 12px;
-        background-color: #606d22;
+        background-color: #00406e;
         border-radius: 50%;
         margin-left: -6px;
         z-index: 4;
@@ -370,7 +368,7 @@
     height: 4px;
     top: 18px;
     background-color: transparent;
-    border-top: 1px dashed #606D22;
+    border-top: 1px dashed #00406e;
     left: 18px;
     margin-left: -6px;
     z-index: 2;
@@ -385,10 +383,10 @@
 
 .dot:before{
       content: '';
-    /* border: 1px solid #606d22; */
+    /* border: 1px solid #00406e; */
     position: absolute;
     top: -9px;
-    background-color: #606d22;
+    background-color: #00406e;
     opacity: 0.1;
     width: 30px;
     height: 30px;

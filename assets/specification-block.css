@@ -5,7 +5,7 @@
 	margin: 0 auto;
   
 }
-.specification{     background: var(--Secondary-Beige, #FAF5EB); }
+.specification{     background: rgba(0, 0, 0, 0.05); }
 
 .specification-block .image-container img {
 	width: 100%;
@@ -36,8 +36,6 @@
 }
 
 .specification-block .text-container h3 {
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: 600;
@@ -48,8 +46,7 @@
 }
 
 .specification-block .text-container p {
-	color: var(--Black, #0D0D0D);
-	font-family: "Neue Haas Grotesk Display Pro";
+
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -60,8 +57,6 @@
 
 .specification-block .content-container h2 {
 	margin-top: 0;
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
 	font-size: 40px;
 	font-style: normal;
 	font-weight: 600;
@@ -91,9 +86,6 @@
 	}
 
 	.specification-block .text-container h3 {
-		color: var(--Black, #0D0D0D);
-		/* 📱 Mobile/Header 05 */
-		font-family: Cellofy;
 		font-size: 20px;
 		font-style: normal;
 		font-weight: 600;
