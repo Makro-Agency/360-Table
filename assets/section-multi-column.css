@@ -7,9 +7,6 @@
 @media screen and (max-width:767px){
 .section-multi-column{ padding-top:14rem; } }
 .section-multi-column .section-title {
-	color: var(--Black, #0D0D0D);
-	/* Header 02 */
-	font-family: Cellofy;
 	font-size: 40px;
 	font-style: normal;
 	font-weight: 600;
@@ -23,8 +20,6 @@
 
 .section-multi-column .section-description {
 	text-align: left;
-	color: var(--Black, #0D0D0D);
-	font-family: "Neue Haas Grotesk Display Pro";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -62,8 +57,6 @@ p.section-description1{ margin-top:0; }
 .section-multi-column .grid-title {
 
 	margin: 30px 0 0px;
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: 600;
@@ -72,8 +65,6 @@ p.section-description1{ margin-top:0; }
 }
 
 .section-multi-column .grid-text {
-	color: var(--Black, #0D0D0D);
-	font-family: "Neue Haas Grotesk Display Pro";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;

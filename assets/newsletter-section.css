@@ -73,11 +73,11 @@
   opacity: 0; }
 .newsletter__wrapper .newsletter-form .field__input:not(:placeholder-shown)~.field__label {
   opacity: 0; }
-.newsletter__wrapper .newsletter-form .newsletter-form__button { height: auto; width: auto; top: 50%; right: 10px; left:auto; transform: translate(0, -50%);
-    color: var(--Black, #0D0D0D);
+.newsletter__wrapper .newsletter-form .newsletter-form__button { 
+  height: auto; width: auto; top: 50%; right: 10px; left:auto; transform: translate(0, -50%);
 text-align: center;
 /* CTA/Standard */
-font-family: "Neue Haas Grotesk Display Pro";
+
 font-size: 16px;
 font-style: normal;
 font-weight: 600;
