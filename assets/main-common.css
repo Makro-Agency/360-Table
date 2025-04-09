@@ -156,8 +156,8 @@ a:hover{
   min-width: fit-content;
 }
 .button.cta_button:hover {
-  background: #c3d957 !important;
-    color: #fcfbf7 !important;
+  background: #B2C0CA !important;
+  color: #000 !important;
 }
 .button.cta_button::before,
 .button.cta_button:after {
