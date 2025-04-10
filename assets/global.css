@@ -39,6 +39,7 @@ font-style: normal;
 font-display: swap;
 }
 
+
 @font-face {
 font-family: "Cellofy";
 src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/Cellofy-Regular.woff2?v=1723444027")
@@ -472,7 +473,7 @@ display: none;
 }
 
 body.gradient.template-collection.category.largeScaleF {
-background: #fcfbf7;
+background: #ffffff;
 }
 .container-fluid {
 width: 100%;

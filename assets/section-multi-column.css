@@ -130,8 +130,7 @@ p.section-description1{ margin-top:0; }
 
 
 	.section-multi-column .grid-title {
-		color: var(--Black, #0D0D0D);
-		font-family: Cellofy;
+
 		font-size: 20px;
 		font-style: normal;
 		font-weight: 600;

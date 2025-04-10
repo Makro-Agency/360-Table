@@ -1,6 +1,6 @@
 
 .Terms-condition-container {
-    background: #fcfbf7;
+    background: #F7F9FA; 
     width: 51%;
     margin: 0px auto;
     padding: 60px 38px;
@@ -45,14 +45,13 @@
   }
   
       .shipping-container {
-            background: #fcfbf7;
+            background: #F7F9FA; 
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
           }
   
           .shipping-container h1 {
-             color: var(--Black, #0D0D0D);
             font-size: 60px;
             font-style: normal;
             font-weight: 600;
@@ -65,7 +64,6 @@
           }
           .shipping-container h2 {
              font-size:24px;
-              color: #000000;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -85,7 +83,7 @@
         }
          @media only screen and (max-width: 767px) {
           .shipping-container {
-                 background:#fcfbf7;
+                 background:#F7F9FA; 
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;         
@@ -94,14 +92,13 @@
   
   
       .Privacy-Policy-container {
-            background: #fcfbf7;
+            background: #F7F9FA;  
             width: 51%;
             margin: 0px auto;
              padding: 60px 38px;
           }
   
           .Privacy-Policy-container h1 {
-            color: var(--Black, #0D0D0D);
             font-size: 60px;
             font-style: normal;
             font-weight: 600;
@@ -111,7 +108,6 @@
   
           .Privacy-Policy-container .section-heading {
               font-size:24px;
-              color: #000000;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -131,7 +127,7 @@
   }
    @media only screen and (max-width: 767px) {
        .Privacy-Policy-container {
-            background:#fcfbf7;
+            background:#ffffff;
             width:100%;
             margin: 60px auto; 
             padding: 0px 29px;
@@ -152,7 +148,7 @@
   
   
        .lifetime-warranty-container {
-            background: #fcfbf7;
+            background: #ffffff;
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -167,7 +163,6 @@
   
           .lifetime-warranty-container h2 {
               font-size:24px;
-              color: #000000;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -241,7 +236,7 @@
           }
          @media only screen and (max-width: 767px) {
          .lifetime-warranty-container {
-                 background:#fcfbf7;
+                 background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;      
@@ -259,7 +254,7 @@
           font-size: 60px;
         }
           .Affiliate-program-container {
-           background: #fcfbf7;
+           background: #F7F9FA; 
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -275,7 +270,6 @@
   
           .Affiliate-program-container h2 {
             font-size:24px;
-              color: #000000;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
@@ -284,7 +278,6 @@
   
           .Affiliate-program-container p {
             font-size:16px;
-             color: #000000;
               
               margin-bottom: 20px;
           }
@@ -294,12 +287,11 @@
           }
           .Affiliate-program-container  ul li{
             font-size:16px;
-             color: #000000;
               
           }
            @media only screen and (max-width: 767px) {
                .Affiliate-program-container {
-                  background:#fcfbf7;
+                  background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;      
@@ -314,7 +306,7 @@
   
   
    .accessibility-statement-container {
-               background: #fcfbf7;
+               background: #ffffff;
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -330,15 +322,13 @@
   
           .accessibility-statement-container h2 {
               font-size:24px;
-              color: #000000;
               padding-bottom: 10px;
               margin-bottom: 10px;
               padding-top: 10px;
               
           }
            .accessibility-statement-container h4 {
-            font-size:16px;
-               color: #000000;          
+            font-size:16px;        
           }
   
   
@@ -351,13 +341,12 @@
               margin-bottom: 40px;
           }
           .accessibility-statement-container  ul li{
-             color: #000000;
             font-size:16px;
           }
                
         @media only screen and (max-width: 767px) {
         .accessibility-statement-container {
-             background:#fcfbf7;
+             background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;     
@@ -369,7 +358,7 @@
   }
   
      .Influencer-page-container{
-             background:#fcfbf7;
+             background:#ffffff;
                 width: calc(100% - 20%);
               margin: 0px auto;
               padding: 60px 20px;
@@ -383,6 +372,7 @@
   
           .Influencer-page-container .section-para {
                font-size: 16px;
+               font-family: Manrope;
           }
   
           .Influencer-page-container .container {
@@ -419,14 +409,12 @@
               font-weight: 600;
               margin: 40px auto;
               text-decoration: none;
-              color: #000000;
           }
           .Influencer-page-container .margin-top{
               margin-top: 20px;
           }
              .readmore-underline {
               font-weight: 600;
-              color: #000000;
               text-decoration: none;
               margin: 0px;
               padding: 0px;
@@ -474,7 +462,7 @@
           }
                   @media (max-width: 767px) {
                    .Influencer-page-container {
-                        background:#fcfbf7;
+                        background:#ffffff;
                         width:100%;
                         margin: 60px auto; 
                         padding: 0px 29px;    

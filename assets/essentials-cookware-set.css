@@ -166,7 +166,7 @@ flex-direction:column;
   .essentials-cookware-set .upgrade-button{ max-width:100%;} }
   .essentials-cookware-set .compare-price{
   color: var(--gray-tones-black-20, rgba(0, 0, 0, 0.20));
-  font-family: Cellofy;
+
   font-size: 16px;
   font-style: normal;
   font-weight: 600;

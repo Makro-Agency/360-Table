@@ -120,7 +120,7 @@ a:hover{
 .swiper-button-div .swiper-button-prev,
 .swiper-button-div .swiper-button-next{
   background-color: #00406E;
-    color: #fcfbf7;
+    color: #ffffff;
     border-radius: 100px;
     height: 50px;
     width: 50px;
@@ -140,7 +140,7 @@ a:hover{
 /* button hover and custome */
 .button.cta_button {
   background: #00406E;
-  color: #FCFBF7;
+  color: #ffffff;
   font-size: 16px;
   line-height: 100%;
   font-weight: 500;

@@ -83,7 +83,7 @@ span.title_text {
 
 .need-help-box h3 {
   margin: 0;
-  color: #fcfbf7;
+  color: #ffffff;
   /* font-family: Cellofy; */
   font-size: 32px;
   font-weight: 600;
@@ -94,7 +94,7 @@ span.title_text {
 
 .need-help-box p {
   margin: 0;
-  color: #fcfbf7;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -107,7 +107,7 @@ span.title_text {
   align-items: center;
   width: 142px;
   height: 40px;
-  background: #fcfbf7;
+  background: #ffffff;
   color: #00203F;
   border-radius: 100px;
 
@@ -197,7 +197,7 @@ textarea::placeholder {
   font-size: 16px;
   line-height: 16px;
   text-align: center;
-  color: #fcfbf7;
+  color: #ffffff;
   margin-top: 30px;
   text-decoration: none;
 }

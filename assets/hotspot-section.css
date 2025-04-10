@@ -29,7 +29,6 @@
 #hotspot-section .advantage-inner-section-first-div{ max-height:650px; }
 #hotspot-section .advantage-inner-section-first-div h2 {
   margin: 0;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;
@@ -177,7 +176,6 @@ line-height: 150%; /* 18px */
 }
 
 #hotspot-section .advantag-hidden-text .advantag-inner-icon-header-text h4 {
-  font-family: Cellofy;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;

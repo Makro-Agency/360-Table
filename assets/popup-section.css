@@ -26,7 +26,7 @@
   .popup-box {
     display: flex;
     border: none;
-    background: #FCFBF7;
+    background: #ffffff;
     border-radius: 15px;
     overflow: hidden;
     align-items: self-end;
@@ -81,7 +81,7 @@
   }
   .section-popup.popup_1 .popup-newsletter-form_field-wrapper::before {
     content: "";
-    border-left: 4px dotted #FCFBF7;
+    border-left: 4px dotted #ffffff;
     height: 50px;
     position: absolute;
     top: 0;
