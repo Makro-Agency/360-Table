@@ -438,6 +438,7 @@ cart-items.is-empty a.button:hover:after {
 }
 .send-link:hover,#full-blend-hero-section-hero .full-blend-hero-section-container-box-btn:hover{
   background:#b2c0ca;
+  color:#00203F; 
 }
 
 .header.index-header:hover .header__icon:hover svg{
