@@ -131,7 +131,7 @@ ol.breadcrumb{
     border-radius: 100px;
     background: #00406E;
     text-decoration: none;
-    color: #fcfbf7;
+    color: #ffffff;
     display: inline-flex;
 }
 .sell-button {
@@ -144,7 +144,7 @@ ol.breadcrumb{
     border-radius: 100px;
     background: #00406E;
     text-decoration: none;
-    color: #fcfbf7;
+    color: #ffffff;
     display: inline-flex;
   }
   .template-index .custom-tags{
@@ -237,7 +237,7 @@ cart-drawer .drawer__inner{
   padding-top: 30px;
 }
 .template-cart product-recommendations{
-  background:#fcfbf7;
+  background:#ffffff;
 }
 
 .template-cart .related-products__heading.main_heading {
@@ -282,7 +282,7 @@ cart-drawer .drawer__inner{
   font-weight: 600;
 }
 .layout1-trans .header.index-header .navbar_item > div.navbar_link {
-  color: #FCFBF7;
+  color: #ffffff;
   font-weight: 600;
 }
 .layout1-trans .header.index-header:hover .navbar_item > div.navbar_link {
@@ -309,7 +309,7 @@ cart-drawer .drawer__inner{
 
 .shopify-section-header-sticky.scrolled-past-header .header.index-header {
   position: fixed !important;
-  background: #FCFBF7;
+  background: #ffffff;
   top: 0;
 }
 .megamenu-about-content-main .product-360-link a{
@@ -414,7 +414,7 @@ box-shadow: none;
 .cart-drawer-show cart-drawer.drawer.is-empty a.button ,
 cart-items.is-empty a.button {
   background: #00406E;
-    color: #fcfbf7;
+    color: #ffffff;
     font-size: 16px;
     line-height: 100%;
     font-weight: 600;
@@ -430,7 +430,7 @@ cart-items.is-empty a.button {
 .cart-drawer-show cart-drawer.drawer.is-empty  a.button:hover ,
 cart-items.is-empty a.button:hover {
     background: #00203F;
-    color: #fcfbf7;
+    color: #ffffff;
 }
 .cart-drawer-show cart-drawer.drawer.is-empty  a.button:hover:after ,
 cart-items.is-empty a.button:hover:after {

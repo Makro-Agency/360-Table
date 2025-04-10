@@ -4,8 +4,7 @@
   }
   .video-group ul li.blog-meta{ margin-top:0; }
    .custom-cookware-new-section .card-content .desc{ max-width:300px; height:fit-content; 
-       color: var(--Black, #0D0D0D);
-  font-family: Cellofy;
+    
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -21,8 +20,6 @@
   .custom-cookware-new-section .video-group-wrapper1{ margin-top:6rem; }
   .custom-cookware-new-section .main_heading{
       
-        color: var(--Black, #0D0D0D);
-      font-family: Cellofy;
       font-size: 40px;
       font-style: normal;
       font-weight: 600;

@@ -1070,9 +1070,10 @@ line-height: 150%;
 }
 
   .yotpo-new-review-btn-wrapper #yotpo-main-widget-btn:hover { 
-  yotpo-empty-white: #606D22;
-  --primary-color: #606D22; 
+  yotpo-empty-white: #b2c0ca ;
+  --primary-color: #00203F2; 
  background: #b2c0ca;
+ color:#00203F; 
     border-color: #b2c0ca;
 }
 

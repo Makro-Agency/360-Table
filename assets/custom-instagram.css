@@ -15,9 +15,7 @@
   .custom-instagram .video-group-wrapper .slide-nav .nav-btn.fea-col-slide-next{ display:none;}
   .video-conent h4{ margin-top:3rem;  margin-bottom:0; }
   .video-conent h4{
-   color: var(--Black, #0D0D0D);
   /* Header 04 */
-  font-family: Cellofy;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
@@ -116,7 +114,6 @@
   
   .custom-instagram  .main_heading{
       color: #000;
-      font-family: Cellofy;
       font-size: 40px;
       font-style: normal;
       font-weight: 600;

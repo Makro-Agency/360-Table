@@ -22,7 +22,6 @@
   .recent-discussions h2{
     color: var(--Black, #0D0D0D);
   /* Header 02 */
-  font-family: Cellofy;
   font-size: 40px;
   font-style: normal;
   font-weight: 600;
@@ -46,7 +45,6 @@
   }
   .discussion-details h3{ margin-bottom:0; color: var(--Black, #0D0D0D);
   /* Header 05 */
-  font-family: Cellofy;
   font-size: 20px;
   font-style: normal;
   font-weight: 600;
@@ -54,7 +52,6 @@
   .recent-discussions-sidebar .sidebar h2{ margin-bottom:40px;
      color: var(--Black, #0D0D0D);
   /* Header 03 */
-  font-family: Cellofy;
   font-size: 32px;
   font-style: normal;
   font-weight: 600;

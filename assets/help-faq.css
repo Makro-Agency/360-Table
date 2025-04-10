@@ -15,7 +15,6 @@
 .hero-faq-first h2 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;
@@ -49,7 +48,6 @@
 .faq-content h3 {
   margin: 0;
   color: #00203F;
-  font-family: Cellofy;
   font-size: 32px;
   font-weight: 600;
   line-height: 38.4px;
@@ -64,8 +62,6 @@
   justify-content: space-between;
   /* align-items: center; */
   cursor: pointer;
-
-  font-family: Cellofy;
   font-size: 20px;
   font-weight: 600;
   line-height: 24px;

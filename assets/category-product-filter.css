@@ -419,7 +419,7 @@ input:checked + .slider-toggle:before {
   border-radius: 100px;
   background: #e6a817;
   text-decoration: none;
-  color: #fcfbf7;
+  color: #ffffff;
   display: inline-flex;
 }
 /* .choice-button {

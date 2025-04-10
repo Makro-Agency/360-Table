@@ -127,7 +127,7 @@
   }
    @media only screen and (max-width: 767px) {
        .Privacy-Policy-container {
-            background:#fcfbf7;
+            background:#ffffff;
             width:100%;
             margin: 60px auto; 
             padding: 0px 29px;
@@ -148,7 +148,7 @@
   
   
        .lifetime-warranty-container {
-            background: #fcfbf7;
+            background: #ffffff;
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -236,7 +236,7 @@
           }
          @media only screen and (max-width: 767px) {
          .lifetime-warranty-container {
-                 background:#fcfbf7;
+                 background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;      
@@ -291,7 +291,7 @@
           }
            @media only screen and (max-width: 767px) {
                .Affiliate-program-container {
-                  background:#fcfbf7;
+                  background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;      
@@ -306,7 +306,7 @@
   
   
    .accessibility-statement-container {
-               background: #fcfbf7;
+               background: #ffffff;
             width: 51%;
             margin: 0px auto;
             padding: 60px 38px;
@@ -346,7 +346,7 @@
                
         @media only screen and (max-width: 767px) {
         .accessibility-statement-container {
-             background:#fcfbf7;
+             background:#ffffff;
                   width:100%;
                   margin: 60px auto; 
                   padding: 0px 29px;     
@@ -358,7 +358,7 @@
   }
   
      .Influencer-page-container{
-             background:#fcfbf7;
+             background:#ffffff;
                 width: calc(100% - 20%);
               margin: 0px auto;
               padding: 60px 20px;
@@ -462,7 +462,7 @@
           }
                   @media (max-width: 767px) {
                    .Influencer-page-container {
-                        background:#fcfbf7;
+                        background:#ffffff;
                         width:100%;
                         margin: 60px auto; 
                         padding: 0px 29px;    

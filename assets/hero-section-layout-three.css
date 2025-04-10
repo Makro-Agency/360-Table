@@ -52,7 +52,7 @@
 .hero-section-carousel-container .swiper-button-next,
 .hero-section-carousel-container .swiper-button-prev {
   color: #00203F;
-  background: #fcfbf7;
+  background: #ffffff;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -111,7 +111,7 @@
 
 #hero-section-carousel .full-blend-hero-section-container-box {
   padding: 40px;
-  background-color: #fcfbf7;
+  background-color: #ffffff;
   display: flex;
   flex-direction: column;
   row-gap: 20px;
@@ -145,7 +145,6 @@
 #hero-section-carousel
   .full-blend-hero-section-container-box-heading-container
   h1 {
-  font-family: Cellofy;
   font-size: 40px;
   font-weight: 600;
   line-height: 40px;

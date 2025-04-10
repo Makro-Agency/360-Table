@@ -746,7 +746,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   
   /* updated code */
   .product-form__submit.button:after{ box-shadow:none; }
-  .product-form__submit.button{ border:none; margin-top:0; font-size:16; font-weight:600; color:#FCFBF7; font-family:Proxima Nova;  }
+  .product-form__submit.button{ border:none; margin-top:0; font-size:16; font-weight:600; color:#ffffff; font-family:Proxima Nova;  }
   .quantity__label.form__label{ display:none;}
   .product__info-wrapper .quantity:after{ border-radius:100px;}
   .product__info-container .product-form{ max-width:389px; width:100%;    margin-top: 0;}
@@ -769,7 +769,6 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   .product__info-container div[id*=price-template--]{ margin:20px 0; }
   .price__regular .compare-price{
     color: rgba(0, 0, 0, 0.20);
-  font-family: Cellofy;
   font-size: 16px;
   font-style: normal;
   font-weight: 600;
@@ -901,7 +900,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   }
   
   .yotpo div {
-  background: #FCFBF7 !important;
+  background: #ffffff !important;
   }
   .quantity:before{
   background: transparent !important;
@@ -920,8 +919,6 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
       }
   }
     .desktop-hide .review-title-wrapper h1{
-  
-      font-family: Cellofy;
       font-size: 32px;
       font-style: normal;
       font-weight: 600;
