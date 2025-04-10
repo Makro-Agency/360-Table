@@ -126,7 +126,7 @@
 #client-slider-with-text .health-client-info-true-icon {
   display: flex;
   gap: 5px;
-  color: #606d22;
+  color:#00203F;
 }
 
 #client-slider-with-text .health-client-info-true-icon span {
@@ -139,7 +139,7 @@
 
 #client-slider-with-text .true-icon-why-health svg {
   padding: 3px;
-  background-color: #606d22;
+  background-color:#b2c0ca;
   border-radius: 100px;
   display: inline-flex;
   width: fit-content;
@@ -218,11 +218,11 @@
   width:20px;
 }
 .why-video-btn-eye:hover{
-    background: #c3d957;
-    color: #fff;
+    background:#b2c0ca;
+    color:#00203F ;
 }
 .why-video-btn-eye:hover svg path{
-    stroke: #ffffff;
+    stroke: #00203F ;
 }
 
 .client-slider-with-text { display: flex; flex-wrap: nowrap; flex-direction: row; }

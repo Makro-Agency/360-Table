@@ -105,7 +105,7 @@ padding: 4px 12px 4px 10px;
   display: flex;
   left:0;
   align-items: center;
-color: var(--Green, #606D22);
+color: #00203F; 
 /* Body Text Small / Medium */
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 12px;

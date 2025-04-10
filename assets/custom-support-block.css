@@ -217,8 +217,8 @@
 @media screen and (max-width:767px) {
    .button.cta_button.desktop-hide{
    display: inline-flex;
-   background: #606d22;
-    color: #fcfbf7;
+   background: #b2c0ca;
+    color: #00203F;
     font-size: 16px;
     line-height: 100%;
     font-weight: 600;

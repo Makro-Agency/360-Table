@@ -3,7 +3,7 @@
     .chef-section .title_video_wrapper{ padding-bottom:40px !Important;}
   .chef-section .main_heading{ font-size: 30px;
         margin-bottom:10px !Important; } }
-
+ .chef-section .main_heading{ margin-bottom:20px; }
 .video-conent p{
     color: var(--Black, #0D0D0D);
   /* Body Text Large / Regular */
@@ -18,12 +18,10 @@
   .chef-section .video-group-wrapper .slide-nav .nav-btn.fea-col-slide-next{ display:none;}
   .video-conent h4{ margin-top:3rem;  margin-bottom:0; }
   .video-conent h4{
-   color: var(--Black, #0D0D0D);
-  /* Header 04 */
-  font-family: Cellofy;
   font-size: 24px;
   font-style: normal;
   font-weight: 600;
+  margin-bottom:10px; 
   line-height: 120%; /* 28.8px */
   letter-spacing: -0.48px;
   }
@@ -170,9 +168,9 @@
     }
    .chef-section  .video-group-wrapper .slide-nav .nav-btn {
         position: absolute;
-        background-color: #606d22;
+        background-color: #b2c0ca;
         border-radius: 100px;
-        color: #fcfbf7;
+        color:#00203F;
         height: 50px;
         width: 50px;
         display: flex;

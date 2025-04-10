@@ -13,7 +13,7 @@
 }
 
 .blog-articles__article:hover .card__content a{
-  color: #c3d957!important;
+  color: #b2c0ca !important;
   font-weight: 600 !important;
   opacity:1;
 }
@@ -24,8 +24,8 @@
   height: max(94vh) !important;
 }
 #full-blend-hero-section-why1 .full-blend-hero-section-container-box-btn:hover{
-  background: #c3d957 !important;
-  color: #fcfbf7 !important;
+  background: #b2c0ca !important;
+  color: #00203F !important;
 }
 .main-blog-header {
   text-align: center; margin-bottom: 40px; }
@@ -120,7 +120,7 @@
     background: rgba(0, 0, 0, 0.02);
     border-radius: 100px;
     align-items: center; }
-.article-tab ul li.active{   background: #606D22; }
+.article-tab ul li.active{   background: #b2c0ca; color: #00203F; }
 .main-blog a.tab-link.active{ min-width:142px;   }
 .main-blog a.tab-link{     padding: 12px 25px; height:50px; 
     border-radius: 100px; min-width:181px;text-transform: capitalize; }

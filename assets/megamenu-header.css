@@ -210,7 +210,7 @@
   font-size: 12px;
   font-weight: 700;
   line-height: 18px;
-  color: #606d22;
+  color:#00203F;
   display:flex;
   align-items:center;
 }
@@ -347,7 +347,7 @@ a.product-360-category-inner{
   /* color: #c3d957; */
 }
 a.product-360-category-inner:hover .product-360-link{
-  color: #c3d957;
+  color:#b2c0ca;
 }
 a.product-360-category-inner:hover .product-360-link{
   /* text-decoration:underline; */
@@ -398,7 +398,7 @@ a.product-360-category-inner:hover .product-360-link{
    color:#00406E;
 }
 .image-width-text-header:hover .product-360-link a{
-  color:#c3d957;
+  color:#b2c0ca;
 }
 .image-width-text-header:hover .product-360-link a,.header-shop-right span a:hover{
   /* text-decoration:underline; */

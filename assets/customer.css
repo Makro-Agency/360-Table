@@ -430,10 +430,12 @@ border-radius: 10px;
 .activate button[name='decline'],
 .addresses li > button,
 .addresses form button[type] {
-  background-color: #606d22;
-  color: rgb(var(--color-button-text)));
+  background-color: #00406e;
+  color: #FFFFFF; 
 }
-
+.customer.addresses ul form button[type=reset]:hover , .customer.addresses form button[type=reset]:hover{
+  background-color:#b2c0ca; color:#00203F; 
+}
 
 @media only screen and (min-width: 750px) {
   .activate button[name='decline'] {
@@ -842,8 +844,8 @@ margin-bottom: 0; }
 
 }
   .customer button:hover {
-    background: #c3d957;
-      color: #fcfbf7;
+    background: #b2c0ca;
+      color: #00203F;
   }
   .customer button:hover:after,
   .customer button:after {
@@ -854,13 +856,13 @@ margin-bottom: 0; }
   text-transform: capitalize; font-weight: normal; margin-top: 2.28571rem; font-weight: 600;
     text-decoration: underline;
     text-decoration-thickness: 3px;
-    text-decoration-color: #606D22;
+    text-decoration-color: #00203F;
     text-underline-offset: 6px;
     margin: 20px 0 0 auto;
   }
   .login .field+a:hover {
     /* color: #c3d957 !important; */
-    text-decoration-color: #c3d957;
+    text-decoration-color:#b2c0ca;
   }
   .login a.createAccount,
   .customer a.createAccount {
@@ -869,15 +871,15 @@ margin-bottom: 0; }
       font-weight: 600;
     text-decoration: underline;
     text-decoration-thickness: 3px;
-    text-decoration-color: #606d22;
+    text-decoration-color: #00203F;
     text-underline-offset: 6px;}
   .login a.createAccount:hover,
   .customer a.createAccount:hover {
     /* color: #c3d957 !important; */
-    text-decoration-color:#c3d957;
+    text-decoration-color:#00203F;
   }
 .customer a:hover{
-      text-decoration-color:#c3d957 !important;
+      text-decoration-color:#00203F !important;
 }
 .customer a.createAccount span {
    text-decoration-thickness: 0;
@@ -980,7 +982,7 @@ margin-top: 2.28571rem; }
   font-size: 1.6rem;
 font-weight: 600; line-height: 1; text-transform: capitalize; }
 .customer.addresses a:hover {
-  color: #c3d957;
+  color: #00203F;
 }
 
 .customer .select:hover.select:after,

@@ -35,7 +35,7 @@
   line-height: 21px;
   display: flex;
   align-items: center;
-  color: #fcfbf7;
+  color: #b2c0ca;
 }
 
 .annoucement-bar-text-width-right-icon a {
@@ -44,10 +44,10 @@
   font-weight: 600;
   line-height: 21px;
   text-align: center;
-  color: #fcfbf7;
+  color: #b2c0ca;
 }
 .annoucement-bar-text-width-right-icon a:hover{
-  color:#c3d957;
+  color:#b2c0ca;
 }
 .count-annoucement {
   display: flex;
@@ -58,8 +58,8 @@
   padding: 2px 8px 2px 8px;
   gap: 10px;
   border-radius: 2px;
-  background-color: #fcfbf7;
-  color: #606d22;
+  background-color: #b2c0ca;
+  color:#00203F;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-weight: 600;
