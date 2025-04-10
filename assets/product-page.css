@@ -144,9 +144,9 @@
      font-weight: 500; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
 
 .product__info-container .product-form .product-form__submit:not([disabled]):hover {
-  background: #A6BB3A;
-    border-color: #A6BB3A;
- color:#fff; 
+  background: #b2c0ca;
+    border-color: #b2c0ca;
+ color:#00203F; 
 }
 .product__info-container .product-form .product-form__submit:not([disabled]):hover:after { 
   --border-offset: 0px; 
@@ -268,9 +268,9 @@
     border: 1px solid #00203F;
 }
 .cta-btn.show-more:hover {
-  background: #A6BB3A;
-  border-color: #A6BB3A;
-  color: #ffffff;
+  background:#b2c0ca;
+  border-color: #b2c0ca;
+  color: #00203F;
 }
 
 .product__info-container .product__accordion .accordion-item { padding:0; }
@@ -1045,7 +1045,7 @@ line-height: 150%;
     margin-top: 2px; }
   .yotpo-summary-section .yotpo-star-rating .star-container { width: 28px; height: 28px; }
   .yotpo-summary-section .yotpo-star-rating .star-container .yotpo-star-rating-icon { width: 100%; height: 100%; padding: 0 6px; }
-  .yotpo-star-rating .star-container .yotpo-star-rating-icon linearGradient stop:first-child { stop-color: #606d22; }
+  .yotpo-star-rating .star-container .yotpo-star-rating-icon linearGradient stop:first-child { stop-color: #b2c0ca; }
   .yotpo-star-rating .star-container .yotpo-star-rating-icon path { stroke: #00406E;fill: #00406E; }
   .yotpo-summary-section .yotpo-star-rating .star-container:not(:last-child) { margin-right: 2px; }
 
@@ -1072,8 +1072,8 @@ line-height: 150%;
   .yotpo-new-review-btn-wrapper #yotpo-main-widget-btn:hover { 
   yotpo-empty-white: #606D22;
   --primary-color: #606D22; 
- background: #A6BB3A;
-    border-color: #A6BB3A;
+ background: #b2c0ca;
+    border-color: #b2c0ca;
 }
 
 
@@ -1193,7 +1193,7 @@ line-height: 150%;
 }
 .yotpo-horizontal-pagination .yotpo-pagination-number-container .yotpo-pagination-number:hover{
     background: none !important;
-    color: #606d22 !important;;
+    color:#00203F !important;;
 }
 /* yotpo widget */
 

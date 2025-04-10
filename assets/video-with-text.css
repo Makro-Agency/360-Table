@@ -111,7 +111,7 @@
     content: "";
     width: 2px;
     display: block;
-    border-left: 1px dashed #606d22;
+    border-left: 1px dashed #00203F;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -137,8 +137,8 @@
     display: inline-block;
     padding: 15px 25px;
     border-radius: 100px;
-    background-color: #606d22;
-    color: #fcfbf7;
+    background-color: #b2c0ca;
+    color: #00203F;
     width: fit-content;
   }
   

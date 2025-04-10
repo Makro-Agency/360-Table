@@ -274,8 +274,8 @@ color: #000;
 }
 
 .button--secondary:not(.button--primary):hover {
-  background: #A6BB3A;
-  color: #fff;
+  background: #b2c0ca;
+  color:#00203F;
 }
 .button--secondary:not(.button--primary):hover:after {
 --border-offset: 0px;

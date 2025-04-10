@@ -35,8 +35,6 @@
 
 .recipe-section-new .recipe-header h2 {
 	margin: 10px 0;
-	color: var(--Black, #0D0D0D);
-	font-family: Cellofy;
 	font-size: 32px;
 	font-style: normal;
 	font-weight: 600;
@@ -63,7 +61,7 @@
 	margin: 10px 0;
 	padding:14px 16px; 
      border-radius: 15px;
-    background: var(--Secondary-Beige, #FAF5EB);
+    background: #F7F9FA; 
     position:relative;
 }
 
@@ -107,7 +105,7 @@
 }
 
 .recipe-section-new .cta-button {
-	background-color: #606D22;
+	background-color:#b2c0ca;
 	color: white;
 	border: none;
 	padding: 10px 26px 10px 25px;
@@ -115,7 +113,7 @@
 	height: 50px;
 	cursor: pointer;
 	transition: background-color 0.3s;
-	color: var(--White, #FCFBF7);
+	color: #00203F;
 	text-align: center;
 	/* CTA/Standard */
 	font-family: "Proxima Nova";
@@ -127,7 +125,7 @@
 }
 
 .recipe-section-new .cta-button:hover {
-	background-color: #606D22;
+	background-color: #b2c0ca;
 }
 
 .recipe-section-new .recipe-images {
@@ -150,10 +148,8 @@
 	margin-bottom: 0;
 	margin-top: 0;
 	letter-spacing: 0;
-	color: var(--Black, #0D0D0D);
 	text-overflow: ellipsis;
 	/* Body Text Large / Medium */
-	font-family: "Proxima Nova";
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 600;
@@ -186,27 +182,21 @@
 	display: flex;
 	align-items: center;
 	border-radius: 50px;
-	background: var(--Secondary-Beige, #FAF5EB);
-	color: var(--Green, #606D22);
+	background: #B2C0CA;
+	color: #00203F; 
 	padding: 4px 12px;
-	/* Body Text Small / Medium */
-	font-family: "Proxima Nova";
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 600;
 	line-height: 150%;
-	/* 18px */
 }
 
 .recipe-section-new .recipe-header ul .tag-meta:last-child {
-	color: var(--Secondary-Red, #CE1B03);
-	/* Body Text Small / Medium */
-	font-family: "Proxima Nova";
+	color: #00406E;
 	font-size: 12px;
 	font-style: normal;
 	font-weight: 600;
 	line-height: 150%;
-	/* 18px */
 }
 
 .recipe-section-new {
@@ -233,8 +223,12 @@
 .recipe-section-new .cta-button span {
 	margin-left: 5px;
 }
+  .recipe-section-new .product-info:hover .product-details span svg path{
+	stroke:#00203F; 
+  }
+    .recipe-section-new .button.cta_button:hover svg path{ stroke:#00203F; }
   .recipe-section-new .product-info:hover .product-details span svg rect{
-    fill:#A6BB3A;
+    fill:#b2c0ca;
   }
   @media screen and (max-width:576px) {
 .recipe-section-new .recipe-images img{ max-height:420px; border-radius:15px; } }
@@ -321,10 +315,10 @@
                <p class="price">{{ product.price | money }} <span class="discounted-price">{{ product.compare_at_price | money }}</span></p>
             </div>
             <span>
-               <svg xmlns="http://www.w3.org/2000/svg" width="40" height="41" viewBox="0 0 40 41" fill="none">
-                  <rect y="0.5" width="40" height="40" rx="20" fill="#606D22"/>
-                  <path d="M22.8152 23.125L25.25 20.4987M25.25 20.4987L22.8176 17.875M25.25 20.4987H14.75" stroke="#FCFBF7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-               </svg>
+             <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+<rect width="40" height="40" rx="20" fill="#00406E"/>
+<path d="M22.8152 22.625L25.25 19.9987M25.25 19.9987L22.8176 17.375M25.25 19.9987H14.75" stroke="#FCFBF7" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
             </span>
          </div>
       </div>

@@ -162,18 +162,18 @@
 }
 
 .product-card-wrapper .card__inner:hover .size-button{
-    background: #fff;
+    background: transparent;
     /* color: #606d22; */
     /* box-shadow: 0 0 0 1.5px #606d22; */
 }
-
+.card-information .caption-with-letter-spacing.light{ margin-bottom:5px; }
 @media screen and (min-width: 750px) {
   .card__information {
     padding-bottom: 1.7rem;
     padding-top: 1.7rem;
   }
 }
-
+.button.cta_button:hover svg path{  stroke:#00203f; }
 .card__badge {
   align-self: flex-end;
   grid-row-start: 3;
@@ -580,7 +580,7 @@
   /* .card__inner .size-button:hover, */
 .card__inner .size-button.selected { 
   background:#fff; 
-  color: #606D22; 
+  color: #b2c0ca; 
   border: 2px solid;
 }
 .card__inner .size-button:hover{

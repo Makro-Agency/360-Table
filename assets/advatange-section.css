@@ -83,7 +83,7 @@
 }
 
 .back_color_light-green {
-  background: #c3d957;
+  background:#b2c0ca;
 }
 
 .advantag-inner-icon-header-text h4 {
@@ -98,7 +98,6 @@
 .advantag-inner-icon-header-text p {
   margin: 0;
   color: #00203F;
-  font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
@@ -140,7 +139,7 @@
   padding: 10px 20px 10px 10px;
   gap: 15px;
   border-radius: 15px;
-  background: #faf5eb;
+  background: #F7F9FA;
   margin-top: 6px;
   max-width:574px;
   position:relative;
@@ -173,7 +172,7 @@
 
 .advantag_arrow_link {
   padding: 14px;
-  background-color: #606d22;
+  background-color:#00406E;
   border-radius: 100px;
   display: inline-flex;
   height: fit-content;
@@ -199,7 +198,7 @@
   /* color:#A6BB3A; */
 }
 .advantage-image-with-txt:hover .advantag_arrow_link {
-    background-color: #A6BB3A;
+    background-color: #b2c0ca;
 }
 @media only screen and (max-width: 1440px) {
   #advatage-section {

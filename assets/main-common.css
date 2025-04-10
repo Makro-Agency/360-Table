@@ -18,7 +18,7 @@ a:hover{
 
 /* menu */
 .cust-inner-menu li:hover a{
-  border-bottom: 1.5px solid #c3d957;
+  border-bottom: 1.5px solid #b2c0ca;
   width: fit-content;
 }
 .navabar-desktop .navbar_item .navbar_link:hover {
@@ -28,7 +28,7 @@ a:hover{
   color: #00203F;
 }
 .card-wrapper .card--card:hover .card__heading a{
-    color: #c3d957 !important;
+    color: #b2c0ca !important;
 }
 .link.makro--link{
     font-weight: 500;
@@ -58,11 +58,11 @@ a:hover{
 .pagination__list li:hover .link
 .header-shop-right .link
 .pagination__item:hover{
-  color: #c3d957!important;
+  color: #b2c0ca !important;
 }
 .banner-group .banner:hover .link { color: #00406E; }
 .social-icons a:hover svg path{
-   fill: #c3d957;
+   fill: #b2c0ca;
 }
 .navbar_item a{
   align-items: center;
@@ -85,7 +85,7 @@ a:hover{
     padding: 5px;
     margin-bottom: 10px;
 }
-.cmn-menu-product:hover .boxhover-bg,
+.dropdown_menu-inner  .megamenu-second-row .product-360-text-area{ margin-top:10px; }
 .category-image-text-link:hover,
 .image-width-text-header:hover{
   background: rgba(0, 0, 0, 0.05);
@@ -112,7 +112,8 @@ a:hover{
 .auther-content .right-arrow:hover,
 .swiper-button-div .swiper-button-prev:hover,
 .swiper-button-div .swiper-button-next:hover{
-  background-color: #c3d957;
+  background-color: #b2c0ca;
+  color:#00203F; 
 }
 .slide-nav .nav-btn,
 .auther-content .right-arrow,
@@ -133,7 +134,7 @@ a:hover{
 	background:transparent; 
 }
 .template-cart .related-products .slide-nav .nav-btn:hover{
-	background:#c3d957; 
+	background:#b2c0ca; 
 }
 
 /* button hover and custome */
@@ -157,7 +158,7 @@ a:hover{
 }
 .button.cta_button:hover {
   background: #B2C0CA !important;
-  color: #000 !important;
+  color: #00203F !important;
 }
 .button.cta_button::before,
 .button.cta_button:after {
@@ -175,11 +176,11 @@ a:hover{
 
 /* line */
 .banner-text-catalog-icon span a:hover{
-    border-color: #c3d957 !important;
+    border-color: #b2c0ca !important;
 }
 .main_access a:hover,
 .main_privacy a:hover,.main_copyright a:hover{
-  color:#c3d957;
+  color:#b2c0ca;
 }
 .video-group-wrapper .swiper-wrapper{
       align-items: flex-start;

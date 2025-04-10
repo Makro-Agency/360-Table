@@ -12,7 +12,7 @@ li.blog-meta.Easy:before{
     width: 4px;
     height: 4px;
     border-radius: 30px;
-    background-color:#606D22;
+    background-color:#b2c0ca;
       position: relative;
     top: -1px;
 }
@@ -36,7 +36,7 @@ li.blog-meta.Difficult:before{
 }
 
 .template-article header ul.custom-meta li{ 
-color: var(--Green, #606D22);
+color: #00203F; 
 /* Body Text Small / Medium */
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 12px;
@@ -111,7 +111,7 @@ background: var(--Secondary-Beige, #FAF5EB);
 }
 
 .template-article .product-button {
-    background-color:#606D22;
+    background-color:#b2c0ca;
     border: none;
     padding: 10px;
     cursor: pointer;
