@@ -7,7 +7,7 @@
    .cookware-new-section .card-content .desc{ max-width:300px; height:fit-content; 
   font-size: 20px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 24px */                                     
                                             }
   .cookware-new-section .card-content{ margin-top:0px; height:fit-content; margin-right:0px; padding:30px; border-radius: 15px;
@@ -21,7 +21,7 @@ background: var(--gray-tones-black-2, rgba(0, 0, 0, 0.02));  }
        max-width:330px;
       font-size: 40px;
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
       line-height: 100%;
       letter-spacing: -0.8px;
   }
@@ -126,14 +126,14 @@ background: var(--gray-tones-black-2, rgba(0, 0, 0, 0.02));  }
   }
   .cookware-new-section .video-group .auther-name {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   color: #090909;
   line-height: 150%;
   }
   .cookware-new-section  .video-group .auther-verification {
     font-size: 12px;
     line-height: 150%;
-    font-weight: 600;
+    font-weight: normal;
     color: #00406E;
   }
   @media screen and (max-width: 1199px) {

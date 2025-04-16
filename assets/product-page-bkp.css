@@ -163,7 +163,7 @@
 .product__info-container .product__accordion .accordion__content .tableChart td:first-child { white-space: nowrap; } 
 .product__info-container .product__accordion .accordion__content .tableChart th:first-child { width:82px !important; } 
 
-.product__info-container .product__accordion .accordion__content .tableChart th { color: #000; font-size: 12px; font-style: normal; font-weight: 600;
+.product__info-container .product__accordion .accordion__content .tableChart th { color: #000; font-size: 12px; font-style: normal; font-weight: normal;
 line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
 .product__info-container .product__accordion .accordion__content .tableChart td,
 .product__info-container .product__accordion .accordion__content .tableChart th { padding:15px 10px; }
@@ -181,7 +181,7 @@ line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
    border-right: 1px solid #D9D5CE; border-collapse: collapse; }
 .product__info-container .product__accordion .accordion__content table tr {  }
 .product__info-container .product__accordion .accordion__content table tr th { font-size: 12px; font-family: "Jost"; border: 1px solid #D9D5CE;
-font-style: normal; font-weight: 600; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; text-align:left; }
+font-style: normal; font-weight: normal; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; text-align:left; }
 .product__info-container .product__accordion .accordion__content table tr td { height:inherit !important; width:inherit !important; text-align:left; font-size: 14px;
   font-style: normal; font-weight: 400; line-height: 100%; text-transform: capitalize; border: 1px solid #D9D5CE; font-family: "Jost"; }
 .product__info-container .product__accordion .accordion__content table tr td p { padding:0; }
@@ -203,7 +203,7 @@ font-style: normal; font-weight: 600; line-height: 100%; letter-spacing: 0.6px; 
 .product__info-container .product__accordion .accordion__content .more-link { font-size: 14px; font-style: normal; font-weight: 400; line-height: 100%;
   text-transform: capitalize; color:#000; }
 
-.product__info-container .product__accordion .accordion__content .size-photos h2 { margin:0 0 17px 0; font-size: 16px; font-style: normal; font-weight: 600; 
+.product__info-container .product__accordion .accordion__content .size-photos h2 { margin:0 0 17px 0; font-size: 16px; font-style: normal; font-weight: normal; 
    line-height: 160%; } 
 .product__info-container .product__accordion .accordion__content .size-photos .gridDiv { display:grid; gap:15px; }
 .product__info-container .product__accordion .accordion__content .size-photos .gridDiv_item { display:flex; gap:20px; align-items: flex-start; }
@@ -308,7 +308,7 @@ font-style: normal; font-weight: 600; line-height: 100%; letter-spacing: 0.6px; 
 .product__info-container .sezzle-shopify-info-button { margin-top:8px; }
 .product__info-container .sezzle-shopify-info-button .sezzle-button-text { font-size: 14px !important; font-style: normal; font-weight: 400; line-height: 100%; 
    letter-spacing:0; }
-.product__info-container .sezzle-shopify-info-button .sezzle-button-text .sezzle-payment-amount { font-weight: 600; }
+.product__info-container .sezzle-shopify-info-button .sezzle-button-text .sezzle-payment-amount { font-weight: normal; }
 .product__info-container .sezzle-shopify-info-button .sezzle-button-text .sezzle-logo { height:15px !important; width:auto !important; }
 .product__info-container .sezzle-shopify-info-button .sezzle-button-text .sezzle-info-icon { display:none; }
 

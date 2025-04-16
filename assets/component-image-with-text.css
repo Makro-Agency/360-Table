@@ -423,7 +423,7 @@
 .image-with-text__content .image-with-text__text p:first-child { margin-top:0; }
 .image-with-text__content .image-with-text__text p:last-child { margin-bottom:0; }
 
-.image-with-text__content .image-with-text__text--caption { color: #000; font-size: 12px; font-weight: 600; line-height: 100%; letter-spacing: 0.6px;
+.image-with-text__content .image-with-text__text--caption { color: #000; font-size: 12px; font-weight: normal; line-height: 100%; letter-spacing: 0.6px;
       text-transform: uppercase; margin:0 0 40px 0; }
 
 .image-with-text__content .icon-with-text-wrapper { display:flex; flex-flow:column; gap:15px; margin:0; }

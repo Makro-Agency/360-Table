@@ -336,7 +336,7 @@ span.facet-checkbox__text{ color:#0d0d0d; }
   position: absolute;
   left: 0.3rem;
   z-index: 5;
-  top: .75rem;
+  top: 1.4rem;
 }
 
 .facet-checkbox > input[type='checkbox']:checked ~ .icon-checkmark,
@@ -665,7 +665,7 @@ a.active-facets__button.focused .active-facets__button-inner,
   color: rgba(var(--color-link), var(--alpha-link));
 }
 .mobile-facets__open { --color-link: 13, 13, 13; --alpha-link: 1; background-color: #FAF5EB; padding: 17px; border-radius: 100px; }
-.mobile-facets__open .button-label { font-size: 1.6rem; line-height: 1; font-weight: 600; }
+.mobile-facets__open .button-label { font-size: 1.6rem; line-height: 1; font-weight: normal; }
 
 .mobile-facets__open:hover {
   color: rgb(var(--color-link));
@@ -1197,7 +1197,7 @@ summary .icon-caret {
 @media screen and (max-width: 989px) {
   .facets-container { grid-template-columns: 1fr 1fr; column-gap: 1rem; padding-top: 0; }
   .facets-container .product-count { grid-column: 1 / -1; text-align: left; }
-  .facets-container .product-count .product-count__text { font-size: 20px; font-style: normal; font-weight: 600; line-height: 120%;  color: #00406E; }
+  .facets-container .product-count .product-count__text { font-size: 20px; font-style: normal; font-weight: normal; line-height: 120%;  color: #00406E; }
   .facets-container .active-facets { margin-bottom: 40px; }
 
   .facets-container>menu-drawer.mobile-facets__wrapper,
@@ -1208,7 +1208,7 @@ summary .icon-caret {
   div[id*=-Mobile-SortBy] .mobile-facets__sort { justify-content: flex-end; }
   div[id*="-Mobile-SortBy"] .mobile-facets__summary label { display: none; }
   div[id*="-Mobile-SortBy"] .mobile-facets__summary select { font-size: 16px; line-height: 1; color: rgba(13, 13, 13, 1); height: auto; min-height: 1px;
-    padding: 17px; padding-right: 45px; margin: 0; background-color: rgb(250, 245, 235); border-radius: 100px; font-weight: 600; }
+    padding: 17px; padding-right: 45px; margin: 0; background-color: rgb(250, 245, 235); border-radius: 100px; font-weight: normal; }
   div[id*=-Mobile-SortBy] .mobile-facets__summary svg.icon { right: 20px; width: 16px; height: 16px; top: calc(50% - 8px); }
   div[id*=-Mobile-SortBy] .mobile-facets__summary option { font-size: 14px; min-block-size: 0; padding-inline: 0; white-space: normal; padding-block-end: 0; display: inline-flex; }
 }

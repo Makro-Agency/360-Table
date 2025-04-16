@@ -20,7 +20,7 @@
   font-weight: bold;
 font-size: 14px;
 font-style: normal;
-font-weight: 600;
+font-weight: normal;
 line-height: 150%; /* 21px */
 }
 
@@ -68,7 +68,7 @@ line-height: 150%; /* 21px */
     font-size: 14px;
     font-style: normal;
     line-height: 100%;
-    font-weight: 600;
+    font-weight: normal;
     display: flex;
     min-height: 40px;
     padding: 15px 25px;
@@ -107,7 +107,7 @@ line-height: 150%; /* 21px */
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 20px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%;
 }
 
@@ -169,7 +169,7 @@ flex-direction:column;
 
   font-size: 16px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 19.2px */
   letter-spacing: -0.32px;
   }
@@ -178,7 +178,7 @@ flex-direction:column;
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 20px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 120%
   }
 

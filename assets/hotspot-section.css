@@ -30,7 +30,7 @@
 #hotspot-section .advantage-inner-section-first-div h2 {
   margin: 0;
   font-size: 40px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 40px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -77,7 +77,7 @@ line-height: 150%; /* 18px */
 #hotspot-section .advantag-inner-icon-header-text h4 {
   color: #00203F;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   margin: 0;
@@ -151,7 +151,7 @@ line-height: 150%; /* 18px */
   color: #00203F;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   text-align: left;
 }
@@ -170,14 +170,14 @@ line-height: 150%; /* 18px */
   cursor: pointer;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 16px;
   color: #00203F;
 }
 
 #hotspot-section .advantag-hidden-text .advantag-inner-icon-header-text h4 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   color: #00203F;
 }

@@ -24,7 +24,7 @@
   /* Header 02 */
   font-size: 40px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 100%; /* 40px */
   letter-spacing: -0.8px;
   }
@@ -35,7 +35,7 @@
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   padding:10px 20px;
     border-radius:100px; 
     width:fit-content; 
@@ -47,14 +47,14 @@
   /* Header 05 */
   font-size: 20px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 24px */ }
   .recent-discussions-sidebar .sidebar h2{ margin-bottom:40px;
      color: var(--Black, #0D0D0D);
   /* Header 03 */
   font-size: 32px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 38.4px */
   letter-spacing: -0.64px;                                    
                                          }

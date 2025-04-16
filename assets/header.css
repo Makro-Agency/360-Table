@@ -170,7 +170,7 @@
 }
 .menu-drawer .list-menu__item.menu-drawer-item-one{
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   text-transform: uppercase;
 }
 .menu-drawer .menu-drawer__menu li:not(:last-child) .list-menu__item:after, .menu-drawer__close-button:after{
@@ -304,7 +304,7 @@
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 16px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 150%;
   }
   .shopify-section-header-sticky.menu-open .header__icon--summary > span span , 

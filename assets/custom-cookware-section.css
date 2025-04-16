@@ -7,7 +7,7 @@
     
   font-size: 20px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 24px */                                     
  }
 .custom-cookware-new-section .card__heading_wrap{ margin-left:15px; }
@@ -22,7 +22,7 @@
       
       font-size: 40px;
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
       line-height: 100%;
       letter-spacing: -0.8px;
   }
@@ -33,11 +33,11 @@
   .custom-cookware-new-section .banner-group-wrapper {
     padding-right: 60px;
   }
-  ..custom-cookware-new-section .banner-group {
+  .custom-cookware-new-section .banner-group {
     display: flex;
     gap: 32px;
   }
-  ..custom-cookware-new-section .banner-group-wrapper .main_heading {
+  .custom-cookware-new-section .banner-group-wrapper .main_heading {
   font-size: 40px;
   margin: 0 0 40px;
   }
@@ -127,14 +127,14 @@
   }
   .custom-cookware-new-section .video-group .auther-name {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   color: #090909;
   line-height: 150%;
   }
   .custom-cookware-new-section  .video-group .auther-verification {
     font-size: 12px;
     line-height: 150%;
-    font-weight: 600;
+    font-weight: normal;
     color:#00203F;
   }
   @media screen and (max-width: 576px) {

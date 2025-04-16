@@ -18,7 +18,7 @@
   margin: 0;
   color: #00203F;
   font-size: 40px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 40px;
   letter-spacing: -0.02em;
   margin-bottom: 40px;
@@ -52,7 +52,7 @@
   margin: 0;
   color: #00203F;
   font-size: 32px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 38.4px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -67,7 +67,7 @@
   cursor: pointer;
 align-items:center; 
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   text-align: left;
 }
@@ -120,7 +120,7 @@ align-items:center;
   color: #00203F;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  /* font-weight: 600; */
+  /* font-weight: normal; */
   line-height: 24px;
   text-align: left;
 }
@@ -150,7 +150,7 @@ align-items:center;
 .custom-faq   .hero-faq-first h2 {
     /* font-family: Inter; */
     font-size: 30px;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 36.31px;
     margin-bottom: 24px;
   }
@@ -204,6 +204,6 @@ align-items:center;
   color: var(--Black, #0D0D0D);
 font-size: 30px;
 font-style: normal;
-font-weight: 600;
+font-weight: normal;
 line-height: normal;
 } }

@@ -99,7 +99,7 @@ flex-direction: column;
 
 .banner-text-catalog-icon h2 {
 font-size: 40px;
-font-weight: 600;
+font-weight: normal;
 line-height: 40px;
 letter-spacing: -0.02em;
 margin: 0;
@@ -155,7 +155,7 @@ flex-wrap: wrap;
 .sale-button a {
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 12px;
-font-weight: 600;
+font-weight: normal;
 line-height: 18px;
 padding: 1px 10px;
 border-radius: 100px;
@@ -168,7 +168,7 @@ display: inline-flex;
 .choice-button a {
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 12px;
-font-weight: 600;
+font-weight: normal;
 line-height: 18px;
 padding: 1px 10px;
 border-radius: 100px;
@@ -187,7 +187,7 @@ display: inline-flex;
 .sell-button a {
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 12px;
-font-weight: 600;
+font-weight: normal;
 line-height: 18px;
 padding: 1px 10px;
 border-radius: 100px;
@@ -301,7 +301,7 @@ height: 16px;
 .catalog-banner-icon-text {
 font-size: 14px;
 line-height: 21px;
-font-weight: 600;
+font-weight: normal;
 }
 
 #backware-catalog-section .catalog-icon-with-text {

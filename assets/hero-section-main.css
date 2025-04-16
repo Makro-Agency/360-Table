@@ -70,10 +70,9 @@
     font-family: "Neue Haas Grotesk Display Pro";
     margin: 0;
     color: #00203F;
-    font-family: "Neue Haas Grotesk Display Pro";
     font-size: 60px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 100%;
     letter-spacing: -1.2px;
 }

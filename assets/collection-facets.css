@@ -187,7 +187,7 @@
   text-transform: capitalize;
 }
 .facets__disclosure[open] .facets__summary{
-  font-weight: 600;
+  font-weight: normal;
 }
 .main-facets-bar .facets__header{
   display: none;

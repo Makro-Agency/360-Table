@@ -109,13 +109,13 @@
   .article-card-item.main-content .card-content .heading{ 
 font-size: 32px;
 font-style: normal;
-font-weight: 600;
+font-weight: normal;
 line-height: 120%; /* 38.4px */
 letter-spacing: -0.64px; }
-  .blog-posts .title-wrapper-with-link .main_heading{
+.blog-posts .title-wrapper-with-link .main_heading{
 font-size: 36px;
 font-style: normal;
-font-weight: 600;
+font-weight: normal;
 line-height: 100%; /* 36px */
 letter-spacing: -0.72px; }
   .article-card-item.main-content  img.desktop-img{ display:block; }

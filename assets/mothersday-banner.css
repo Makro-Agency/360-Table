@@ -1,6 +1,6 @@
 .banner__box .banner__text.subtitle+.banner__heading,
 .banner__box>*+.banner__buttons { margin-top: 4.572rem; }
-.banner__box .banner__text.subtitle { font-size: 1.372rem; color: rgb(var(--color-foreground)); line-height: 1; font-family: Jost; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+.banner__box .banner__text.subtitle { font-size: 1.372rem; color: rgb(var(--color-foreground)); line-height: 1; font-family: Jost; font-weight: normal; text-transform: uppercase; letter-spacing: 0.05em; }
 .banner__content--middle-left.page-width .banner__box .banner__heading { max-width: 79.6%; }
 .banner__heading { text-transform: capitalize; }
 .banner__box .banner__richtext.rte { margin-top: 15px; }
