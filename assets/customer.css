@@ -853,7 +853,7 @@ margin-bottom: 0; }
   }
   .login .field+a {
     color: #000;  font-size: 1.6rem;line-height: 100%; 
-  text-transform: capitalize; font-weight: normal; margin-top: 2.28571rem; font-weight: 600;
+  text-transform: capitalize; font-weight: normal; margin-top: 2.28571rem; font-weight: normal;
     text-decoration: underline;
     text-decoration-thickness: 3px;
     text-decoration-color: #00203F;
@@ -867,8 +867,8 @@ margin-bottom: 0; }
   .login a.createAccount,
   .customer a.createAccount {
   color: #000; text-align: center; font-size: 14px;line-height: 100%; 
-  text-transform: capitalize; font-weight: normal; margin-top: 2.28571rem; font-weight: 600;
-      font-weight: 600;
+  text-transform: capitalize; font-weight: normal; margin-top: 2.28571rem; font-weight: normal;
+      font-weight: normal;
     text-decoration: underline;
     text-decoration-thickness: 3px;
     text-decoration-color: #00203F;
@@ -958,7 +958,7 @@ font-weight: 500;  letter-spacing: 0; margin-bottom: 3.42857rem; }
 line-height: 1.6; }
 
 .account thead th, .customer td:before {
-  font-size: 1.371428rem; font-weight: 600; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; }
+  font-size: 1.371428rem; font-weight: normal; line-height: 1.1; letter-spacing: 0.05em; text-transform: uppercase; }
   
 .account thead th:last-child, 
 .account td:last-child {
@@ -969,7 +969,7 @@ text-align: left; }
 
 .account table td:first-of-type a {
 padding: 0; border-width: 0; box-shadow: none; color: #73716E; font-size: 1.6rem;
-font-family: Jost; font-weight: 600; line-height: 1.6; color: rgba(96, 109, 34, 1); }
+font-family: Jost; font-weight: normal; line-height: 1.6; color: rgba(96, 109, 34, 1); }
 .account table td:first-of-type a:hover {
 box-shadow: none; opacity: 0.5; }
 
@@ -981,7 +981,7 @@ margin-top: 2.28571rem; }
 /**/
 .customer.addresses a {
   font-size: 1.6rem;
-font-weight: 600; line-height: 1; text-transform: capitalize; }
+font-weight: normal; line-height: 1; text-transform: capitalize; }
 .customer.addresses a:hover {
   color: #00203F;
 }
@@ -1000,7 +1000,7 @@ font-weight: 600; line-height: 1; text-transform: capitalize; }
 
 .logCaptcha p a {
   text-decoration: underline;
-  font-weight: 600;
+  font-weight: normal;
 }
 .customer .field input {
   border-radius: 100px;

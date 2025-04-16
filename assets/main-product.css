@@ -69,7 +69,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   }
   .limited-edition-label {
     font-size: 12px;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 100%;
     letter-spacing: 0.6px;
     text-transform: uppercase;
@@ -104,14 +104,14 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     text-transform: uppercase;
     letter-spacing: .6px;
     font-family: Jost;
-    font-weight: 600;
+    font-weight: normal;
     font-size: 12px;
   }
   .product-form__input .form--label strong{
     text-transform: uppercase;
     letter-spacing: 0.6px;
     font-family: Jost;
-    font-weight: 600;
+    font-weight: normal;
   }
   .product-form__input .limited-edition-note{
     font-size: 12px;
@@ -272,7 +272,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   .promo-code-bottom .promo-text {
     position: relative;
     font-size: 12px;
-    font-weight: 600;
+    font-weight: normal;
     letter-spacing: 0.6px;
     display: flex;
     font-family: Jost;
@@ -528,7 +528,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   .video-on-media .video-title {
     font-size: 24px;
     margin: 0;
-    font-weight: 600;
+    font-weight: normal;
   }
   
   .video-on-media .video-subtitle {
@@ -687,7 +687,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 32px;
     font-style: normal;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 120%;
     letter-spacing: -0.64px;
     text-transform: capitalize;
@@ -771,7 +771,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     color: rgba(0, 0, 0, 0.20);
   font-size: 16px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%; /* 19.2px */
   letter-spacing: -0.32px;
   text-decoration-line: strikethrough;
@@ -807,7 +807,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 150%; /* 24px */
    }
   .price__container .price__regular{ display:flex; align-items:flex-end;}
@@ -892,7 +892,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
   .meta-size-selector  .size-button.selected {
     background-color: transparent;
     border: 2px solid #00406E;
-    font-weight: 600;
+    font-weight: normal;
   }
   .meta-size-selector  .size-button:hover{
       border: 2px solid #00000033;
@@ -921,7 +921,7 @@ section#shopify-section-template--24448335839524__1742900913d8d30b8e {
     .desktop-hide .review-title-wrapper h1{
       font-size: 32px;
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
       line-height: 120%;
       letter-spacing: -0.64px;
       margin-bottom:5px;
@@ -1025,7 +1025,7 @@ text-decoration: none;
 color: #000;
 letter-spacing:0; 
 font-size: 44px;
-font-weight: 600;
+font-weight: normal;
 letter-spacing:0; 
 line-height: 1.1;
 } 
@@ -1060,7 +1060,7 @@ color: #000;
 }
 .main-product-section .icon-content{
 padding: 10% 3% 0 3%;
-font-weight: 600;
+font-weight: normal;
 line-height: 1.25;
 }
 .main-product-section .popup-inner{

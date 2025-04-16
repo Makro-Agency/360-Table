@@ -95,7 +95,7 @@ text-align: left;
   margin:0;
   color:#ffffff;
 font-size: 20px;
-font-weight: 600;
+font-weight: normal;
 line-height: 24px;
 text-align: left;
   color:#ffffff;
@@ -116,7 +116,7 @@ text-align: left;
   margin:0;
   color:#ffffff;
 font-size: 32px;
-font-weight: 600;
+font-weight: normal;
 line-height: 38.4px;
 letter-spacing: -0.02em;
 text-align: left;
@@ -126,7 +126,7 @@ text-align: left;
     margin:0;
   color:#ffffff;
 font-size: 20px;
-font-weight: 600;
+font-weight: normal;
 line-height: 24px;
 text-align: left;
 
@@ -135,7 +135,7 @@ text-align: left;
 /* .footer h3 {
   font-family: Cellofy;
   font-size: 24px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 28.8px;
   letter-spacing: -0.02em;
   text-align: left;
@@ -203,7 +203,7 @@ input[type="email"]:focus-visible {
 .sub_btn {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  /* font-weight: 600; */
+  /* font-weight: normal; */
   line-height: 16px;
   text-align: center;
   color: #ffffff;
@@ -277,7 +277,7 @@ img.check_icon {
   margin:0;
   color:#ffffff;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   text-align: left;
   display: flex;

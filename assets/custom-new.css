@@ -14,7 +14,7 @@ ol.breadcrumb{
 .breadcrumb-item {
   display: inline;
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 150%;
 }
 
@@ -22,7 +22,7 @@ ol.breadcrumb{
   text-decoration: none;
   color: var(--gray-tones-black-60, rgba(0, 0, 0, 0.60));
   font-family: "Manrope";
-  font-weight: 600;
+  font-weight: normal;
   font-size: 12px;
   line-height: 150%;
 }
@@ -61,7 +61,7 @@ ol.breadcrumb{
 .price__regular .price-item--regular {
   margin-right: 0;
   /* color: #000; */
-  font-weight: 600;
+  font-weight: normal;
 }
 .card-information>.price{
   margin-top:0 !important;
@@ -76,7 +76,7 @@ ol.breadcrumb{
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;  
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   letter-spacing: 0;
   text-transform: capitalize;
   border-bottom: 0;
@@ -275,23 +275,23 @@ cart-drawer .drawer__inner{
  }
  /* .banner-group .card-content .link.makro--link:hover{
   color: #c3d957;
-  font-weight: 600;
+  font-weight: normal;
 } */
 .get-started-360 .grid-item h3{
   color:#00203F;
-  font-weight: 600;
+  font-weight: normal;
 }
 .layout1-trans .header.index-header .navbar_item > div.navbar_link {
   color: #ffffff;
-  font-weight: 600;
+  font-weight: normal;
 }
 .layout1-trans .header.index-header:hover .navbar_item > div.navbar_link {
   color:#00203F !important;
-  font-weight: 600;
+  font-weight: normal;
 }
 .shopify-section-header-sticky.scrolled-past-header .header.index-header .navbar_item > div.navbar_link {
   color:#00203F !important;
-  font-weight: 600;
+  font-weight: normal;
 }
 .image-width-text-header .common-h5 h5,.product-360-para p{
   text-align:left;
@@ -417,7 +417,7 @@ cart-items.is-empty a.button {
     color: #ffffff;
     font-size: 16px;
     line-height: 100%;
-    font-weight: 600;
+    font-weight: normal;
     border-radius: 100px;
     padding: 15px 25px;
     letter-spacing: 0;

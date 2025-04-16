@@ -30,7 +30,7 @@
   .book-pastel-img-with-text-wrapper .image-with-text {  padding-bottom: 40px; }
   .book-pastel-img-with-text-wrapper .image-with-text__content { text-align: center; align-items: left; padding-top:30px; }
   .book-pastel-img-with-text-wrapper .image-with-text__content .image-with-text__text--caption { margin-bottom:24px; text-align: left; font-size: 12px;
-    font-style: normal; font-weight: 600; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
+    font-style: normal; font-weight: normal; line-height: 100%; letter-spacing: 0.6px; text-transform: uppercase; }
   
   .book-pastel-img-with-text-wrapper .image-with-text__content { padding-left:0; padding-right:0; padding-bottom:0; }
   .book-pastel-img-with-text-wrapper .image-with-text__content .image-with-text__heading.h2 { text-align: left; margin-bottom:15px; width:100%;

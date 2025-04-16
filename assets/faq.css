@@ -10,7 +10,7 @@
 
 #sidebar-faq { width:100%; }  
 #sidebar-faq .sidebar-faq-topics { background:#F5F4F2; padding:25px; width:100%; }
-#sidebar-faq .sidebar-faq-topics h3 { margin: 0 0 20px; color: #000; font-size: 12px; font-weight: 600; line-height: 110%; letter-spacing: 0.6px; 
+#sidebar-faq .sidebar-faq-topics h3 { margin: 0 0 20px; color: #000; font-size: 12px; font-weight: normal; line-height: 110%; letter-spacing: 0.6px; 
     text-transform: uppercase; flex:1; }
 
 #sidebar-faq .sidebar-faq-topics .faq-cat-list { width:100%; margin:0; padding:0; display: flex; gap: 15px; flex-flow:column; } 
@@ -24,7 +24,7 @@
 
 .page-faq-contact-bar-content > * { order:-1; }
  
-.page-faq-contact-bar-content h4 { color: #000; font-size: 12px; font-weight: 600; line-height: 110%; letter-spacing: 0.6px; text-transform: uppercase; margin:0; }
+.page-faq-contact-bar-content h4 { color: #000; font-size: 12px; font-weight: normal; line-height: 110%; letter-spacing: 0.6px; text-transform: uppercase; margin:0; }
 
 .page-faq-contact-bar-content .text-main { width:1005; }
 .page-faq-contact-bar-content .text-main,
@@ -44,7 +44,7 @@
 
 .faq-content-wrapper { width:100%; max-width: 860px; margin-left: auto; }
 .faq-content-wrapper .faq-search-wrapper { width:100%; }
-.faq-content-wrapper .faq-search-wrapper label { color: #000; font-size: 12px; font-weight: 600; line-height: 110%; letter-spacing: 0.6px; 
+.faq-content-wrapper .faq-search-wrapper label { color: #000; font-size: 12px; font-weight: normal; line-height: 110%; letter-spacing: 0.6px; 
    text-transform: uppercase; display: flex; margin: 0 0 15px 0; display: flex; }
 .faq-content-wrapper .faq-search-wrapper .faq-search-inner { position:relative; }
 .faq-content-wrapper .faq-search-wrapper .faq-search-inner input[type="text"] { width:100%; 
@@ -57,7 +57,7 @@
 .faq-content-wrapper .faq-content-inner .faq-row .faq-title .title-wrap .h2 { color: #000; font-size: 20px; font-weight: 500; line-height: 110%;
   letter-spacing: 1px; text-transform: uppercase; margin:0; }
 .faq-content-wrapper .faq-content-inner .faq-row .faq-title .rte,
-.faq-content-wrapper .faq-content-inner .faq-row .faq-title .rte p { color: #000; font-size: 12px; font-weight: 600; line-height: 110%; letter-spacing: 0.6px;
+.faq-content-wrapper .faq-content-inner .faq-row .faq-title .rte p { color: #000; font-size: 12px; font-weight: normal; line-height: 110%; letter-spacing: 0.6px;
   text-transform: uppercase; margin:0; font-family: 'Jost'; }
 .faq-content-wrapper .faq-content-inner .faq-row .faq-title .rte { margin-top:10px; }
 .faq-content-wrapper .faq-content-inner .faq-row .faq-title .title-wrap > span { position:absolute; height:18px; width:18px; display:flex; align-items:center;

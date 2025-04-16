@@ -54,7 +54,7 @@
           .shipping-container h1 {
             font-size: 60px;
             font-style: normal;
-            font-weight: 600;
+            font-weight: normal;
             line-height: 100%; /* 60px */
             letter-spacing: -1.2px;
             
@@ -101,7 +101,7 @@
           .Privacy-Policy-container h1 {
             font-size: 60px;
             font-style: normal;
-            font-weight: 600;
+            font-weight: normal;
             line-height: 100%; /* 60px */
             letter-spacing: -1.2px;
           }
@@ -406,7 +406,7 @@
   
           .become-an-influencer {
             sont-size:16px;
-              font-weight: 600;
+              font-weight: normal;
               margin: 40px auto;
               text-decoration: none;
           }
@@ -414,7 +414,7 @@
               margin-top: 20px;
           }
              .readmore-underline {
-              font-weight: 600;
+              font-weight: normal;
               text-decoration: none;
               margin: 0px;
               padding: 0px;

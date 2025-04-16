@@ -57,7 +57,7 @@ src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/Cellofy-SemiBold.wof
     format("woff2"),
   url("https://cdn.shopify.com/s/files/1/0622/1937/files/Cellofy-SemiBold.woff?v=1723444027")
     format("woff");
-font-weight: 600;
+font-weight: normal;
 font-style: normal;
 font-display: swap;
 } */
@@ -68,7 +68,7 @@ src: url("https://cdn.shopify.com/s/files/1/0622/1937/files/cellofy-semibold-web
     format("woff2"),
   url("https://cdn.shopify.com/s/files/1/0622/1937/files/cellofy-semibold-webfont.woff?v=1725961349")
     format("woff");
-font-weight: 600;
+font-weight: normal;
 font-style: normal;
 font-display: swap;
 } 
@@ -103,7 +103,7 @@ font-display: swap;
       format("woff2"),
     url("https://cdn.shopify.com/s/files/1/0622/1937/files/ProximaNova-Semibold.woff?v=1723443636")
       format("woff");
-  font-weight: 600;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
   }
@@ -197,7 +197,7 @@ font-display: swap;
   font-family: 'Manrope';
   src: url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/Manrope-SemiBold.woff2?v=1743147572') format('woff2'),
       url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/Manrope-SemiBold.woff?v=1743147572') format('woff');
-  font-weight: 600;
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -231,6 +231,22 @@ font-display: swap;
   src: url('NeueHaasDisplay-Light.woff2') format('woff2'),
       url('NeueHaasDisplay-Light.woff') format('woff');
   font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/NeueHaasDisplay-Bold_f92ae8ca-9339-4cce-ac0d-40043016ea72.woff2?v=1744783548') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/NeueHaasDisplay-Roman_e20b949e-71a8-4027-8070-fa2b7f981de5.woff?v=1744783139') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Neue Haas Grotesk Display Pro';
+  src: url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/NeueHaasDisplay-Mediu.woff2?v=1744783548') format('woff2'),
+      url('https://cdn.shopify.com/s/files/1/0933/0429/1620/files/NeueHaasDisplay-Mediu.woff?v=1744783548') format('woff');
+  font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
@@ -302,7 +318,7 @@ body .swym-ui-component .swym-heading,
 body .swym-ui-component .swym-label,
 .heading-font {
 font-family: "Neue Haas Grotesk Display Pro";
-font-weight: 600;
+font-weight: normal;
 }
 .pt-0 {
 padding-top: 0 !important;
@@ -483,7 +499,7 @@ margin: auto;
 .main_heading {
 /* font-size: 60px; */
 line-height: 100%;
-font-weight: 600;
+font-weight: normal;
 color: #00203F;
 letter-spacing: -0.8px;
 margin: 0 0 10px;
@@ -494,7 +510,7 @@ margin: 0 0 10px;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 24px;
   font-style: normal;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 120%;
   letter-spacing: -0.48px;
 }
@@ -508,7 +524,7 @@ margin: 0;
 }
 
 /* .link.makro--link {
-font-weight: 600;
+font-weight: normal;
 line-height: 100%;
 margin-top: 30px;
 border: none;

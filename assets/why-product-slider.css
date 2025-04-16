@@ -87,7 +87,7 @@
 .choice-button a {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
   padding: 1px 10px;
   border-radius: 100px;
@@ -99,7 +99,7 @@
 .sale-button a {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
   padding: 1px 10px;
   border-radius: 100px;
@@ -117,7 +117,7 @@
 .sell-button a {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
   padding: 1px 10px;
   border-radius: 100px;
@@ -205,7 +205,7 @@
 
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 14px;
   display: inline-flex;
 }
@@ -219,7 +219,7 @@
 .header-product-slider-why h2 {
   color: #00203F;
   font-size: 40px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 40px;
   letter-spacing: -0.02em;
   margin: 0;
@@ -428,5 +428,5 @@
 font-family: "Neue Haas Grotesk Display Pro";
 font-size: 14px;
 font-style: normal;
-font-weight: 600;
+font-weight: normal;
 line-height: 150%; /* 21px */ }

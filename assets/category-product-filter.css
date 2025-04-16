@@ -35,7 +35,7 @@
   display: inline-flex;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 16px;
   padding: 15px 25px 15px 25px;
   gap: 10px;
@@ -50,7 +50,7 @@
   display: inline-flex;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 16px;
   padding: 15px 25px 15px 25px;
   gap: 10px;
@@ -78,7 +78,7 @@
 
 .category-filter h5 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   margin: 0;
 }
@@ -364,7 +364,7 @@ input:checked + .slider-toggle:before {
 .sort label {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   text-align: left;
 }
@@ -383,7 +383,7 @@ input:checked + .slider-toggle:before {
 
 .header-sort-main {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   margin: 0;
 }
@@ -411,16 +411,17 @@ input:checked + .slider-toggle:before {
   left: 10px;
 }
 .sale-button {
-  font-family: "Neue Haas Grotesk Display Pro";
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 18px;
   padding: 1px 10px;
-  border-radius: 100px;
-  background: #e6a817;
-  text-decoration: none;
-  color: #ffffff;
-  display: inline-flex;
+    border-radius: 100px;
+    background: #566E7E;
+    text-decoration: none;
+    display: inline-flex;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 150%;
+    color: #FFFFFF;
 }
 /* .choice-button {
       position: absolute;
@@ -431,7 +432,7 @@ input:checked + .slider-toggle:before {
 .choice-button {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
   padding: 1px 10px;
   border-radius: 100px;
@@ -448,16 +449,16 @@ input:checked + .slider-toggle:before {
   } */
 
 .sell-button {
-  font-family: "Neue Haas Grotesk Display Pro";
-  font-size: 12px;
-  font-weight: 600;
-  line-height: 18px;
-  padding: 1px 10px;
-  border-radius: 100px;
-  background: #b2c0ca;
-  text-decoration: none;
-  color: #00203F;
-  display: inline-flex;
+  background: #00406E;
+    border-radius: 100px;
+    text-decoration: none;
+    display: inline-flex;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 150%;
+    color: #FFFFFF;
 }
 
 .product-slider-product-image-header {

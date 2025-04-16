@@ -31,7 +31,7 @@
   }
   .products-included-wrapper .product-included-lists  .price__sale .price-item--sale{
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
   }
   .products-included-wrapper .product-included-lists  .price__sale .price-item--regular{
   color: rgba(0, 0, 0, 0.40);
@@ -49,7 +49,7 @@
   .products-included-wrapper .product-included-lists .show-more-button {
     color: #00203F;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: normal;
     cursor: pointer;
     display: inline-block;
     margin-top: 15px;
@@ -72,7 +72,7 @@
   }
   .products-included-wrapper .set-pro-title-wrapper .set-pro-title {
     font-size: 20px;
-      font-weight: 600;
+      font-weight: normal;
     margin: 0 0 10px 0;
   }
   .products-included-wrapper .total-price-tag{
@@ -89,7 +89,7 @@
       right: 0;
       font-size: 14px;
       font-style: normal;
-      font-weight: 600;
+      font-weight: normal;
       gap: 5px; justify-content: center;
   }
 
@@ -106,7 +106,7 @@
 .included-item .pro-title { font-size: 16px; font-weight: 500; line-height: 150%; margin-block: 0; font-family: Inter; }
 .included-item .pro-title a:before { content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: block; }
 .included-item .pro-title a:hover { text-decoration: underline; text-underline-offset: 0.2em; text-decoration-thickness: 0.1em; }
-.included-item .content-wrapper .price__sale { display: flex; font-size: 16px; font-weight: 600; line-height: 150%; }
+.included-item .content-wrapper .price__sale { display: flex; font-size: 16px; font-weight: normal; line-height: 150%; }
 .included-item .content-wrapper .price-item--regular { order: -1; font-size: 14px; color: rgba(0, 0, 0, 0.3); margin-right: 5px; }
 .included-item .content-wrapper .count { margin-left: 15px; }
 @media only screen and (max-width: 749px) {  

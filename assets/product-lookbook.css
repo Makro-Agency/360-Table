@@ -5,7 +5,7 @@
       "title title slide-nav";
   grid-template-columns: 1fr auto auto; 
 }
-.product-lookbook .collection__title .subtitle {  grid-area: subtitle;margin: 0 0 20px;font-size: 12px;letter-spacing: 0.05em;line-height: 1;font-weight: 600;color: rgba(var(--color-foreground),1);  }
+.product-lookbook .collection__title .subtitle {  grid-area: subtitle;margin: 0 0 20px;font-size: 12px;letter-spacing: 0.05em;line-height: 1;font-weight: normal;color: rgba(var(--color-foreground),1);  }
 .product-lookbook .collection__title .title { grid-area: title; margin-bottom: 0; }
 .product-lookbook .collection__title .slide-nav { grid-area: slide-nav; min-width: 85px; }
 

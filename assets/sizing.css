@@ -10,7 +10,7 @@
   .page-sizing-selector-wrapper .variant-input-wrap svg { margin-left:0; }
 
   .size-chart >*[class*="show-"] h6 {
-    margin-top: 40px; margin-bottom: 20px; font-size: 12px; font-weight: 600; letter-spacing: 0.02em;
+    margin-top: 40px; margin-bottom: 20px; font-size: 12px; font-weight: normal; letter-spacing: 0.02em;
     text-transform: uppercase; font-family: Jost; color: rgba(var(--color-foreground),1); }
   .size-chart >*[class*="show-"] h6+table {
     margin-top: 0; }
@@ -24,7 +24,7 @@
       border: 1px solid; border-width: 0px 0px 1px 1px; padding: 0 0 0 5px; height: 42px; }
       
     .size-chart table th {
-      font-weight: 600; font-size: 12px; }
+      font-weight: normal; font-size: 12px; }
     
       .size-chart table th:last-child,
       .size-chart table td:last-child {

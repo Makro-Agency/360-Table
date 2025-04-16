@@ -107,7 +107,7 @@
 .header-header-text {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
 }
 
@@ -132,7 +132,7 @@
 .header-shop-right span a {
   /* font-family: "Neue Haas Grotesk Display Pro"; */
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 16px;
   color:#00203F;
   display: flex;
@@ -183,7 +183,7 @@
   margin: 0;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   color:#000000;
 }
@@ -191,7 +191,7 @@
 .price-txt {
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 14px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 21px;
   color:#000000;
 }
@@ -245,7 +245,7 @@
 
 .product-360-link a {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 16px;
   color: #00203F;
   display: flex;
@@ -276,7 +276,7 @@ a.product-360-category-inner{
 .common-h5 h5,
 .h5 {
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
   margin: 0;
 }
@@ -298,7 +298,7 @@ a.product-360-category-inner{
   color:#00203F;
   /* font-family: Cellofy; */
   font-size: 20px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
 }
 .open-btn-list-text{

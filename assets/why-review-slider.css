@@ -14,7 +14,7 @@
 }
 
 .client_box_section-slider {
-  background: rgba(0, 0, 0, 0.10);
+  background: #F7F9FA;
   overflow: hidden;
 }
 #client-slider-with-text .swiper{
@@ -52,7 +52,7 @@
 .header-one_pan-main h2 {
   margin: 0;
   font-size: 40px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 40px;
   letter-spacing: -0.02em;
   color: #00203F;
@@ -119,7 +119,7 @@
   color: #090909;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 16px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 24px;
 }
 
@@ -133,7 +133,7 @@
   color: #00406E;
   font-family: "Neue Haas Grotesk Display Pro";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 18px;
 }
 

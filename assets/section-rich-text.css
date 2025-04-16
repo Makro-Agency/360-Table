@@ -99,7 +99,7 @@
   margin-top: 30px; }
 
 .rich-text__blocks .rich-text__caption {
-  font-family: Jost; font-weight: 600; letter-spacing: 0.05em; line-height: 1; }
+  font-family: Jost; font-weight: normal; letter-spacing: 0.05em; line-height: 1; }
 .rich-text__blocks .rich-text__caption:first-child {
   margin-bottom: 25px; }
 
@@ -118,7 +118,7 @@
 
 /* New CSS */
 
-.rich-text__wrapper .rich-text__heading.h2 { color: #000; font-size: 12px; font-weight: 600; line-height: 110%; letter-spacing: 0.6px; 
+.rich-text__wrapper .rich-text__heading.h2 { color: #000; font-size: 12px; font-weight: normal; line-height: 110%; letter-spacing: 0.6px; 
     text-transform: uppercase; margin:0 0 30px 0; }
 .rich-text__wrapper .rich-text__heading.h1 { color: #000; font-size: 36px; line-height: 110%; letter-spacing: -0.72px; margin:30px 0 0 0; } 
 

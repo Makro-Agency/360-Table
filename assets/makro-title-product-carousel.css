@@ -60,7 +60,7 @@ display: flex;
 .card .card__heading_wrap .price { flex: 0 0 auto; }
 .card__heading .caption-large { font-size: 12px; font-weight: 400; display: none; }
 
-.card .price { font-size: 14px; line-height: 1.5; letter-spacing: normal; font-weight: 600; }
+.card .price { font-size: 14px; line-height: 1.5; letter-spacing: normal; font-weight: normal; }
 .card .price .price__sale .price-item--last,
 .card .price .price__container>.price__regular { color: #00203F;
   font-family: Manrope;

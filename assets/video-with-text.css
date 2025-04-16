@@ -1,5 +1,5 @@
 #video-with-text-why {
-  background: rgba(0, 0, 0, 0.10);
+  background: #F7F9FA;
   }
   
   .video-with-text-why {
@@ -40,7 +40,7 @@
   .why-video-header-text-inner-first h2 {
     margin: 0;
     font-size: 40px;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 40px;
     letter-spacing: -0.02em;
     color: #00203F;
@@ -70,7 +70,7 @@
     margin: 0;
     color: #00203F;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 28.8px;
     letter-spacing: -0.02em;
   }
@@ -89,7 +89,7 @@
     border-radius: 100px;
     font-family: "Neue Haas Grotesk Display Pro";
     font-size: 14px;
-    font-weight: 600;
+    font-weight: normal;
     line-height: 21px;
     text-align: left;
     width: 40px;
