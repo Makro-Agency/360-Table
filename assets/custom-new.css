@@ -296,8 +296,9 @@ cart-drawer .drawer__inner{
 .image-width-text-header .common-h5 h5,.product-360-para p{
   text-align:left;
 }
-.makro-product--card .price__sale{
-  /* display:block; */
+.megamenu-about-content .image-width-text-header .common-h5 h5
+{
+  margin-bottom: 5px;
 }
 .stainless-steel-pan .main_heading{
   font-size: 50px;

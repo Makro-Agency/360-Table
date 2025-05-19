@@ -561,6 +561,7 @@
     font-style: normal;
     font-weight: 500;
     line-height: 150%;
+    background-color: #fff;
   }
   .card__inner .size-button span { 
     display: block;
