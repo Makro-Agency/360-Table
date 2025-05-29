@@ -374,12 +374,14 @@
         "image_row_eL48Gt": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/fi_861795_3_2.svg",
             "text_1": "Non-Toxic"
           }
         },
         "image_row_eNXiND": {
           "type": "image_row",
           "settings": {
+            "svg": "shopify://shop_images/fi_861795_3_2.svg",
             "text_1": "Made in USA"
           }
         },
