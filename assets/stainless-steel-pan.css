@@ -1,0 +1,317 @@
+.stainless-steel-pan {
+  background: #fafafa;
+  padding-left: 125px;
+  padding-right: 280px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  display: flex;
+  gap: 18px;
+  position: relative;
+  align-items: center;
+}
+.stainless-steel-pan::after {
+  content: "";
+  background-color:#FAFAFA;
+  background-repeat: no-repeat;
+  background-position: left center;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  top: 0;
+}
+.image-wrapper {
+  position: relative;
+  flex: 1;
+  max-width: 65%;
+}
+.image-wrapper .image {
+  z-index: 2;
+  position: relative;
+}
+.about-wrapper {
+  padding-right: 40px;
+  max-width: 35%;
+  flex: 1;
+  z-index: 1;
+}
+.content-icon-wrapper {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+.about-wrapper .main_heading {
+  margin-bottom: 20px;
+}
+.about-wrapper a.button.cta_button {
+  margin-top: 25px;
+}
+.pan_review {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  position: absolute;
+  z-index: 2;
+}
+.pan_review .reviews {
+  max-width: 128px;
+  margin-bottom: 10px;
+}
+.pan_review .auther-details {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+  align-items: center;
+}
+.pan_review .auther-image {
+  line-height: 0;
+}
+.pan_review.review2 .author-name{ 
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  color:#04232F; 
+  
+}
+.pan_review .auther-name {
+color:#04232F;
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+vertical-align: bottom;
+}
+.pan_review .auther-verification {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  vertical-align: bottom;
+  
+}
+.pan_review.review2 .auther-verification {
+  color: #728F9A;
+}
+
+.pan_review .auther-message .heading {
+font-weight: 700;
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0%;
+font-family:var(--font-body-family);
+  color: #090909;
+}
+.pan_review.review1 .auther-verification span{
+color:#143744; 
+}
+.pan_review.review1 {
+  max-width: 278px;
+  right: 6.63%;
+  top: -9.78%;
+  width: 100%;
+}
+.pan_review.review2 {
+  max-width: 348px;
+  right: 28.13%;
+  bottom: -17.07%;
+  width: 100%;
+}
+.image-wrapper .subtitle {
+  font-family: Maytra;
+  font-size: 32px;
+  line-height: 100%;
+  color: #143744;
+  position: absolute;
+  right: auto;
+  max-width: 188px;
+  text-align: center;
+  transform: rotate(-5deg);
+  left: 14.75%;
+  bottom: -8.33%;
+  z-index:1; 
+}
+.pan_review.review3 {
+  max-width: 264px;
+  top: -1.81%;
+  left: 26.44%;
+  z-index: 1;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.pan_review.review4 {
+  background: #728F9A; 
+  padding: 10px 15px;
+  top: 19.79%;
+  right: calc(28.29% + 2rem);
+  z-index: 1;
+}
+.pan_review.review3 .auther-message{ padding:0 10px; }
+.pan_review.review3 .icon{ margin:0 auto; }
+.pan_review.review4 .heading {
+  font-family: var(--font-body-family);
+  color: #fcfbf7;
+  font-weight: 700;
+  letter-spacing:0; 
+  font-size: 16px;
+}
+.pan_review.review4 .heading.h3 {
+ font-family:var(--font-body-family);
+  font-size: 14px;
+}
+@media only screen and (max-width: 1850px) {
+  .stainless-steel-pan {
+    padding: 140px 30px;
+  }
+}
+@media only screen and (max-width: 1500px) {
+  .stainless-steel-pan {
+    padding: 140px 0;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  .stainless-steel-pan {
+    flex-direction: column;
+    padding: 80px 0 140px;
+    gap: 40px;
+  }
+  .about-wrapper {
+    max-width: 50%;
+    order: -1;
+  }
+  .stainless-steel-pan {
+    padding: 80px 0 140px;
+  }
+  .stainless-steel-pan:after {
+    display: none;
+  }
+  .stainless-steel-pan .image-wrapper::after {
+    content: "";
+    background-image: url("EllipseM.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    top: 0;
+    mix-blend-mode: multiply;
+    border-radius: 100%;
+  }
+  .image-wrapper {
+    max-width: 960%;
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 989px) {
+.pan_review.review3 .icon{ width:160px; height:40px; } }
+@media only screen and (max-width: 989px) {
+  .about-wrapper {
+    max-width: 100%;
+    order: -1;
+    padding: 0 20px;
+  }
+  .pan_review {
+    padding: 15px;
+  }
+  .image-wrapper .subtitle {
+    right: 10px;
+    bottom: -95px;
+    left: auto;
+    font-size: 24px;
+  }
+  .pan_review.review2 {
+    max-width: 180px;
+    right: 10px;
+    top: -80px;
+    bottom: unset;
+  }
+  .pan_review.review1 {
+    right: auto;
+    top: auto;
+    left: 20px;
+    bottom: -130px;
+    max-width: 170px;
+  }
+  .pan_review .auther-details {
+    gap: 10px;
+  }
+  .pan_review .auther-message .heading {
+    font-size: 12px;
+  }
+  .pan_review .auther-image {
+    max-width: 30px;
+  }
+  .pan_review .auther-name {
+    font-size: 14px;
+  }
+  .pan_review.review3 {
+    max-width: 200px;
+    gap: 15px;
+    top: 20px;
+  }
+  .pan_review.review3 svg {
+    width: 97px;
+    height: 24px;
+  }
+}
+@media only screen and (max-width: 749px) {
+  .stainless-steel-pan {
+    padding: 80px 0 82%;
+  }
+  .about-wrapper .main_heading {
+    font-size: 36px;
+    letter-spacing: -0.72px;
+  }
+  .pan_review.review2 {
+    bottom: -120px;
+    top: unset;
+  }
+  .image-wrapper .subtitle{
+    font-family: Maytra;
+font-weight: 400;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+
+  }
+  .image-wrapper .subtitle {
+    bottom: -188px!important;
+    width: 147px!important;
+    right: 20px!important;
+  }
+  .pan_review.review1 {
+    bottom: -163px;
+  }
+  .cta_btn_wrapper {
+    padding: 0 20px;
+    width: 100%;
+    margin-top: 160px;
+  }
+  .pan_review.review3 {
+    max-width: 198px;
+    gap: 10px;
+    top: -8.55%;
+    left: 15.44%;
+  }
+  .pan_review.review4 {
+    top: 0%;
+    right: 13.66%;
+    z-index: 2;
+  }
+  .button-block-mob {
+    width: 100%;
+    padding: 0 20px;
+    position: absolute;
+    bottom: 40px;
+  }
+  .image-wrapper .image{
+    margin:35px 0;
+  }
+}

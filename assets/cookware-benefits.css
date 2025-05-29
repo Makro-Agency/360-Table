@@ -1,0 +1,195 @@
+.cookware-benefits {
+  display: flex;
+  gap: 32px;
+}
+.cookware-benefits .title-wrapper {
+  max-width: 432px;
+  position: sticky;
+  top: 150px;
+  height: 100%;
+  flex: 1;
+}
+.shopify-section .cookware-benifits-column .heading {
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 120%;
+  letter-spacing: -2%;
+  color: #04232F;
+}
+.ratings-badge span.rating-star{
+  position: relative;
+  top: -12px;
+}
+.title-wrapper .subtitle {
+  font-family: Maytra;
+  font-size: 32px;
+  line-height: 100%;
+  color: #143744;
+  position: absolute;
+  right: 20px;
+  max-width: 188px;
+  transform: rotate(-5deg);
+  text-align: center;
+  top: -22px;
+}
+.cookware-benefits .cookware-benifits-column {
+  flex: 1;
+  position: relative;
+}
+.cookware-benifits-column .benefits-item {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  line-height: 0;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.benefits-item > div {
+  flex: 1 0;
+}
+.benefits-item .benefits-content .content-wrapper {
+    padding-left: 32px;
+}
+.benefits-item .image {
+    aspect-ratio: 1 / 1;
+    position: relative;
+}
+.benefits-item .image img {
+  position: absolute;
+  height: 100%;
+  border-radius: 15px;
+}
+.benefits-content .icon {
+  margin-block-end: 30px;
+  display: inline-block;
+  vertical-align: top;
+}
+.cookware-benifits-column .badges {
+  position: absolute;
+  flex-basis: 100%;
+  top: 0;
+  left: 0;
+}
+span.rating-text{    
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 100%; }
+.ratings-badge {
+  background: #143744;
+  padding: 10px 15px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  margin-left: -20px;
+  margin-top: -30px;
+  font-size: 40px;
+  font-weight: 600;
+  letter-spacing: -0.8px;
+  gap: 10px;
+  line-height: 100%;
+  color: #FCFBF7;
+  max-width: max-content;
+  font-family: var(--font-heading-family);
+}
+.review-badge {
+  background: #728F9A;
+  padding: 10px 15px;
+  border-radius: 10px;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: #FCFBF7;
+  margin-left: 45px;
+  margin-top: -17px;
+  max-width: max-content;
+}
+.cookware-benefits  .main_heading {
+  font-family: Playfair Display;
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 100%;
+  letter-spacing: -2%;
+  color:#04232F;
+  margin-bottom:30px; 
+   }
+@media screen and (max-width: 989px) {
+  .cookware-benefits .main_heading{ font-size:48px; }
+  .cookware-benefits {
+    flex-direction: column;
+    gap: 40px;
+  }
+  .cookware-benefits .title-wrapper {
+    position: relative;
+    top: 0;
+    margin: 0;
+  }
+  .title-wrapper .subtitle {
+    font-size: 24px;
+    max-width: 144px;
+    top: -25px
+  }
+  .shopify-section .cookware-benifits-column .heading {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .cookware-benefits  .button.cta_button{ width:100%; max-width:100%; min-width:100%; }
+
+}
+@media screen and (max-width: 749px) {
+  .benefits-item-wrapper {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-y: auto;
+    gap: 10px;
+  }
+  .benefits-item>div {
+    flex-basis: 100%;
+  }
+  .cookware-benifits-column .benefits-item {
+    display: flex;
+    gap: 32px;
+    align-items: flex-start;
+    line-height: 0;
+    margin-bottom: 0;
+    position: relative;
+    flex-direction: row;
+    flex-wrap: wrap;
+    min-width: 71.3%;
+    max-width: 67%;
+  }
+  .cookware-benifits-column .badges {
+    right: 0;
+    margin: 0 auto;
+    max-width: max-content;
+  }
+  .benefits-item .benefits-content .content-wrapper {
+    padding-left: 0;
+    display: flex;
+    gap: 12px;
+    padding-right: 0;
+  }
+  .benefits-item .benefits-content .content-wrapper p.desc {
+    font-size: 16px;
+    display: -webkit-box;
+    -webkit-line-clamp: 5;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .cookware-benefits .cookware-benifits-column {
+    margin-right: -20px;
+  }
+  .benefits-item .image {
+    aspect-ratio: 13 / 18;
+  }
+  .shopify-section .cookware-benifits-column .heading {
+    font-size: 24px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
