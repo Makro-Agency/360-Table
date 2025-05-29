@@ -213,12 +213,14 @@
         "icon_text_yBNXnD": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/Frame_3.svg",
             "text": "Energy efficiency"
           }
         },
         "icon_text_XgQzQg": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/meal_5.svg",
             "text": "Enhanced flavors"
           }
         }
