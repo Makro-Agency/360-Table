@@ -329,6 +329,7 @@
         "image_NTRckY": {
           "type": "image",
           "settings": {
+            "icon_svg": "shopify://shop_images/Frame_6177_3.svg",
             "title": "Environmental Stewardship",
             "description": "We promise to uphold and expand our eco-friendly practices, minimizing our environmental impact in all aspects of our business."
           }
@@ -336,6 +337,7 @@
         "image_NwRjeE": {
           "type": "image",
           "settings": {
+            "icon_svg": "shopify://shop_images/Frame_6178_3.svg",
             "title": "Continued Innovation",
             "description": "We pledge to continually innovate our products and processes, always seeking ways to improve performance and sustainability."
           }
