@@ -385,6 +385,7 @@
         "image_with_text_YbYCbe": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Image_53.png",
             "title": "Cookware",
             "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/360-cookware",
@@ -394,6 +395,7 @@
         "image_with_text_MqF7KK": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/IMG_2394_1_9978c2d8-b427-4cac-8fc7-7a970ff6e22f.png",
             "title": "Bakeware",
             "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/360-bakeware",
@@ -403,6 +405,7 @@
         "image_with_text_JFAVYi": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Image_54.png",
             "title": "Tools & Accessories",
             "text": "Horem ipsum dolor sit amet, consectetur adipiscing elit.",
             "link": "shopify://collections/accessories",
@@ -412,6 +415,7 @@
         "image_with_text_DgJVkn": {
           "type": "image-with-text",
           "settings": {
+            "image": "shopify://shop_images/Food-0005_3.png",
             "title": "Save on Sets",
             "text": "Nunc vulputate libero et velit interdum, ac aliquet odio mattis.",
             "link": "shopify://collections/sets-1",
