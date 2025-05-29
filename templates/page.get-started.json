@@ -206,6 +206,7 @@
         "icon_text_JXaXgd": {
           "type": "icon-text",
           "settings": {
+            "imageicon": "shopify://shop_images/broccoli_2.svg",
             "text": "Nutrient retention"
           }
         },
