@@ -135,6 +135,7 @@
         "grid_item_EXeFHT": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_15_aa58c865-2484-4ca4-9213-f637123cdc0b_1_1.png",
             "image_alt": "Craftsmanship Detail: Ergonomic Handles",
             "grid_title": "Ergonomic Handles",
             "grid_text": "Carefully designed for comfort and balance, our stay-cool handles make cooking and maneuvering a breeze, even with heavier dishes."
