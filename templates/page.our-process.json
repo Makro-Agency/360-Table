@@ -126,6 +126,7 @@
         "grid_item_RwVTDq": {
           "type": "grid_item",
           "settings": {
+            "image": "shopify://shop_images/Image_14_1.png",
             "image_alt": "Craftsmanship Detail:Vapor® Seal Technology",
             "grid_title": "Vapor® Seal Technology",
             "grid_text": "The precision-fitted lids create a vapor seal, locking in moisture and nutrients for healthier, more flavorful meals."
