@@ -262,6 +262,8 @@
           "type": "image_block",
           "settings": {
             "enable_video_looping": false,
+            "cover_image": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_2.png",
+            "cover_image_mobile": "shopify://shop_images/Image_fd1d78c0-d7b0-4c5b-8f8b-ed2f2f8a74c7_3.png",
             "reviews_image": "shopify://shop_images/Frame_6176_2.png",
             "auther_message": "“I've cooked with this cookware for over 15 years, and it still looks as good as the day I bought it. My husband and I cook all our meals at home, and we are constantly amazed at how easy it is to clean up after even the stickiest of meals.”",
             "auther_image": "shopify://shop_images/photo_middle_age_woman_avatar_7.png",
