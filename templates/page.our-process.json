@@ -180,6 +180,7 @@
         "content_block_m7amTX": {
           "type": "content_block",
           "settings": {
+            "icon_svg": "shopify://shop_images/Frame_6175_11.svg",
             "statement_title": "Heirloom Quality for Generations",
             "statement_text": "Our cookware is built to last a lifetime, reducing waste and providing value that spans generations."
           }
@@ -205,6 +206,7 @@
         "content_block_gEXLem"
       ],
       "settings": {
+        "image": "shopify://shop_images/Frame_6135_1.png",
         "title": "Redefining the American Kitchen: Quality, Health, and Sustainability United"
       }
     },
