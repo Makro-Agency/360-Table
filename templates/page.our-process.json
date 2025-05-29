@@ -317,6 +317,7 @@
         "image_gKw8id": {
           "type": "image",
           "settings": {
+            "icon_svg": "shopify://shop_images/Frame_6175_11_1.svg",
             "title": "Unwavering Quality",
             "description": "We commit to maintaining the highest standards of craftsmanship, ensuring each piece of 360 Cookware is built to last a lifetime."
           }
