@@ -105,6 +105,7 @@
         "text_YPXDMX": {
           "type": "text",
           "settings": {
+            "image": "shopify://shop_images/Frame_23_1_3.png",
             "title": "The Early Show",
             "details": "360 Cookware featured on The Early Show in preparation for the International Housewares Show in Chicago, IL.",
             "link": "https://www.360cookware.com/blogs/press/17076007-the-early-show"
