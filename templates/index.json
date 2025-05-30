@@ -615,6 +615,7 @@
         "bottom_block_xrUDX8": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_11_2.svg",
             "title": "Product Care Guide",
             "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
@@ -624,6 +625,7 @@
         "bottom_block_tYrWFy": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_12.svg",
             "title": "Starting Guides",
             "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
@@ -633,6 +635,7 @@
         "bottom_block_fUtX9T": {
           "type": "bottom-block",
           "settings": {
+            "icon": "shopify://shop_images/Frame_6175_13.svg",
             "title": "Articles & Recipes",
             "des": "<p>Horem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vulputate consectetur libero et velit um interdum, ac aliquet.</p>",
             "btn-text": "Explore Now",
